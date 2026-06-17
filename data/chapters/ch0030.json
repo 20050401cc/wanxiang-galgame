@@ -1,0 +1,1698 @@
+{
+  "id": "ch0030",
+  "index": 30,
+  "title": "第三十章 入境第一杀",
+  "beatCount": 199,
+  "beats": [
+    {
+      "id": "ch0030_b0001",
+      "text": "赤月秘境的风带着血腥味。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0002",
+      "text": "陆沉渊落地不过十息，便已经听见远处传来妖兽低吼，以及金铁交击的声响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0003",
+      "text": "各宗弟子被入口乱流随机分散，落点不同。有的人落在灵药附近，一入境便得机缘；也有人直接坠入妖兽领地，连惨叫都来不及传出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0004",
+      "text": "赤月秘境从不公平。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0005",
+      "text": "但陆沉渊早已习惯。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0006",
+      "text": "他站在青黑巨石上，先没有急着行动，而是观察四周。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0007",
+      "text": "左侧古林枝叶发红，树干上有细密裂纹，像是被火烤过。右侧地势低洼，有水汽升腾，空气里药香更浓。前方则是一条干涸河道，河道尽头有赤雾缓缓流动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0008",
+      "text": "地图残页在袖中微热。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0009",
+      "text": "陆沉渊取出一看，残页上浮现三道路线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0010",
+      "text": "一条最近，直通核心区外缘，但中途标着两处危险红点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0011",
+      "text": "一条绕远，可避开大部分妖兽，却会经过外宗弟子常聚之地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0012",
+      "text": "第三条最奇怪，从低洼水汽处穿过，先入一片灵药坡，再接干涸河道，最终绕至核心区侧门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0013",
+      "text": "陆沉渊没有犹豫，选择第三条。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0014",
+      "text": "万象借势系统奖励的残页，不会只给路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0015",
+      "text": "它更像是在告诉他，什么地方有账可收，什么地方有势可借。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0016",
+      "text": "他刚迈出三步，识海中便响起提示。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0017",
+      "text": "【检测到周边杀意波动。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0018",
+      "text": "【来源：同宗弟子三人，外来标记一处。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0019",
+      "text": "【危险等级：低。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0020",
+      "text": "【建议：引敌入局，完成入境首次清算。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0021",
+      "text": "陆沉渊脚步不停，眼神却冷了半分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0022",
+      "text": "同宗弟子三人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0023",
+      "text": "外来标记一处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0024",
+      "text": "看来秦无极准备得比他想象中还快。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0025",
+      "text": "他沿着低洼地势向前，速度不快不慢，像是完全没有察觉身后动静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0026",
+      "text": "半炷香后，前方出现一片浅坡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0027",
+      "text": "坡上生着十几株赤叶灵草，叶片如火，根须却泛着淡淡银色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0028",
+      "text": "赤银草。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0029",
+      "text": "这东西能温养经脉，对开脉境弟子极有价值。若带回宗门，一株便能换不少贡献点；若当场炼化，也能稳固开脉巅峰的根基。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0030",
+      "text": "陆沉渊停下脚步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0031",
+      "text": "“果然是个好地方。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0032",
+      "text": "他弯腰摘下一株赤银草。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0033",
+      "text": "就在他指尖碰到第二株时，身后林中传来一声轻笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0034",
+      "text": "“陆师兄好眼力，一入境就找到灵药坡。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0035",
+      "text": "三道人影从树后走出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0036",
+      "text": "为首者正是入境前主动示好的赵砚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0037",
+      "text": "他身旁两人，一个叫许放，一个叫周启，都是叶寒旧日身边的人。大比之后，他们没有跳出来替叶寒出头，今日却带着刀来了秘境。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0038",
+      "text": "赵砚脸上仍挂着笑，像是在与陆沉渊闲谈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0039",
+      "text": "“方才我们找了陆师兄许久，没想到陆师兄走得这么快。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0040",
+      "text": "陆沉渊没有回身，继续将赤银草收入储物袋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0041",
+      "text": "“找我有事？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0042",
+      "text": "许放冷笑：“当然有事。陆沉渊，你不会真以为废了叶寒，就能在外门横着走吧？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0043",
+      "text": "周启握紧短刀，眼神阴狠：“叶师兄是败了，可他背后的人还在。你赢得越风光，今天死得就越难看。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0044",
+      "text": "陆沉渊这才转身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0045",
+      "text": "他看了一眼三人，又看了一眼赵砚腰间那枚黑坠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0046",
+      "text": "黑坠上的银纹在秘境赤光下微微发亮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0047",
+      "text": "“秦无极让你们来的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0048",
+      "text": "赵砚笑容一僵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0049",
+      "text": "许放脸色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0050",
+      "text": "周启直接骂道：“少废话！你得罪了不该得罪的人，今日这里就是你的葬身地！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0051",
+      "text": "赵砚抬手止住周启，重新看向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0052",
+      "text": "“陆师兄，其实事情可以简单一点。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0053",
+      "text": "“把昨日得到的地图残页交出来，再自断双手，我们可以给你一个痛快。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0054",
+      "text": "陆沉渊眼神终于有了一丝波动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0055",
+      "text": "“你们知道地图残页？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0056",
+      "text": "赵砚笑道：“看来秦师兄猜得没错。秘境路线也好，系统异象也罢，你这种人拿不稳。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0057",
+      "text": "听到“系统异象”四字，陆沉渊目光微沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0058",
+      "text": "赵砚或许只是顺口用了秦无极给的说辞，但秦无极能猜到地图残页，说明外界或许捕捉到了系统奖励触发时的异象。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0059",
+      "text": "又或者，秦无极背后还有别的眼睛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0060",
+      "text": "这笔账，比预想中更大。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0061",
+      "text": "陆沉渊缓缓道：“你们三个，谁先来？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0062",
+      "text": "许放大笑，“还装？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0063",
+      "text": "话音未落，他脚下一踏，身形猛然冲出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0064",
+      "text": "许放开脉九重，速度不慢，手中短刃直取陆沉渊咽喉。他出手狠辣，显然一开始就没打算留活口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0065",
+      "text": "陆沉渊站在原地不动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0066",
+      "text": "直到短刃逼近三尺，他才侧身一步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0067",
+      "text": "一步，避开锋芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0068",
+      "text": "同时右手探出，扣住许放手腕，反向一折。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0069",
+      "text": "咔嚓！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0070",
+      "text": "骨裂声清脆响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0071",
+      "text": "许放惨叫还未出口，陆沉渊膝撞已至，狠狠顶在他胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0072",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0073",
+      "text": "许放整个人倒飞出去，撞断一株赤叶古树，口中鲜血狂喷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0074",
+      "text": "赵砚和周启脸色骤变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0075",
+      "text": "他们知道陆沉渊击败叶寒，却仍觉得那是擂台之上，占了叶寒轻敌的便宜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0076",
+      "text": "可此刻他们才发现，真正交手时，陆沉渊的出手太干净。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0077",
+      "text": "没有多余动作，没有炫技，没有试探。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0078",
+      "text": "一招废掉一个。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0079",
+      "text": "【检测到敌对目标震惊。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0080",
+      "text": "【震惊值+90】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0081",
+      "text": "周启怒吼一声，从侧面冲来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0082",
+      "text": "他与许放不同，手中短刀带着淡淡赤芒，显然提前淬过妖兽血。刀锋挥动之间，空气里弥漫出腥甜味。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0083",
+      "text": "陆沉渊后退半步，避开第一刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0084",
+      "text": "周启连斩三刀，刀刀追身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0085",
+      "text": "赵砚同时动了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0086",
+      "text": "他没有正面冲上，而是从另一侧取出一枚灰色石珠，猛地捏碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0087",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0088",
+      "text": "一团灰雾炸开，瞬间笼罩灵药坡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0089",
+      "text": "灰雾刺鼻，混着迷神草粉末，能短暂扰乱感知。若换作普通开脉弟子，视线被遮，呼吸一乱，立刻就会被周启斩中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0090",
+      "text": "赵砚冷声道：“杀！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0091",
+      "text": "周启刀势更急。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0092",
+      "text": "灰雾之中，他只看见陆沉渊身影一晃，似乎被逼得后退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0093",
+      "text": "周启眼中闪过喜色，一刀斩向那道影子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0094",
+      "text": "刀锋落下，却只斩碎一片衣角。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0095",
+      "text": "下一瞬，陆沉渊的声音在他耳边响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0096",
+      "text": "“你太吵了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0097",
+      "text": "周启瞳孔猛缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0098",
+      "text": "他还没来得及转身，一只手已经按住他的后颈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0099",
+      "text": "陆沉渊借势下压，膝盖上顶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0100",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0101",
+      "text": "周启面门砸在陆沉渊膝上，鼻梁塌陷，牙齿飞出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0102",
+      "text": "陆沉渊没有停，反手夺刀，刀背横扫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0103",
+      "text": "周启喉骨碎裂，整个人软软倒下，只剩喉咙里发出断续气音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0104",
+      "text": "赵砚的笑容彻底消失。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0105",
+      "text": "灰雾尚未散尽，他已经转身就逃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0106",
+      "text": "他不想打了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0107",
+      "text": "秦无极给他的情报说，陆沉渊只是开脉巅峰，赢叶寒是借了外门大比的势，未必能在秘境中以一敌多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0108",
+      "text": "可现在赵砚明白了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0109",
+      "text": "错得离谱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0110",
+      "text": "陆沉渊不是临场爆发。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0111",
+      "text": "他是一直在算。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0112",
+      "text": "算他们什么时候出手，算他们会用什么手段，甚至算好了他们逃跑的方向。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0113",
+      "text": "赵砚刚冲出灰雾，脚下忽然一紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0114",
+      "text": "一根藤蔓从泥土中弹起，缠住他的脚踝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0115",
+      "text": "那不是普通藤蔓，而是灵药坡边缘的缚骨藤，平日藏在泥下，一旦闻到血腥味便会缠猎活物。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0116",
+      "text": "方才许放喷出的血，正好唤醒了它。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0117",
+      "text": "赵砚低头一看，脸色惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0118",
+      "text": "陆沉渊从灰雾中走出，手里握着周启的短刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0119",
+      "text": "“你刚才说，事情可以简单一点。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0120",
+      "text": "赵砚急忙道：“陆师兄，误会！这都是秦无极逼我们的！我们也是没办法！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0121",
+      "text": "陆沉渊走到他面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0122",
+      "text": "赵砚声音发抖，“我可以给你情报！秦无极不止安排了我们，还有外宗的人！赤云门里有人拿了他的好处，林清雪那边也有人盯着你！只要你放我一命，我全告诉你！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0030_b0123",
+      "text": "陆沉渊看着他，语气平静，“我问，你答。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0124",
+      "text": "赵砚连忙点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0125",
+      "text": "“秦无极为什么知道地图残页？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0126",
+      "text": "赵砚一滞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0127",
+      "text": "陆沉渊刀尖轻轻抵住他的肩头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0128",
+      "text": "赵砚立刻道：“我不知道具体原因！只知道秦师兄说你身上一定有秘境路线。他让我们先试探，若能抢到就带回去；抢不到，就把消息传给赤云门的人。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0129",
+      "text": "“传给谁？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0130",
+      "text": "“赤云门韩烈！就是入境前挑衅你的那个凝脉初期弟子！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0131",
+      "text": "陆沉渊眼神微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0132",
+      "text": "韩烈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0133",
+      "text": "名字记下了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0134",
+      "text": "“林清雪呢？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0030_b0135",
+      "text": "赵砚咽了咽口水，“林清雪没有直接跟秦师兄联手，但她身边有一个人，是秦师兄安排的。秦师兄说，只要你靠近林清雪，就会有人把你引进残阵区。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0030_b0136",
+      "text": "陆沉渊冷笑一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0137",
+      "text": "一个想借同门杀他，一个想借旧情困他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0138",
+      "text": "这盘棋倒是摆得热闹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0139",
+      "text": "“还有吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0140",
+      "text": "赵砚急声道：“有！秦师兄给了我们令牌，说若事成后，凭令牌可以去内门换一枚凝脉丹！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0141",
+      "text": "他说着，颤抖着从怀里取出一枚黑铁令牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0142",
+      "text": "令牌正面刻着一个“秦”字，背面则有银色细纹，与他腰间黑坠一模一样。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0143",
+      "text": "陆沉渊接过令牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0144",
+      "text": "令牌入手微凉，其中残留着一缕强者气机。若遇到秦无极麾下之人，或许能凭此相认。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0145",
+      "text": "赵砚见他收下令牌，眼中闪过一丝希望。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0146",
+      "text": "“陆师兄，我已经都说了，你放我一次。我保证以后再也不与你为敌！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0147",
+      "text": "陆沉渊收起令牌，低头看他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0148",
+      "text": "“你们拦我的时候，有没有想过放我一次？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0149",
+      "text": "赵砚脸色骤白，“陆沉渊！我是同宗弟子！你杀我，宗门不会放过你！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0150",
+      "text": "陆沉渊淡淡道：“赤月秘境里，死于缚骨藤，很常见。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0151",
+      "text": "下一刻，陆沉渊一脚踢在旁边断木上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0152",
+      "text": "断木砸入泥地，惊动更多缚骨藤。数十根暗红藤蔓破土而出，瞬间缠上赵砚四肢。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0153",
+      "text": "惨叫声很快被藤蔓收紧的声音吞没。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0154",
+      "text": "片刻后，灵药坡重新安静下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0155",
+      "text": "陆沉渊没有再看赵砚，而是回到坡上，将剩余赤银草全部采下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0156",
+      "text": "许放还剩一口气，见陆沉渊走近，眼中只剩恐惧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0157",
+      "text": "“别……别杀我……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0158",
+      "text": "陆沉渊将短刀归鞘，语气平淡，“你的账，刚才已经清了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0159",
+      "text": "许放愣住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0160",
+      "text": "下一息，一头被血腥味吸引而来的赤鬃兽从林中窜出，扑向许放。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0161",
+      "text": "惨叫响起，又迅速消失。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0162",
+      "text": "陆沉渊转身离开灵药坡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0163",
+      "text": "他没有亲手杀每一个人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0164",
+      "text": "但这不代表账会少一笔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0165",
+      "text": "识海中，系统提示接连响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0166",
+      "text": "【完成入境首次清算。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0167",
+      "text": "【清算目标：叶寒残党三人，秦无极外围令牌持有者一人。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0168",
+      "text": "【获得震惊值+260】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0169",
+      "text": "【获得显圣值+80】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0170",
+      "text": "【获得因果点+60】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0171",
+      "text": "【检测到宿主获得赤银草十五株、迷神草粉末一份、淬血短刀一柄、秦氏令牌一枚。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0172",
+      "text": "【资源转化功能临时开启。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0173",
+      "text": "【赤银草可自动炼化，转化为经脉温养进度；亦可转化为震惊值。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0174",
+      "text": "【建议：当前宿主处于开脉巅峰，优先自动炼化赤银草，提升凝脉前根基。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0175",
+      "text": "陆沉渊选择自动炼化。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0176",
+      "text": "储物袋中，十五株赤银草顿时化作一缕缕温热药力，顺着系统牵引融入四肢百脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0177",
+      "text": "他的经脉微微发热，原本开脉巅峰处的堵塞感被一点点磨平。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0178",
+      "text": "不是突破。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0179",
+      "text": "却让根基更稳，气息更沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0180",
+      "text": "【赤银草炼化完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0181",
+      "text": "【经脉温养进度提升。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0182",
+      "text": "【开脉巅峰根基稳固度提升。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0183",
+      "text": "【额外转化震惊值+100】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0184",
+      "text": "陆沉渊活动了一下手指，感受着体内流转的力量。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0185",
+      "text": "秘境之内，资源就是命。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0186",
+      "text": "别人杀人夺宝，是为了往上爬；他清账夺势，是为了让所有递刀的人，都变成自己的台阶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0187",
+      "text": "他取出地图残页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0188",
+      "text": "残页上的第三条路线已经亮起，灵药坡的位置被标记为已清算。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0189",
+      "text": "而前方干涸河道尽头，出现了一个新的红点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0190",
+      "text": "红点旁边，有一道细小的银纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0191",
+      "text": "与秦无极令牌上的纹路完全一致。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0192",
+      "text": "陆沉渊低头看向手中的黑铁令牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0193",
+      "text": "令牌背面，那道银纹正在微微发热，像是在回应远处某个同源标记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0194",
+      "text": "这说明秦无极安排的人，不止赵砚这一批。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0195",
+      "text": "更重要的是，他们之间或许有某种联络方式。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0196",
+      "text": "陆沉渊将令牌翻转，眼神冷静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0030_b0197",
+      "text": "“既然你们留了路标。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0198",
+      "text": "他迈步走向干涸河道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0030_b0199",
+      "text": "“那我就顺着路标，一个一个收。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

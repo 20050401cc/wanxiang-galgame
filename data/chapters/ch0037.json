@@ -1,0 +1,1500 @@
+{
+  "id": "ch0037",
+  "index": 37,
+  "title": "第三十七章 赤月核心",
+  "beatCount": 177,
+  "beats": [
+    {
+      "id": "ch0037_b0001",
+      "text": "赤月秘境越往深处，天色越低。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0002",
+      "text": "不是云压下来，而是那轮悬在秘境穹顶上的赤月，像一只缓缓睁开的血眼，将山川林木都照得发暗。陆沉渊踏过第三道焦黑山脊时，脚下碎石忽然渗出猩红光纹，光纹如细蛇游走，顺着他的靴底向上攀爬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0003",
+      "text": "玄烬残剑在背后轻轻一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0004",
+      "text": "嗡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0005",
+      "text": "那震动极轻，却让四周百丈内的赤月光纹同时停顿，像是遇见了旧主，又像是遇见了仇敌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0006",
+      "text": "陆沉渊抬手按住剑柄，眼底没有半分意外。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0007",
+      "text": "“果然。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0008",
+      "text": "上一世，他死在清算将起之前，未曾真正入过赤月核心，只从秦无极夺得秘境造化后流出的只言片语里，拼凑出此地真相。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0009",
+      "text": "赤月秘境表面是机缘，深处却是一口炉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0010",
+      "text": "专烧闯入者的血、脉、命数。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0011",
+      "text": "而玄烬残剑，正是这口炉曾经崩碎时留下的一块炉心碎刃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0012",
+      "text": "现在，剑与禁区互相呼应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0013",
+      "text": "也就是说，他距离真正核心已经不远。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0014",
+      "text": "前方山谷被赤色雾气封死，雾中隐约有钟声传来，一声一声，沉闷如心跳。每响一次，陆沉渊体内刚凝成的脉络便微微发紧，仿佛有无形之手要将他的根基从血肉中剥出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0015",
+      "text": "换成寻常开脉修士，走到这里，心神早已崩乱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0016",
+      "text": "陆沉渊却笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0017",
+      "text": "“想夺我的脉？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0018",
+      "text": "他一步踏出，万象借势系统的光幕在识海展开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0019",
+      "text": "【检测到赤月核心外围杀局。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0020",
+      "text": "【杀局属性：夺脉、噬魂、献祭、伪机缘。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0021",
+      "text": "【可借势目标：玄烬残剑残存剑意、赤月禁区威压、外围闯入者恐惧、秦无极残留因果。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0022",
+      "text": "【建议：以剑意镇脉，以禁区威压反压杀局，可消耗因果点推演核心入口三息破绽。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0023",
+      "text": "陆沉渊眼神一凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0024",
+      "text": "“推演。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0025",
+      "text": "【消耗因果点五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0026",
+      "text": "【破绽已锁定：赤雾第三次回潮时，左前三十七步，地脉断纹。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0027",
+      "text": "钟声第二响落下，赤雾开始翻涌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0028",
+      "text": "第三次回潮的刹那，陆沉渊身形如影，左前踏出三十七步，每一步都踩在血纹将合未合之处。最后一步落地，山谷深处传出一声尖锐裂响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0029",
+      "text": "咔嚓！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0030",
+      "text": "赤雾被他硬生生踩开一道缝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0031",
+      "text": "缝隙之后，不是山谷，而是一座倒悬的赤色宫殿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0032",
+      "text": "宫殿悬在地底空腔之中，穹顶上有一轮更近、更大的赤月虚影。无数锁链从虚影里垂下，缠绕宫殿四角。宫殿中央则有一座石台，石台上堆满灵晶、血玉、古卷、残兵，最上方悬着一颗拳头大小的赤色晶核。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0033",
+      "text": "晶核每跳动一次，整座宫殿都随之明灭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0034",
+      "text": "那便是赤月核心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0035",
+      "text": "也是秘境中最大的机缘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0036",
+      "text": "陆沉渊站在入口处，目光扫过石台，眸色渐冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0037",
+      "text": "机缘是真的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0038",
+      "text": "杀局也是真的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0039",
+      "text": "那些灵晶里封着斑驳血影，血玉内部有未散尽的怨念，古卷上的字迹像是活物，残兵刃口朝外，隐隐指向踏入者的眉心。至于那颗赤月核心，表面纯净无暇，内部却有细密如蛛网的黑线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0040",
+      "text": "谁若伸手去取，便会被核心中的禁制钉住神魂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0041",
+      "text": "前世秦无极能够安然带走，绝非凭自身本事，而是早就有人替他铺好了路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0042",
+      "text": "陆沉渊低声道：“外宗手笔。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0043",
+      "text": "话音刚落，宫殿四周阴影中传来脚步声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0044",
+      "text": "十七道人影缓缓走出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0045",
+      "text": "他们衣袍破碎，眼神空洞，胸口皆有一道赤月烙印。每个人身上的气息都不弱，最低也是开脉后期，其中三人甚至已经踏入凝脉门槛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0046",
+      "text": "但他们已经不是活人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0047",
+      "text": "赤月傀儡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0048",
+      "text": "陆沉渊认出其中两张脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0049",
+      "text": "那是进入秘境前还曾在外围叫嚣的外宗弟子，如今却被炼成傀儡，成为核心杀局的一环。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0050",
+      "text": "十七具傀儡同时抬头，胸口赤月烙印亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0051",
+      "text": "下一瞬，杀机如潮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0052",
+      "text": "最前方一具傀儡双臂化作血刃，脚下炸开赤光，直取陆沉渊咽喉。其余傀儡分列四方，步法竟隐隐合阵，将陆沉渊所有退路封死。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0053",
+      "text": "若他退，身后赤雾会立刻闭合。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0054",
+      "text": "若他进，十七傀儡与宫殿禁制同时发动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0055",
+      "text": "若他取核心，便会被三重杀局吞没。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0056",
+      "text": "这不是考验。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0057",
+      "text": "这是专门留给强闯者的死路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0058",
+      "text": "陆沉渊拔剑半寸，玄烬残剑的黑色剑脊映出赤月光辉，像一截从夜色里掏出的焚骨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0059",
+      "text": "他没有急着斩出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0060",
+      "text": "“系统，借赤月威压。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0061",
+      "text": "【消耗显圣值一千二百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0062",
+      "text": "【借势成功：赤月禁区威压临时加身，持续二十息。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0063",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0064",
+      "text": "陆沉渊周身气息骤然一沉，不是修为暴涨，而是身上多了一种来自禁区深处的压迫感。冲在最前的傀儡动作一滞，胸口烙印竟被反向压得闪烁不定。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0065",
+      "text": "“跪。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0066",
+      "text": "陆沉渊一字落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0067",
+      "text": "那具傀儡双膝狠狠砸在地面，血刃距离他咽喉只剩半尺，却再也无法寸进。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0068",
+      "text": "其余傀儡同时受阻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0069",
+      "text": "但杀局毕竟不是死物，宫殿四角锁链齐震，赤月核心跳动加快，傀儡胸口烙印像被强行灌入力量，压迫感被一点点顶开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0070",
+      "text": "二十息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0071",
+      "text": "他只有二十息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0072",
+      "text": "陆沉渊眼神骤冷，残剑彻底出鞘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0073",
+      "text": "第一剑，斩影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0074",
+      "text": "剑光不亮，反而黑得近乎吞光。跪地傀儡眉心裂开，体内赤月烙印被剑意挑出，像一枚燃烧的血钉，被陆沉渊反手钉入地面断纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0075",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0076",
+      "text": "宫殿阵势一角微偏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0077",
+      "text": "【击破傀儡节点之一。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0078",
+      "text": "【获得震惊值一千一百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0079",
+      "text": "【获得因果点十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0080",
+      "text": "第二剑，断锁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0081",
+      "text": "他身形从傀儡阵中穿过，玄烬残剑擦着一名凝脉门槛傀儡的肩颈掠下，没有斩头，而是斩断对方胸口烙印与宫殿锁链的联系。那傀儡眼中短暂恢复一丝清明，嘴唇颤动，似乎想说什么。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0082",
+      "text": "陆沉渊看见了，却没有迟疑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0083",
+      "text": "“尘归尘。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0084",
+      "text": "剑锋回旋，傀儡心口碎裂，赤月烙印炸成血雾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0085",
+      "text": "第三剑，借势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0086",
+      "text": "赤月威压还剩十四息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0087",
+      "text": "陆沉渊踏上石阶，任由四面傀儡扑杀而来。就在血刃临身时，他左手按住玄烬残剑剑脊，体内脉络齐鸣，残剑中沉睡的凶意被他强行牵出一缕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0088",
+      "text": "“你想回核心，我给你路。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0089",
+      "text": "嗡！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0090",
+      "text": "玄烬残剑似乎听懂了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0091",
+      "text": "黑色剑意化作一道狭长裂隙，直通赤月核心。所有扑向陆沉渊的傀儡，在这一瞬都被剑意牵引，胸口烙印同时扭曲，竟像被无形之力从体内拖出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0092",
+      "text": "傀儡杀阵大乱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0093",
+      "text": "陆沉渊抬剑横扫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0094",
+      "text": "一剑过处，七具傀儡胸口烙印齐碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0095",
+      "text": "宫殿内响起密集爆裂声，血雾翻滚，锁链狂舞，石台上的灵晶与血玉纷纷亮起，像是要提前引爆整座核心宫殿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0096",
+      "text": "陆沉渊目光一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0097",
+      "text": "这些资源不能全毁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0098",
+      "text": "他要清算天命，靠的不是孤勇。震惊值、显圣值、因果点，都是他往后掀翻棋盘的根基。赤月核心里的资源虽然藏毒，却也是真材实料，只要剥去因果污染，便能为他所用。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0099",
+      "text": "“系统，标记可净化资源。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0100",
+      "text": "【扫描中。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0101",
+      "text": "【可直接吸收资源：上品灵晶三百二十枚，赤纹灵玉五十六块，断脉丹残方一卷，赤月髓液七滴。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0102",
+      "text": "【高危资源：血魂玉、无名古卷、黑纹残兵，附带献祭因果。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0103",
+      "text": "【是否消耗显圣值净化部分资源？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0104",
+      "text": "陆沉渊一剑逼退最后几具傀儡，冷声道：“净化能带走的，剩下的留给布局之人自食其果。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0105",
+      "text": "【消耗显圣值两千。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0106",
+      "text": "【净化完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0107",
+      "text": "石台上三分之一资源光泽骤变，猩红褪去，露出纯净灵辉。与此同时，那些高危资源则像被揭开伪装，怨气冲天而起，凝成一张张痛苦人脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0108",
+      "text": "宫殿深处，忽然传来一声冷笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0109",
+      "text": "“能走到这里，倒是让我意外。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0110",
+      "text": "陆沉渊抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0111",
+      "text": "赤月核心后方的石壁亮起，一道身影由光纹凝聚而成。白衣，金冠，眉眼高傲，正是秦无极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0112",
+      "text": "不是真身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0113",
+      "text": "是一道提前留下的显影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0114",
+      "text": "显影居高临下地看着陆沉渊，眼神里带着掌控一切的漠然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0115",
+      "text": "“陆沉渊，你若见到这道影，说明你确实有几分本事。可惜，本事越大，死得越快。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0116",
+      "text": "话音落下，石台四周地面裂开，露出密密麻麻的名字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0117",
+      "text": "那些名字以血刻成，有已经死去的外宗弟子，也有尚未进入核心的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0118",
+      "text": "最中央，赫然留着三个字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0119",
+      "text": "陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0120",
+      "text": "他的名字旁边，还有一道尚未完全写成的血痕，笔画如刀，隐隐要拼出陆镇南的名。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0121",
+      "text": "陆沉渊眼底杀意陡然沉下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0122",
+      "text": "秦无极的显影继续开口：“赤月核心认的是命格，不认人。你若碰它，你的脉、魂、因果都会成为我的垫脚石。你若不碰，外宗杀阵已经合围，所有人都会以为你夺了核心。你逃不出秘境，也洗不清罪名。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0123",
+      "text": "“这一局，从你踏入赤月深处开始，便已经定了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0124",
+      "text": "显影抬手一指，宫殿四角锁链骤然绷直。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0125",
+      "text": "剩余傀儡同时燃烧，化作十七道血色印记，齐齐没入赤月核心。核心上蛛网般的黑线迅速扩散，整座宫殿的出口开始坍缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0126",
+      "text": "陆沉渊看着秦无极的影子，忽然笑了一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0127",
+      "text": "不是怒极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0128",
+      "text": "是轻蔑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0129",
+      "text": "“定了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0130",
+      "text": "他抬手，将净化后的上品灵晶收入储物戒，又取走赤纹灵玉与赤月髓液。动作不急不缓，像是在自家库房清点账册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0131",
+      "text": "秦无极显影眼神一冷：“你还敢取？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0132",
+      "text": "“为什么不敢？”陆沉渊道，“你把资源摆出来，又把杀局铺好，我若不收，岂不是辜负你费心？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0133",
+      "text": "秦无极显影的脸色终于变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0134",
+      "text": "他没想到陆沉渊在这种死局里，第一反应不是逃，不是求生，而是先把能拿的东西拿走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0135",
+      "text": "陆沉渊收完资源，才缓缓抬剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0136",
+      "text": "玄烬残剑上的黑意越发浓烈，赤月核心也随之跳动得更加狂暴。两者之间的呼应不再是简单共鸣，而像两头隔世相逢的凶兽，要么融合，要么互噬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0137",
+      "text": "系统光幕再次展开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0138",
+      "text": "【核心杀局已激活。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0139",
+      "text": "【外部杀阵正在合围。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0140",
+      "text": "【因果锁定：秦无极、外宗执阵者、赤月献祭阵。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0141",
+      "text": "【可选清算路径：一，夺核心，承受献祭反噬；二，毁核心，引发秘境崩塌；三，以玄烬残剑吞核心杂因，保留核心本源，反向锁定布局者。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0142",
+      "text": "陆沉渊看向第三条。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0143",
+      "text": "“代价？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0144",
+      "text": "【需消耗震惊值三万，因果点一百五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0145",
+      "text": "【成功后，玄烬残剑短暂复苏，可开启一次逆命级剑势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0146",
+      "text": "【失败后，宿主将被赤月核心反噬，脉络崩毁。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0147",
+      "text": "赤月宫殿已开始崩塌，外面隐隐传来人声与兵刃声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0148",
+      "text": "那些被秦无极牵引而来的外宗修士，已经到了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0149",
+      "text": "陆沉渊握紧残剑，眸光像寒潭里燃起黑火。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0150",
+      "text": "上一世，他被天命推着走，被人借名、借势、借命，直到最后连父亲陆镇南都被拖入泥潭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0151",
+      "text": "这一世，他不再做被清算的那一个。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0152",
+      "text": "“系统。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0153",
+      "text": "陆沉渊一步踏上石台，剑尖抵住赤月核心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0154",
+      "text": "“开第三条。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0155",
+      "text": "【震惊值扣除三万。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0156",
+      "text": "【因果点扣除一百五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0157",
+      "text": "【万象借势启动。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0158",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0159",
+      "text": "赤月核心中积压无数年的血光冲天而起，整座倒悬宫殿剧烈翻转。秦无极显影终于失去从容，厉声喝道：“你疯了！凭你现在的境界，也敢撬动赤月核心？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0160",
+      "text": "陆沉渊一剑刺入核心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0161",
+      "text": "血光吞没他的身影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0162",
+      "text": "玄烬残剑发出震彻地底的剑鸣，仿佛一段沉睡多年的凶名，被他从灰烬里重新拔出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0163",
+      "text": "宫殿之外，杀阵合拢。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0164",
+      "text": "数十名外宗修士赶到赤雾边缘，看见核心方向血光冲霄，皆面露狂热。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0165",
+      "text": "“核心出世了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0166",
+      "text": "“陆沉渊在里面！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0167",
+      "text": "“秦师兄所料不错，他果然要独吞秘境造化！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0168",
+      "text": "赤雾深处，陆沉渊的衣袍猎猎作响，七窍都有血丝渗出，可他的手依旧稳稳握着剑柄。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0169",
+      "text": "赤月核心上的黑线，一寸寸被玄烬残剑吞噬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0170",
+      "text": "【核心杂因剥离中。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0171",
+      "text": "【献祭因果反向锁定中。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0172",
+      "text": "【玄烬残剑复苏进度：一成，二成，三成……】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0173",
+      "text": "秦无极显影开始扭曲。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0174",
+      "text": "“陆沉渊，你挡不住外面的杀局！核心一破，所有人都会杀你！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0175",
+      "text": "陆沉渊抬眼，血从眼角滑落，他却笑意更深。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0037_b0176",
+      "text": "“那就让他们来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0037_b0177",
+      "text": "“正好，我缺一场显圣。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    }
+  ]
+}

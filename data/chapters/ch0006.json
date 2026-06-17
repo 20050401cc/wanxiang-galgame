@@ -1,0 +1,2157 @@
+{
+  "id": "ch0006",
+  "index": 6,
+  "title": "第六章 药阁账册",
+  "beatCount": 253,
+  "beats": [
+    {
+      "id": "ch0006_b0001",
+      "text": "天刚破晓，陆家药阁门前便围满了人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0002",
+      "text": "昨夜祖祠血案传遍全族，三族老陆明岳被黑钉灭口，陆承远当众拔剑反被祖祠残势震退，已经足够让青岚城陆家上下睡不着。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0003",
+      "text": "而更让众人意外的是，陆沉渊一夜未歇。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0004",
+      "text": "他从祖祠出来后，没有回房疗伤，也没有找族长哭诉，而是带着黑钉编号，直接来了药阁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0005",
+      "text": "药阁建在陆家东院，三层木楼，门前悬着赤铜药鼎。平日这里最冷清，今日却像开了集市。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0006",
+      "text": "陆沉渊站在门外，怀里揣着母亲玉簪与云纹半印，腰间挂着骨镜，神色平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0007",
+      "text": "身后，是白须执事和几名旁支见证人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0008",
+      "text": "陆承远也来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0009",
+      "text": "他脸色比昨夜更沉，身边多了十余名二房族卫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0010",
+      "text": "药阁大门迟迟不开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0011",
+      "text": "半炷香后，里面才传来一道苍老不耐的声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0012",
+      "text": "“吵什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0013",
+      "text": "门开，一名瘦削老者拄杖走出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0014",
+      "text": "药阁长老陆怀庸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0015",
+      "text": "此人掌药阁二十年，族中弟子修行所需丹药、药材、淬体方子，多要经他手。也正因如此，哪怕旁支执事见了他，都要客气三分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0016",
+      "text": "陆怀庸扫了陆沉渊一眼，眼底露出毫不掩饰的轻慢。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0017",
+      "text": "“一个废过脉的小辈，也敢堵药阁门？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0018",
+      "text": "陆沉渊道：“查账，取药。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0019",
+      "text": "陆怀庸冷笑：“查账？药阁账册是族中重地，你凭什么查？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0020",
+      "text": "陆沉渊将黑钉编号亮出：“祖祠血案证物，指向药阁外账丙炉十七号。按族规，我查三日内相关账册。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0021",
+      "text": "陆怀庸看都没看：“黑钉是不是药阁之物，尚未定论。再说，药阁火炉记录繁杂，随便一个编号就想翻账？荒唐。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0022",
+      "text": "陆承远在旁淡淡道：“沉渊堂弟，昨夜你借祖祠残势逞了一时威风，今日可没人让你胡闹。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0023",
+      "text": "陆沉渊没有理他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0024",
+      "text": "他看着陆怀庸：“那我先取药。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0025",
+      "text": "陆怀庸眉头一挑：“你取什么药？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0026",
+      "text": "“主脉嫡系月例，淬体药一副，开脉温养丹三枚。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0027",
+      "text": "周围人顿时低声议论。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0028",
+      "text": "陆沉渊被废多年，月例早被停了。如今他当众来取，等于是把药阁旧账也翻了出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0029",
+      "text": "陆怀庸嗤笑：“你脉象残败，拿药也是浪费。族中资源有限，岂能给无用之人？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0030",
+      "text": "陆沉渊问：“谁定我无用？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0031",
+      "text": "陆怀庸拄杖一顿：“老夫掌药阁，老夫说你无用，你便无用！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0032",
+      "text": "这话太霸道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0033",
+      "text": "可许多族中子弟听了只低头，不敢吭声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0034",
+      "text": "因为他们都被药阁卡过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0035",
+      "text": "丹药晚发，药量不足，药材以次充好。你若不服，下个月便连药渣都没有。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0036",
+      "text": "陆沉渊笑了笑：“好。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0037",
+      "text": "他忽然抬手，一掌拍在药阁门前的石狮上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0038",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0039",
+      "text": "石狮震动，尘土飞扬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0040",
+      "text": "一股青金脉光从他手臂上浮起，沿掌心一闪而没。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0041",
+      "text": "开脉之力！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0042",
+      "text": "不是虚浮的气势，而是实打实的脉力外显。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0043",
+      "text": "围观弟子瞪大眼睛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0044",
+      "text": "“他不是废了吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0045",
+      "text": "“开脉！他重新开脉了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0046",
+      "text": "“那脉光好凝实，至少不是刚入门！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0047",
+      "text": "系统提示跳起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0048",
+      "text": "【药阁围观弟子震惊，震惊值+61】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0049",
+      "text": "【陆怀庸认知动摇，震惊值+20】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0050",
+      "text": "【陆承远压怒，震惊值+15】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0051",
+      "text": "陆沉渊收掌：“现在，还无用吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0052",
+      "text": "陆怀庸脸皮一抽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0053",
+      "text": "他没想到陆沉渊真能恢复脉力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0054",
+      "text": "陆承远眼中阴霾更深。昨夜在祖祠，他就怀疑陆沉渊得了主脉遗物，今日这一掌更像是把他的猜测坐实。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0055",
+      "text": "陆怀庸很快冷哼：“开脉又如何？药阁发药按登记来。你的名册早已冻结，没有族长批令，不能恢复。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0056",
+      "text": "陆沉渊淡淡道：“那就查名册。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0057",
+      "text": "陆怀庸目光一冷：“你听不懂人话？老夫说了，账册不能随便查。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0058",
+      "text": "“那你是承认，药阁账册里有不能见人的东西？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0059",
+      "text": "陆怀庸怒道：“放肆！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0060",
+      "text": "他抬手一挥，两名药阁执事捧出一个木匣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0061",
+      "text": "“既然你非要取药，老夫给你便是。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0062",
+      "text": "木匣打开，里面是一包药材，三枚暗红丹丸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0063",
+      "text": "“拿了就滚，别堵药阁。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0064",
+      "text": "陆沉渊看了一眼，没有接。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0065",
+      "text": "系统光幕瞬间浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0066",
+      "text": "【检测到劣质淬体药包】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0067",
+      "text": "【主药：三年份青筋草，伪作十年份】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0068",
+      "text": "【辅药：赤皮藤霉化，服后易伤脉根】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0069",
+      "text": "【检测到异常丹丸：爆血丹伪装温养丹】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0070",
+      "text": "【效果：短时激发血力，三日后脉络灼裂，轻则跌境，重则废脉】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0071",
+      "text": "陆沉渊眼神骤冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0072",
+      "text": "好一个药阁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0073",
+      "text": "不给药时说资源有限，给药时直接塞毒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0074",
+      "text": "前世他见过爆血丹。此丹在战场上常给死士吞服，能让人在短时间内战力暴涨，可代价是焚血伤脉。对开脉初期修者而言，等同慢性废人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0075",
+      "text": "陆怀庸见他不动，冷笑：“怎么？嫌少？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0076",
+      "text": "陆沉渊伸手拈起一枚丹丸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0077",
+      "text": "“这是温养丹？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0078",
+      "text": "陆怀庸道：“自然。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0079",
+      "text": "“你确定？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0080",
+      "text": "“药阁出丹，岂容你质疑？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0081",
+      "text": "陆沉渊将丹丸举到众人面前：“温养丹色泽淡赤，丹纹柔和，闻之有甘草清香。此丹色深如血，丹纹外翻，腥甜压药香。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0082",
+      "text": "他指尖微微用力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0083",
+      "text": "咔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0084",
+      "text": "丹丸裂开一线，一缕刺鼻血腥味溢出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0085",
+      "text": "周围几名年轻弟子脸色立刻变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0086",
+      "text": "“这味道不对。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0087",
+      "text": "“我上个月领的温养丹也是这种颜色……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0088",
+      "text": "“我吃完后脉络疼了三天，还以为是修行太急。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0089",
+      "text": "陆怀庸脸色一沉：“一派胡言！丹药裂开，自然气味变化。你一个小辈懂什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0090",
+      "text": "陆沉渊淡淡道：“我懂它叫爆血丹。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0091",
+      "text": "三个字落下，药阁门前瞬间炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0092",
+      "text": "爆血丹！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0093",
+      "text": "这东西在青岚城并非没人听过。那是下作丹，外城黑市才有，正经家族绝不会给弟子服用。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0094",
+      "text": "陆怀庸怒喝：“污蔑药阁，罪加一等！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0095",
+      "text": "他掌中拐杖猛地刺出，直点陆沉渊手腕，想把丹丸震碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0096",
+      "text": "陆沉渊早有防备，侧身避开，另一手探出，扣住陆怀庸杖尾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0097",
+      "text": "开脉之力从掌心爆开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0098",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0099",
+      "text": "陆怀庸的拐杖被震偏，重重砸在地面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0100",
+      "text": "众人惊呼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0101",
+      "text": "陆怀庸虽年老，却是开脉多年，陆沉渊竟能挡他一击？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0102",
+      "text": "陆沉渊趁势将裂开的丹丸抛给白须执事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0103",
+      "text": "“请验。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0104",
+      "text": "白须执事接过，先闻，再以银针探入丹心。银针很快泛起赤黑色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0105",
+      "text": "他脸色大变：“确有爆血丹药性。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0106",
+      "text": "药阁门前一片死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0107",
+      "text": "陆怀庸眼皮狂跳：“这……这只是药性相近！温养丹若火候重，也会有赤血反应！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0108",
+      "text": "陆沉渊笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0109",
+      "text": "“火候重？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0110",
+      "text": "他转身走到药材包前，将其中几味药材一一挑出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0111",
+      "text": "“三年份青筋草，根节三圈，你按十年份入账。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0112",
+      "text": "“赤皮藤霉斑被药粉盖过，说明早已受潮。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0113",
+      "text": "“寒砂少了一半，换成了碎石粉。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0114",
+      "text": "他每说一句，陆怀庸脸色就难看一分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0115",
+      "text": "陆沉渊最后拿起一小撮黑灰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0116",
+      "text": "“还有这个。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0117",
+      "text": "“丙炉药蚀灰。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0118",
+      "text": "陆怀庸瞳孔猛缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0119",
+      "text": "陆沉渊把黑灰洒在黑钉旁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0120",
+      "text": "两者接触，立刻发出细微嗤声，冒出同样的腥甜气味。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0121",
+      "text": "“黑钉用药阁丙炉温养过，爆血丹也用丙炉火尾催过。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0122",
+      "text": "“陆长老，你要不要继续说，这是巧合？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0123",
+      "text": "陆怀庸额头渗出汗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0124",
+      "text": "陆承远冷冷开口：“陆沉渊，你查药就查药，别把祖祠血案硬扯到药阁。药材劣质，最多是下面人失职。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0125",
+      "text": "“失职？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0126",
+      "text": "陆沉渊看向他：“三族老被黑钉灭口，是失职。主脉月例被停，是失职。温养丹换爆血丹，也是失职。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0127",
+      "text": "他一步上前，声音骤然拔高。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0128",
+      "text": "“陆家这些年，到底有多少失职？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0129",
+      "text": "这句话像雷一样砸在人群里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0130",
+      "text": "那些被药阁克扣过的旁支弟子，眼神渐渐变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0131",
+      "text": "平日没人敢说。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0132",
+      "text": "今日有人把药阁脸皮撕开，他们心里的怨气便再也压不住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0133",
+      "text": "“我去年领的淬体药也少了主药！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0134",
+      "text": "“我弟弟吃了药阁丹丸，脉络疼得下不了床。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0135",
+      "text": "“二房弟子的丹药从来足量，凭什么我们都是残药？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0136",
+      "text": "陆怀庸怒吼：“闭嘴！谁敢乱言，今后药阁不再供药！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0137",
+      "text": "话音刚落，陆沉渊抬手一巴掌抽在药阁门柱上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0138",
+      "text": "啪！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0139",
+      "text": "门柱外层木皮裂开，里面竟露出一块暗格。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0140",
+      "text": "暗格内，放着一本薄账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0141",
+      "text": "陆怀庸脸色瞬间惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0142",
+      "text": "陆沉渊冷笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0143",
+      "text": "系统鉴定早已标出暗格。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0144",
+      "text": "【检测到隐藏账册：药阁外账副册】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0145",
+      "text": "【关联：丙炉十七号、爆血丹、主脉产业药材转卖】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0146",
+      "text": "陆沉渊取出薄账，翻开第一页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0147",
+      "text": "“丙炉，十七号，寒铁药蚀钉一枚，领用人：空。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0148",
+      "text": "“爆血丹二十七枚，改记温养丹，去向：旁支月例、主脉冻结名册。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0149",
+      "text": "“青筋草十年份入账，三年份出库，差额折银，送二房库。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0150",
+      "text": "他念到这里，所有人脸色都变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0151",
+      "text": "二房库！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0152",
+      "text": "陆承远终于绷不住：“闭嘴！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0153",
+      "text": "他抬手便抓向账册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0154",
+      "text": "陆沉渊没有躲，反而把账册往前一送。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0155",
+      "text": "“抢。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0156",
+      "text": "“当着这么多人的面抢。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0157",
+      "text": "陆承远手停在半空。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0158",
+      "text": "白须执事上前一步，沉声道：“承远少爷，此账须封存。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0159",
+      "text": "旁支老者也拦住去路：“祖祠血案未明，谁动账册，谁便是嫌疑。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0160",
+      "text": "陆承远眼中杀意翻滚，却只能硬生生收手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0161",
+      "text": "陆沉渊继续翻账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0162",
+      "text": "越翻，药阁门前越安静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0163",
+      "text": "账册里不只有丹药，还有产业。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0164",
+      "text": "陆镇南当年留下的三处药田、一座寒泉药坊、两条药材商路，本该归主脉名下，供陆沉渊修行与生活。可账册记录显示，自陆镇南失踪后，这些产业被“代管”。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0165",
+      "text": "代管人，二房。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0166",
+      "text": "收益入账，二房库。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0167",
+      "text": "主脉名册，冻结。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0168",
+      "text": "陆沉渊指尖停在其中一页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0169",
+      "text": "“父亲的寒泉药坊，每月产淬体液三十坛。账面写损耗二十九坛，剩一坛入族库。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0170",
+      "text": "他看向陆怀庸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0171",
+      "text": "“陆长老，寒泉药坊是被天雷劈了，还是被你喝干了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0172",
+      "text": "人群中有人忍不住笑出声，随即又被账册内容惊得笑不出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0173",
+      "text": "三十坛损耗二十九坛？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0174",
+      "text": "这不是贪，这是把主脉产业当自家库房搬空。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0175",
+      "text": "陆怀庸嘴唇发抖：“老夫……老夫只是按二房管事送来的条子记账，产业调拨不是药阁一处能定。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0176",
+      "text": "陆承远脸色阴沉如水：“陆怀庸！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0177",
+      "text": "陆怀庸听出警告，身子一颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0178",
+      "text": "陆沉渊却笑道：“别急着互咬。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0179",
+      "text": "他把账册交给白须执事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0180",
+      "text": "“封账。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0181",
+      "text": "白须执事郑重点头，将账册收入封袋，当众盖下执事印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0182",
+      "text": "陆沉渊又指向木匣：“药，也要重发。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0183",
+      "text": "陆怀庸咬牙：“药阁今日盘库，暂不能发。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0184",
+      "text": "陆沉渊淡淡道：“那就开库。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0185",
+      "text": "“你敢！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0186",
+      "text": "“我为什么不敢？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0187",
+      "text": "陆沉渊目光扫过药阁众弟子：“祖祠血案证物出自药阁，爆血丹伪装温养丹，主脉产业被吞，外账副册藏在门柱里。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0188",
+      "text": "“现在药阁库房不开，是想继续藏什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0189",
+      "text": "群情再起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0190",
+      "text": "“开库！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0191",
+      "text": "“对，开库！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0192",
+      "text": "“我们也要查自己的月例！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0193",
+      "text": "陆怀庸被逼得连退两步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0194",
+      "text": "陆承远知道局面不能再扩大，沉声道：“开一格库，给他药。其余等族会再议。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0195",
+      "text": "陆沉渊看他一眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0196",
+      "text": "这就是退让。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0197",
+      "text": "也是止损。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0198",
+      "text": "他没有逼到最后。现在他的境界还不够，真把二房当场逼疯，未必能全身而退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0199",
+      "text": "爽文不是莽，借势要知道势到哪里为止。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0200",
+      "text": "陆怀庸黑着脸命人开库，重新取出一副完整淬体药，三枚真正的温养丹，又加上一瓶寒泉淬体液。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0201",
+      "text": "陆沉渊逐一验过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0202",
+      "text": "系统提示确认无误。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0203",
+      "text": "【淬体药完整】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0204",
+      "text": "【温养丹品质：中等】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0205",
+      "text": "【寒泉淬体液：可辅助开脉温养】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0206",
+      "text": "他收下药材，却没有立刻走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0207",
+      "text": "“还有一件事。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0208",
+      "text": "陆怀庸几乎咬碎牙：“你还想怎样？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0209",
+      "text": "陆沉渊指着门前众人：“认账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0210",
+      "text": "“什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0211",
+      "text": "“当众承认，药阁给我的药有问题，外账副册为真，主脉月例今日恢复。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0212",
+      "text": "陆怀庸脸色涨紫：“陆沉渊，你别太过分！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0213",
+      "text": "陆沉渊拿起那枚裂开的爆血丹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0214",
+      "text": "“那我现在把它送去青岚城丹师会，请外人验。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0215",
+      "text": "陆怀庸瞬间僵住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0216",
+      "text": "家丑在族内，还能压。若送到丹师会，陆家药阁用爆血丹冒充温养丹的事传出去，陆家在青岚城的脸就彻底没了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0217",
+      "text": "白须执事也沉声道：“怀庸，认。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0218",
+      "text": "陆怀庸看向陆承远。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0219",
+      "text": "陆承远沉默片刻，冷冷道：“药阁自查，先认今日之误。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0220",
+      "text": "这是弃车保帅。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0221",
+      "text": "陆怀庸眼中闪过怨毒，却只能低头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0222",
+      "text": "“药阁今日发给陆沉渊的药……确有误。”",
+      "kind": "dialogue",
+      "speaker": "陆承远",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0223",
+      "text": "“外账副册……暂封待查。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0224",
+      "text": "“主脉月例……即日起恢复。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0225",
+      "text": "声音不大，却足够门前众人听清。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0226",
+      "text": "系统提示接连跳动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0227",
+      "text": "【药阁长老低头，显圣值+20】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0228",
+      "text": "【旁支弟子震动，震惊值+88】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0229",
+      "text": "【主脉旧势回流，因果点+1】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0230",
+      "text": "【当前震惊值：478，显圣值：35，因果点：2】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0231",
+      "text": "陆沉渊心中微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0232",
+      "text": "因果点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0233",
+      "text": "这东西比震惊值和显圣值更少见，看来只有真正撬动主线因果时才会增加。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0234",
+      "text": "他收好药，转身欲走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0235",
+      "text": "陆承远却在此时开口：“沉渊堂弟，闹也闹够了。今晚家宴，族长会亲自问此事。到时你最好把话说清楚。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0236",
+      "text": "家宴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0237",
+      "text": "陆沉渊脚步一顿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0238",
+      "text": "他忽然想起寒鸦岭“沈墓”地图，又想起母亲遗物上的云纹半印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "burial_emperor_plain",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0239",
+      "text": "沈墓，母亲，父亲血脉印，二房库，家宴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "burial_emperor_plain",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0240",
+      "text": "这些线索像被一只看不见的手牵在一起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "burial_emperor_plain",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0241",
+      "text": "陆沉渊回头看向陆承远，笑意淡淡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0242",
+      "text": "“放心。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0243",
+      "text": "“今晚，我会说得很清楚。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0244",
+      "text": "就在他转身离开时，骨镜忽然微微发烫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0245",
+      "text": "镜面上浮出一行残字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0246",
+      "text": "【外账未尽】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0247",
+      "text": "【二房库房，家宴前，有人将转移主脉旧物】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0248",
+      "text": "陆沉渊眼神一凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0006_b0249",
+      "text": "下一刻，药阁封存的账册中，夹层自行裂开一角。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0250",
+      "text": "里面露出半张暗红请帖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0251",
+      "text": "请帖上写着两个字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0252",
+      "text": "家宴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0006_b0253",
+      "text": "而请帖背面，赫然盖着与母亲云纹半印相合的另一半印痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    }
+  ]
+}

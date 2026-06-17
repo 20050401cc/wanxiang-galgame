@@ -1,0 +1,1483 @@
+{
+  "id": "ch0013",
+  "index": 13,
+  "title": "第十三章 黑市废矿",
+  "beatCount": 171,
+  "beats": [
+    {
+      "id": "ch0013_b0001",
+      "text": "三日之期未到，陆沉渊先出了陆家。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0002",
+      "text": "他没有走正门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0003",
+      "text": "清晨雾重，青岚城外的寒意贴着街角爬行，陆家后巷一辆灰篷马车缓缓驶出，车帘低垂，车轮碾过青石板，没有惊动任何人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0004",
+      "text": "车中，陆沉渊换了一身寻常青衫，腰间只挂一块旧木牌，脸上覆着半张黑铁面具。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0005",
+      "text": "他手指摩挲着掌心的云纹半印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0006",
+      "text": "两枚半印合一后，印面不再是单纯的云纹，而像一枚沉在血色薄雾中的古老债契。每当陆沉渊运转开脉之力，印中便会浮出一缕冰冷气息，指向城西北的寒鸦岭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0007",
+      "text": "那里，是前世他极少踏足的地方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0008",
+      "text": "也是青岚城黑市最喜欢埋脏东西的地方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0009",
+      "text": "“少主，真不用我跟着？”车外，陆家一名老仆压低声音问。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0010",
+      "text": "陆沉渊淡淡道：“回去守着我父亲。陆镇南现在不能再出任何差错。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0011",
+      "text": "老仆沉默片刻，点头退去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0012",
+      "text": "马车一路绕过主街，穿进青岚城西市。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0013",
+      "text": "白日的西市人声鼎沸，卖灵草的、卖旧兵器的、卖妖兽皮骨的摊子挤在一起，空气里混着药味、汗味和血腥味。可真正懂门道的人都知道，西市明面上卖的是寻常货，地下才是青岚城最肮脏、也最有价值的地方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0014",
+      "text": "陆沉渊下车后，没有停留，径直走到一间破旧当铺前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0015",
+      "text": "当铺门口挂着一块歪斜木匾，上书“万利典当”。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0016",
+      "text": "他敲了三下门，又停一息，再敲两下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0017",
+      "text": "门内传来沙哑声音：“白日不开夜门，客人走错了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0018",
+      "text": "陆沉渊取出一枚铜钱，指尖一弹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0019",
+      "text": "铜钱穿过门缝，落地时竟然没有发出声响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0020",
+      "text": "片刻后，门开了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0021",
+      "text": "一个瘦削伙计探出头，扫过陆沉渊的黑铁面具，眼神微变：“贵客请。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0022",
+      "text": "入门之后，是一间堆满破铜烂铁的铺子。伙计领着陆沉渊穿过后堂，又下了两层暗梯，眼前豁然一亮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0023",
+      "text": "地下街灯火通明。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0024",
+      "text": "黑布遮面的买家在石道间来往，摊位上摆着染血的功法残页、断裂的妖骨、来路不明的储物袋，甚至还有被锁链捆住的开脉妖兽幼崽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0025",
+      "text": "青岚城黑市。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0026",
+      "text": "陆沉渊前世在这里摔过跟头，也在这里捡过别人看不懂的便宜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0027",
+      "text": "这一世，他是来拿回第一笔账的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0028",
+      "text": "“贵客要什么？”伙计笑道，“功法、丹药、兵器，还是消息？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0029",
+      "text": "陆沉渊声音压得低沉：“地契。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0030",
+      "text": "伙计一怔：“地契？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0031",
+      "text": "他见过来黑市买命的、买毒的、买假身份的，来买地契的还真不多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0032",
+      "text": "“寒鸦岭一带，废矿、荒山、旧洞，凡是无人接手的，都拿来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0033",
+      "text": "伙计眼神顿时变得古怪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0034",
+      "text": "寒鸦岭？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0035",
+      "text": "那地方阴气重，死过不少矿奴，后来又传出妖物吃人的事。近几年，几座矿脉被挖空，剩下的废矿连石渣都卖不上价，只能堆在黑市名册里吃灰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0036",
+      "text": "这人蒙着面，语气倒大，结果开口就要废物。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0037",
+      "text": "“贵客稍等。”伙计不敢怠慢，还是去请了掌柜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0038",
+      "text": "不多时，一个胖掌柜捧着账册走来，笑得满脸油光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0039",
+      "text": "“听说客人想买寒鸦岭的废矿？”胖掌柜把“废”字咬得格外重，“那地方可不吉利，买回去修坟都嫌晦气。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0040",
+      "text": "陆沉渊坐下：“开价。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0041",
+      "text": "胖掌柜翻开账册，故意慢吞吞地说：“寒鸦岭东坡三号矿，废弃二十年。北沟七号矿，塌过两次，死了四十七个矿奴。西岭鸦口矿，倒是占地大些，可里头毒瘴重，连野狗都不进去。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0042",
+      "text": "他说完，眯眼看陆沉渊：“贵客真要？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0043",
+      "text": "陆沉渊抬眸：“鸦口矿。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0044",
+      "text": "胖掌柜一愣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0045",
+      "text": "他本是随口把最烂的一处丢出来，没想到陆沉渊真点了它。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0046",
+      "text": "周围几名黑市客人也听见了，顿时低笑起来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0047",
+      "text": "“鸦口矿？那不是挂了五年都没人要的赔钱货？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0048",
+      "text": "“去年有人想进去捡漏，才走到半洞就被毒瘴熏成了黑脸，抬出来没半个时辰就断气。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0049",
+      "text": "“这年头还有人主动买棺材坑，稀奇。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0050",
+      "text": "胖掌柜笑意更深：“贵客眼光独到。鸦口矿地契完整，连着周围三十亩荒地，只是价钱嘛……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0051",
+      "text": "陆沉渊取出一个钱袋，丢在桌上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0052",
+      "text": "袋口散开，露出十枚下品灵玉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0053",
+      "text": "胖掌柜眼睛一亮，又强压贪色：“这可不够。黑市规矩，来路干净的地契，比明面官契还稳。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0054",
+      "text": "陆沉渊又放下一瓶开脉丹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0055",
+      "text": "瓶塞未开，丹香已溢。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0056",
+      "text": "胖掌柜脸上的笑僵了一下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0057",
+      "text": "开脉丹在青岚城不算顶尖，却是硬通货。尤其陆家、林家这些家族子弟开脉时最耗此物，普通散修攒半年也未必能买上一瓶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0058",
+      "text": "拿开脉丹买废矿？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0059",
+      "text": "周围的讥笑声更响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0060",
+      "text": "“败家子啊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0061",
+      "text": "“怕不是哪个家族里出来的傻少爷，被人骗了还替人数钱。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0062",
+      "text": "角落里，一名灰衣汉子垂着头喝茶，眼角却悄然扫向陆沉渊腰间。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0063",
+      "text": "另一个卖兽骨的小摊后，戴斗笠的中年人缓缓转身，指尖在袖中捻碎一枚传讯符。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0064",
+      "text": "陆沉渊没有看他们。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0065",
+      "text": "但在他眼中，地下街上的气息早已分出明暗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0066",
+      "text": "【因果眼开启】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0067",
+      "text": "【目标一：林家暗探，身负林家外堂暗令，目的：探查陆沉渊出城动向】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0068",
+      "text": "【目标二：陆承远残余死士，目的：确认少主身边守卫虚实，伺机截杀】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0069",
+      "text": "【目标三：黑市掌柜，贪念浮动，杀意不足，可借势压价】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0070",
+      "text": "陆沉渊唇角微不可察地扬了扬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0071",
+      "text": "来得正好。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0072",
+      "text": "他今天买矿，不怕别人知道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0073",
+      "text": "他怕的是别人不知道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0074",
+      "text": "胖掌柜合上账册，故作为难：“贵客，这鸦口矿虽旧，但毕竟占着寒鸦岭外道口，万一哪天又有人发现矿脉……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0075",
+      "text": "话未说完，陆沉渊指尖轻轻点在桌面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0076",
+      "text": "一缕凝而不散的气劲透入木桌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0077",
+      "text": "咔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0078",
+      "text": "厚重桌板裂开一道细纹，裂痕刚好停在胖掌柜手边，未伤他半分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0079",
+      "text": "胖掌柜背后瞬间冒出冷汗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0080",
+      "text": "这一手对力道的掌控，绝不是寻常开脉子弟能做到的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0081",
+      "text": "陆沉渊声音平静：“废矿就是废矿。你若真觉得能翻身，黑市不会挂五年。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0082",
+      "text": "胖掌柜干笑：“贵客说的是。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0083",
+      "text": "陆沉渊又取出一枚黑色木符，放在账册上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0084",
+      "text": "胖掌柜看见木符，瞳孔一缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0085",
+      "text": "那是黑市贵客符，前世陆沉渊从一名死去散修身上得来的东西。这一世，那散修尚未死，但这枚符的来历，陆沉渊早已提前截下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0086",
+      "text": "“现在，够了吗？”陆沉渊问。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0087",
+      "text": "胖掌柜脸上的贪婪终于收敛，换成谨慎：“够。自然够。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0088",
+      "text": "他很快取出一只铜盒，盒中放着泛黄地契、矿道图、旧矿工名册，以及一块鸦口矿的铁制令牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0089",
+      "text": "陆沉渊拿起矿道图，目光落在最深处一块被墨迹涂黑的区域。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0090",
+      "text": "旁人看不出什么，只以为那是旧图受潮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0091",
+      "text": "可陆沉渊知道，那里前世曾塌开一条暗缝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0092",
+      "text": "那条暗缝之后，有一处不该出现在青岚城边境的地下骨窟。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0093",
+      "text": "前世林家借青岚宗之力封锁寒鸦岭，半年后林清雪修为突飞猛进，一举踏入凝脉，并被青岚宗外门长老破格收为亲传。外人只道她天资惊人，唯独陆沉渊在临死前听过一句醉话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0013_b0094",
+      "text": "“鸦口矿底，埋着一口白骨泉。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0095",
+      "text": "当时他不懂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0096",
+      "text": "现在，万象借势系统已经给出了答案。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0097",
+      "text": "陆沉渊掌心按在矿图上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0098",
+      "text": "【鉴宝判定：残缺矿图】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0099",
+      "text": "【表层价值：废弃矿洞路线记录】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0100",
+      "text": "【隐藏因果：矿脉枯竭是假，地脉转沉是真。深层灵性被骨相封存，触发条件未知】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0101",
+      "text": "【提示：可消耗因果点进行进一步推演】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0102",
+      "text": "陆沉渊没有立刻推演。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0103",
+      "text": "他现在的因果点不多，每一点都要用在刀刃上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0104",
+      "text": "更重要的是，有些东西不能太早掀开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0105",
+      "text": "玄骨灵髓若真在此处，凭他现在开脉境的修为，硬取只会引来反噬。前世林家和青岚宗合谋，也用了数月布置，才让林清雪吃到第一口红利。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0013_b0106",
+      "text": "陆沉渊要做的不是莽撞挖宝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0107",
+      "text": "而是让所有人都以为，他买了一座废矿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0108",
+      "text": "越多人笑，越多人轻视，这座矿就越安全。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0109",
+      "text": "胖掌柜将地契推来：“贵客按个手印，鸦口矿从今日起便归你所有。黑市只保契，不保命。寒鸦岭那地方出了事，别找我们。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0110",
+      "text": "陆沉渊割破指尖，按下血印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0111",
+      "text": "血落地契的瞬间，天命债印忽然在袖中微微发热。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0112",
+      "text": "陆沉渊眼底一凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0113",
+      "text": "契约成了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0114",
+      "text": "那股指向寒鸦岭的冷意，也变得更清晰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0115",
+      "text": "像有一条看不见的线，从地契延伸到母亲失踪的旧账，再牵向林家、青岚宗，以及某个藏在幕后的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0116",
+      "text": "【任务发布：废矿收债】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0117",
+      "text": "【任务内容：占据鸦口矿，守住三日，查明矿底债源】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0118",
+      "text": "【任务奖励：显圣值、因果点，视完成度追加未知奖励】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0119",
+      "text": "【失败惩罚：天命债印反噬加深】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0120",
+      "text": "陆沉渊收起地契。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0121",
+      "text": "胖掌柜忍不住问：“贵客买这废矿，莫非真知道什么门道？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0122",
+      "text": "陆沉渊看了他一眼：“知道。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0123",
+      "text": "胖掌柜呼吸一滞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0124",
+      "text": "周围偷听之人也竖起耳朵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0125",
+      "text": "陆沉渊淡淡道：“知道它够便宜。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0126",
+      "text": "一片哄笑顿时炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0127",
+      "text": "胖掌柜脸色青一阵白一阵，最后也跟着笑：“贵客真会说笑。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0128",
+      "text": "陆沉渊起身离开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0129",
+      "text": "他走过地下街时，林家暗探跟了半步，又立刻停住。陆承远残余死士则低头饮尽茶水，把铜钱压在碗下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0130",
+      "text": "陆沉渊没有回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0131",
+      "text": "出了黑市，当铺后门外已停着一辆租来的旧马车。陆沉渊上车后，车夫问：“客人去哪？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0132",
+      "text": "“寒鸦岭，鸦口矿。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0133",
+      "text": "车夫手一抖：“那地方夜里不能去。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0134",
+      "text": "陆沉渊道：“加钱。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0135",
+      "text": "车夫咬牙：“得先说好，我只送到岭外三里。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0136",
+      "text": "“可以。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0137",
+      "text": "马车驶出青岚城。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0138",
+      "text": "城楼之上，一名林家暗探望着远去车影，迅速将消息写入纸卷，绑在灰鸽腿上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0139",
+      "text": "另一处巷中，陆承远残余死士摘下面罩，露出半张被火烧伤的脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0140",
+      "text": "“他身边没人。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0141",
+      "text": "有人低声问：“杀？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0142",
+      "text": "烧伤死士冷笑：“不急。等他入了废矿，叫天天不应，叫地地不灵。二房那边的人已经忍了太久，林家也不会让他活着去查寒鸦岭。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0143",
+      "text": "“可他毕竟是陆家少主。”",
+      "kind": "dialogue",
+      "speaker": "陆承远",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0144",
+      "text": "“少主？”烧伤死士眼中恨意翻涌，“陆承远倒了，我们这些人还能回头吗？陆沉渊不死，二房永无翻身之日。”",
+      "kind": "dialogue",
+      "speaker": "陆承远",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0145",
+      "text": "寒鸦岭外，风声渐冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0146",
+      "text": "陆沉渊坐在车中，闭目养神。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0147",
+      "text": "系统面板浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0148",
+      "text": "【震惊值：可用】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0149",
+      "text": "【显圣值：少量】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0150",
+      "text": "【因果点：三点】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0151",
+      "text": "他没有兑换丹药，也没有强化功法，只点开了“地势借用”一栏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0152",
+      "text": "鸦口矿的简图在他识海中缓缓亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0153",
+      "text": "塌方处、旧支柱、毒瘴口、地下暗河、废弃矿车道，一处处被标注出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0154",
+      "text": "其中最深处那片墨黑区域，仍像被一层雾遮住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0155",
+      "text": "陆沉渊睁开眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0156",
+      "text": "前世林家以为寒鸦岭是他们的机缘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0157",
+      "text": "这一世，他会让所有觊觎此地的人明白，机缘也会认主。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0158",
+      "text": "黄昏时，马车停在岭外。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0159",
+      "text": "远处一座黑沉沉的山口张开，如乌鸦断喙，吞吐着冷雾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0160",
+      "text": "鸦口矿到了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0161",
+      "text": "陆沉渊下车，将一枚银锭丢给车夫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0162",
+      "text": "车夫接过银锭，连一句客套都不敢说，调头就跑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0163",
+      "text": "陆沉渊独自站在矿口前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0164",
+      "text": "破旧木牌斜插在石缝里，上面依稀可见“鸦口”二字。矿洞里传来滴水声，像某种沉睡多年的东西正在缓慢呼吸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0165",
+      "text": "他取出铁令，按在矿口石槽上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0166",
+      "text": "咔嚓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0167",
+      "text": "锈死的旧门机关竟然动了一下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0168",
+      "text": "一股阴冷气息从矿洞深处扑面而来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0169",
+      "text": "同时，天命债印滚烫如火。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0013_b0170",
+      "text": "陆沉渊低声道：“娘，当年欠你的账，我来收第一笔。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0013_b0171",
+      "text": "黑暗深处，似有白光一闪即逝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

@@ -1,0 +1,2084 @@
+{
+  "id": "ch0018",
+  "index": 18,
+  "title": "第十八章 入门三关",
+  "beatCount": 245,
+  "beats": [
+    {
+      "id": "ch0018_b0001",
+      "text": "山门古钟响过之后，陆沉渊的名字便像风一样传遍了青岚宗外门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0002",
+      "text": "禁忌异常。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0003",
+      "text": "没有人知道这四个字究竟意味着什么，却没人再敢把它当成笑话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0004",
+      "text": "赵岳被迫核验了报名玉牌，脸色难看到极点。他本想借山门威压阵让陆沉渊滚下山去，却没想到亲手把他推到了所有人眼前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0005",
+      "text": "入门考核广场设在山门之后。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0006",
+      "text": "青石铺地，四方立柱，数百名少年按序站立。高台上，几名青岚宗长老端坐，外门执事分列两侧。赵岳站在角落，低头不语，却时不时用怨毒目光扫向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0007",
+      "text": "陆沉渊只当没看见。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0008",
+      "text": "他更在意高台右侧的一道目光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0009",
+      "text": "那里坐着一名白衣少女，面容清冷，眉眼间带着世家养出的骄矜。林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0010",
+      "text": "她没有说话，只是看着陆沉渊，眼神复杂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0011",
+      "text": "在她身后，一名内门弟子低声道：“林师妹，叶寒师兄说了，今日考核若那人只是侥幸过阵，不必理会。若真有些能耐，便记录下来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0012",
+      "text": "林清雪指尖微紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0013",
+      "text": "她曾经以为陆沉渊这一生都不可能再站到她面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0014",
+      "text": "可山门石碑那四个字，让她心底第一次生出不安。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0015",
+      "text": "广场中央，一名长老起身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0016",
+      "text": "“入门考核，共三关。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0017",
+      "text": "“第一关，灵根脉象。测根基，验潜力。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0018",
+      "text": "“第二关，战力。以同境傀儡为试，按时限与击破程度排名。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0019",
+      "text": "“第三关，心魔。入幻阵，观心性。心志崩溃者，直接淘汰。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0020",
+      "text": "长老声音落下，全场肃然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0021",
+      "text": "一块巨大的测脉石被推到广场中央。石体通透，内有七道灵纹，报名者只需将手放上去，灵纹便会显示脉象强弱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0022",
+      "text": "第一名少年上前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0023",
+      "text": "“三纹，开脉中期，合格。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0024",
+      "text": "第二人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0025",
+      "text": "“四纹，开脉后期，良。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0026",
+      "text": "第三人是某城世家公子，测脉石亮起五道灵纹，引来一片惊叹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0027",
+      "text": "“五纹，凝脉初期，优。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0028",
+      "text": "那世家公子扬起下巴，目光扫过众人，最后落到陆沉渊身上，带着挑衅。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0029",
+      "text": "陆沉渊没有理会。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0030",
+      "text": "一个又一个名字被念出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0031",
+      "text": "林清雪上前时，广场明显安静下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0032",
+      "text": "她将手按在测脉石上，石中灵纹一亮便是六道，寒意顺着石面蔓延，凝成淡淡霜花。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0033",
+      "text": "高台长老眼中露出满意之色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0034",
+      "text": "“六纹寒脉，凝脉初期，优上。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0035",
+      "text": "众人哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0036",
+      "text": "“难怪能入内门视线。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0037",
+      "text": "“林清雪果然天资不凡。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0038",
+      "text": "林清雪收手，目光若有若无地扫向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0039",
+      "text": "像是在告诉他，有些距离，不是靠一时出风头就能追上的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0040",
+      "text": "很快，轮到陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0041",
+      "text": "赵岳在一旁冷声道：“陆沉渊，上前测脉。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0042",
+      "text": "他故意把名字念得很重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0043",
+      "text": "陆沉渊走到测脉石前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0044",
+      "text": "周围议论再起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0045",
+      "text": "“山门威压或许是体魄特殊，测脉石可做不了假。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0046",
+      "text": "“若只是开脉初期，禁忌异常就是笑话了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0047",
+      "text": "陆沉渊把手按上去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0048",
+      "text": "一息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0049",
+      "text": "两息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0050",
+      "text": "测脉石没有反应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0051",
+      "text": "场中有人忍不住笑出声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0052",
+      "text": "赵岳眼中亮起恶意：“无纹？陆沉渊，你该不会连开脉都不稳吧？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0053",
+      "text": "林清雪眉头微皱，随即轻轻松了口气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0054",
+      "text": "可就在赵岳话音落下的瞬间，测脉石内部忽然传出一声闷响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0055",
+      "text": "咔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0056",
+      "text": "第一道灵纹亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0057",
+      "text": "紧接着第二道、第三道、第四道，几乎没有停顿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0058",
+      "text": "第五道亮起时，广场已经安静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0059",
+      "text": "第六道亮起时，林清雪脸色变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0060",
+      "text": "然后，第七道灵纹轰然燃起，整块测脉石青光暴涨，灵纹之外竟又浮现出一道暗金色细线，像潜藏在石中的古老脉络被强行唤醒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0061",
+      "text": "高台长老猛然起身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0062",
+      "text": "“七纹满显？不对，这是……”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0063",
+      "text": "测脉石剧烈震颤，表面浮现一行模糊小字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0064",
+      "text": "【脉象：未知。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0065",
+      "text": "【判定：超限。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0066",
+      "text": "全场炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0067",
+      "text": "“超限？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0068",
+      "text": "“测脉石坏了吧？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0069",
+      "text": "“七纹之上还有超限？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0070",
+      "text": "陆沉渊收回手，神色平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0071",
+      "text": "【第一关借势成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0072",
+      "text": "【宿主引发群体震惊，获得震惊值+2100。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0073",
+      "text": "【显圣值+300。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0074",
+      "text": "赵岳脸色铁青，却不敢再当众质疑测脉石，只能咬牙道：“第一关，暂列第一。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0075",
+      "text": "暂列两个字，像从牙缝里挤出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0076",
+      "text": "第二关很快开始。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0077",
+      "text": "战力场上摆着十尊黑铁傀儡，每一尊都被阵法压制在考核者相近境界。考核者可选择一尊，限时三十息，击退为合格，击倒为优，击碎则计入排名。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0078",
+      "text": "前几名少年表现不错，有人十七息击倒傀儡，有人二十息勉强取胜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0079",
+      "text": "那名五纹世家公子登场，拔刀斩出，十三息击倒傀儡，引来一片喝彩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0080",
+      "text": "林清雪登场时，寒脉之力凝于掌心，冰霜缠上傀儡关节。她没有蛮攻，而是以寒意迟滞傀儡动作，最后一掌拍在傀儡胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0081",
+      "text": "九息，击倒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0082",
+      "text": "高台长老点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0083",
+      "text": "“战力前十无忧。”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0084",
+      "text": "林清雪退场，脸上终于露出一丝自信。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0085",
+      "text": "赵岳立刻道：“陆沉渊，第二关。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0086",
+      "text": "一尊黑铁傀儡被推到场中央。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0087",
+      "text": "赵岳暗中对阵法杂役使了个眼色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0088",
+      "text": "傀儡胸口的阵纹微不可察地亮了一下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0089",
+      "text": "陆沉渊看得清楚，却没拆穿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0090",
+      "text": "系统提示随之响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0091",
+      "text": "【检测到战力关傀儡强度异常。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0092",
+      "text": "【当前傀儡实际强度：凝脉初期偏上。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0093",
+      "text": "【建议：正面击碎，扩大打脸收益。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0094",
+      "text": "陆沉渊唇角微扬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0095",
+      "text": "赵岳想让他输得难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0096",
+      "text": "那就让赵岳看清楚，什么叫输不起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0097",
+      "text": "铜钟一响，傀儡瞬间动了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0098",
+      "text": "它没有像其他傀儡那样试探，而是一步踏碎地面，铁拳裹着沉重劲风直轰陆沉渊面门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0099",
+      "text": "不少人脸色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0100",
+      "text": "“这傀儡速度怎么这么快？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0101",
+      "text": "陆沉渊侧身避开，右手成掌，贴着傀儡手臂一推一引。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0102",
+      "text": "傀儡重心偏移。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0103",
+      "text": "但它立刻扭身，第二拳横扫，力道比先前更重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0104",
+      "text": "陆沉渊眼神一冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0105",
+      "text": "他不再退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0106",
+      "text": "黑市废矿中，他曾在狭窄矿道里与追兵夜战；寒鸦岭上，他曾在生死边缘夺玄骨灵髓。区区傀儡，哪怕被赵岳调高强度，也不过是没有杀意的铁疙瘩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0107",
+      "text": "陆沉渊一步踏进傀儡中门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0108",
+      "text": "开脉之力贯通四肢，骨中暗藏的灵髓热意爆开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0109",
+      "text": "他一拳砸在傀儡胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0110",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0111",
+      "text": "黑铁傀儡退了半步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0112",
+      "text": "赵岳刚要冷笑，却听见一阵刺耳裂响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0113",
+      "text": "咔咔咔！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0114",
+      "text": "傀儡胸口阵纹从拳印处裂开，裂纹如蛛网般蔓延至全身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0115",
+      "text": "陆沉渊第二拳已至。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0116",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0117",
+      "text": "黑铁傀儡被当场轰碎，铁片飞溅，半截躯干砸在地上，震得众人心口一颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0118",
+      "text": "负责计时的弟子呆住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0119",
+      "text": "铜钟余音还未散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0120",
+      "text": "“三息。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0121",
+      "text": "他声音发抖，“击碎。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0122",
+      "text": "广场上静得可怕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0123",
+      "text": "三息击碎凝脉强度傀儡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0124",
+      "text": "这不是前十，这是碾压。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0125",
+      "text": "高台一名长老看向赵岳，目光沉了沉：“这尊傀儡的阵纹，为何与其他不同？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0126",
+      "text": "赵岳脸色惨白：“弟子不知……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0127",
+      "text": "陆沉渊看都没看他，只淡淡道：“许是赵执事觉得我资质低，特意照顾。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0128",
+      "text": "这句话落下，周围不少弟子憋不住笑，又怕赵岳记恨，只能低头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0129",
+      "text": "赵岳脸上火辣辣的，却一句话也说不出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0130",
+      "text": "【第二关借势成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0131",
+      "text": "【震惊值+2600。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0132",
+      "text": "【因果点+1。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0133",
+      "text": "【当前排名：第一。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0134",
+      "text": "第三关，心魔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0135",
+      "text": "广场后方开启一座幻阵，阵中雾气翻滚，考核者需独自入内。外界只能看到幻阵石壁上的光影波动，却无法窥见具体内容。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0136",
+      "text": "前面已有几名少年在阵中崩溃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0137",
+      "text": "有人跪地痛哭，有人惊叫着喊母亲，有人满脸狰狞地冲出幻阵，被执事直接判为淘汰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0138",
+      "text": "心魔关不看修为，只看心性。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0139",
+      "text": "林清雪进入幻阵后，坚持了二十余息才走出。她脸色苍白，额上有汗，却没有失态。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0140",
+      "text": "长老评判：“心性优，第三关前十。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0141",
+      "text": "林清雪呼吸微乱，看向陆沉渊时，眼中已没有先前那种笃定。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0142",
+      "text": "赵岳咬牙道：“陆沉渊，入阵。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0143",
+      "text": "陆沉渊迈入幻阵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0144",
+      "text": "雾气瞬间吞没四周。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0145",
+      "text": "下一刻，他不在青岚宗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0146",
+      "text": "他站在一座血色祭坛前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0147",
+      "text": "夜风腥冷，残月如钩。脚下是破碎的石阶，耳边是熟悉的嘲笑声、哭喊声、铁链拖地声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0148",
+      "text": "前世的影子从血雾里浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0149",
+      "text": "他看见自己跪在祭坛中央，经脉被废，双臂被锁，胸口被一柄祭刀贯穿。身边有人冷声宣判，说他陆沉渊命该如此，说他所有挣扎不过是天命脚下的尘埃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0150",
+      "text": "他看见陆镇南满身是血，却被人拖入黑暗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0151",
+      "text": "他看见林清雪站在远处，神情模糊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0152",
+      "text": "他看见叶寒的影子立于祭坛之上，俯视着他，如同俯视一件祭品。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0153",
+      "text": "“陆沉渊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0154",
+      "text": "血雾中的自己抬起头，满脸灰败，“你改不了的。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0155",
+      "text": "“你不过是再死一次。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0156",
+      "text": "四周残影同时开口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0157",
+      "text": "“跪下。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0158",
+      "text": "“认命。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0159",
+      "text": "“天命不可逆。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0160",
+      "text": "“你越挣扎，死得越惨。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0161",
+      "text": "声音一层叠一层，压进他的骨头里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0162",
+      "text": "陆沉渊低头看着那个前世的自己。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0163",
+      "text": "那是他最狼狈的样子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0164",
+      "text": "被废，被辱，被献祭，连最后一口气都被人拿来成全别人的大道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0165",
+      "text": "若是刚重生时见到这一幕，他或许会愤怒，会失控，会恨得发狂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0166",
+      "text": "但现在，他只是平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0167",
+      "text": "“你不是我。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0168",
+      "text": "陆沉渊缓缓抬手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0169",
+      "text": "“你只是我死过一次的证据。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0170",
+      "text": "血雾翻涌，祭坛上的叶寒虚影冷笑：“证据？你能拿什么逆天命？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0171",
+      "text": "陆沉渊掌心凝出一缕青金色光芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0172",
+      "text": "那不是宗门传授的法，也不是世家赐予的术。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0173",
+      "text": "那是他从一次次反杀、一次次夺回、一次次不低头中攒出的势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0174",
+      "text": "“拿命。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0175",
+      "text": "他说，“拿账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0176",
+      "text": "“拿你们欠我的一切。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0177",
+      "text": "血色残影扑来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0178",
+      "text": "陆沉渊一掌斩下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0179",
+      "text": "祭坛上的锁链寸寸崩断。前世那个跪着的自己抬头看他，灰败的眼神里终于有了一丝光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0180",
+      "text": "陆沉渊没有安慰他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0181",
+      "text": "他只是抬手，将那道残影斩碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0182",
+      "text": "“我的命，从今天起，只记在我自己账上。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0183",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0184",
+      "text": "幻阵石壁外，第三关光柱骤然冲天。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0185",
+      "text": "原本代表通过的青光，被一道暗金色锋芒撕开。高台长老全部起身，连远处观礼的内门弟子都忍不住站直。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0186",
+      "text": "陆沉渊从幻阵中走出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0187",
+      "text": "衣袍无风自动，眼神沉静得可怕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0188",
+      "text": "负责记录的弟子看着石碑，声音发干：“心魔关……三息破阵。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0189",
+      "text": "“判定……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0190",
+      "text": "他吞了吞口水。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0191",
+      "text": "“第一。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0192",
+      "text": "三关第一。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0193",
+      "text": "这四个字没有被谁喊出口，却在每个人心里同时炸响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0194",
+      "text": "山门前受辱的陆家少主，竟在入门三关中一路反转，灵根脉象超限，战力三息碎傀儡，心魔三息破阵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0195",
+      "text": "林清雪站在人群中，脸色一点点苍白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0196",
+      "text": "她突然意识到，自己以为甩开的不是一个累赘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0197",
+      "text": "而是一座正在苏醒的山。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0198",
+      "text": "【第三关借势成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0199",
+      "text": "【震惊值+3900。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0200",
+      "text": "【显圣值+800。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0201",
+      "text": "【因果点+2。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0202",
+      "text": "【累计资源达到阈值。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0203",
+      "text": "【系统商城开启。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0204",
+      "text": "【当前可兑换：低阶破脉丹、一次性隐息符、残缺身法《踏影步》、因果追踪令。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0205",
+      "text": "陆沉渊眼神微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0206",
+      "text": "系统商城开启，意味着他终于不再只能被动借势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0207",
+      "text": "从今往后，每一次打脸，每一次震惊，每一次显圣，都能化成真正的底牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0208",
+      "text": "高台长老看向陆沉渊，声音比之前温和了许多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0209",
+      "text": "“陆沉渊，三关综合第一。按青岚宗规矩，可入外门甲等名册，另赐入门资源三倍。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0210",
+      "text": "人群再次轰动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0211",
+      "text": "外门甲等名册，那是最接近内门关注的位置。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0212",
+      "text": "赵岳站在角落，面如死灰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0213",
+      "text": "陆沉渊经过他身边时，脚步微停。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0214",
+      "text": "“赵执事。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0215",
+      "text": "赵岳身体一僵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0216",
+      "text": "陆沉渊淡淡道：“今日多谢。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0217",
+      "text": "赵岳脸色猛地涨红。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0218",
+      "text": "多谢什么？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0219",
+      "text": "多谢他当众羞辱？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0220",
+      "text": "多谢他开启全压山门阵？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0221",
+      "text": "多谢他暗中调高傀儡强度？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0222",
+      "text": "可偏偏正是这些刁难，把陆沉渊一步步送上了所有人视线的最高处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0223",
+      "text": "这比骂他更狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0224",
+      "text": "入夜后，青岚宗外门新弟子被安置在山腰别院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0225",
+      "text": "陆沉渊推门入屋，桌上放着宗门发下的身份牌、三倍资源袋，以及一卷外门规章。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0226",
+      "text": "他没有急着休息，而是打开系统商城界面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0227",
+      "text": "每一样兑换物都闪着淡淡光芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0228",
+      "text": "陆沉渊目光停在因果追踪令上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0229",
+      "text": "前世祭坛的残影不是无根之梦，叶寒的影子出现在心魔关中，说明此人迟早会和他的死局相连。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0230",
+      "text": "而现在，叶寒已经注意到他了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0231",
+      "text": "同一时间，内门一处临崖小院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0232",
+      "text": "一名黑衣弟子跪在门外，低声汇报：“叶师兄，陆沉渊三关第一，赵岳没压住他。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0018_b0233",
+      "text": "院内传来一道平静声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0234",
+      "text": "“林清雪怎么说？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0018_b0235",
+      "text": "“林师妹没有表态，只是看起来……受了些影响。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0236",
+      "text": "短暂沉默后，那声音轻轻笑了一下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0237",
+      "text": "“禁忌异常，三关第一。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0238",
+      "text": "“有意思。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0239",
+      "text": "黑衣弟子低头道：“是否要让他入不了外门甲等名册？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0240",
+      "text": "“不必。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0241",
+      "text": "院内之人淡淡道：“刚入宗就动手，太明显。先盯着他，看他接触谁，修什么，怕什么。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0242",
+      "text": "“若他只是昙花一现，就让他自己摔死。”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0243",
+      "text": "“若他真有威胁……”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0244",
+      "text": "声音停顿片刻，冷意如山风穿出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0018_b0245",
+      "text": "“我会亲自清账。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

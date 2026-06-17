@@ -1,0 +1,1336 @@
+{
+  "id": "ch0024",
+  "index": 24,
+  "title": "第二十四章 剑台一鸣",
+  "beatCount": 157,
+  "beats": [
+    {
+      "id": "ch0024_b0001",
+      "text": "外门剑台位于青岚宗东崖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0002",
+      "text": "石台三丈见方，四周以青石栏围起，台面上纵横交错的剑痕，是历代外门弟子留下的胜负账。每日都有弟子在此切磋，可今日天刚亮，剑台四周便挤满了人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0003",
+      "text": "原因只有一个。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0004",
+      "text": "陆沉渊要上台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0005",
+      "text": "昨日贡献殿一事传遍外门，二十三点贡献被翻成八千八百二十，废矿焦石中鉴出雷烬玄金，又牵出青岚旧脉钥印。有人说他运气逆天，有人说他懂宗规懂得可怕，也有人说赵岳一系这次被当众打穿了脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0006",
+      "text": "但外门从来不是靠嘴站稳的地方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0007",
+      "text": "贡献可以让人眼红，秘境钥印可以让人贪婪，而挑战榜上的位置，只能靠剑守住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0008",
+      "text": "剑台东侧，许青锋抱剑而立。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0009",
+      "text": "他身形清瘦，眉眼冷峻，腰间长剑名为青锋，剑鞘上刻着三道细纹。外门挑战榜第三十七，成名已久，曾连败七名同阶弟子，出剑快而狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0010",
+      "text": "最重要的是，他与叶寒走得极近。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0011",
+      "text": "有人压低声音道：“许青锋今日怕不是普通切磋。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0012",
+      "text": "“陆沉渊刚牵出秘境钥印，叶寒那边能坐得住？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0013",
+      "text": "“昨日才进前五十，今日就对上第三十七，这也太急了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0014",
+      "text": "“急？叶寒之前已经放过话，要废他第二次。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0015",
+      "text": "议论声中，陆沉渊从石阶走来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0016",
+      "text": "他穿一身洗得发白的外门青衣，背后仍是那柄残剑。剑身半截焦黑，边缘残缺，看起来像从火堆里捡出来的废铁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0017",
+      "text": "许青锋看见他，目光落在玄烬残剑上，嘴角微微一掀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0018",
+      "text": "“你就用这柄破剑？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0019",
+      "text": "陆沉渊踏上剑台，“够用。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0020",
+      "text": "“够用？”许青锋笑意更冷，“挑战榜不是杂役院，宗规也护不住你。剑台之上，伤残自负。你现在交出秘境钥印线索，再跪下认错，或许还能留一只手。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0021",
+      "text": "台下响起一阵低哗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0022",
+      "text": "这话太直了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0023",
+      "text": "连遮掩都懒得遮掩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0024",
+      "text": "陆沉渊只是抬手，将玄烬残剑解下，“是谁让你来的？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0025",
+      "text": "许青锋道：“你这种人，得罪谁都一样。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0026",
+      "text": "陆沉渊点头，“那便记无名账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0027",
+      "text": "他话音落下，系统界面在眼底一闪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0028",
+      "text": "【当前局势：叶寒二次废人令延伸。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0029",
+      "text": "【借势对象：剑台公开战、挑战榜排名、秘境钥印争夺。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0030",
+      "text": "【建议：以残剑示弱，引对方先露废人意图；以宗规锁定切磋边界；以一剑定胜负，形成全宗传播。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0031",
+      "text": "陆沉渊没有立刻动手，而是看向剑台旁的执事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0032",
+      "text": "“剑台规矩，切磋可伤，不可故意断脉毁基。若一方喊停，另一方仍追击，按恶意残害同门论处。请执事记明。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0033",
+      "text": "许青锋眼中闪过讥讽，“怕了？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0034",
+      "text": "陆沉渊道：“清账前，先定账目。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0035",
+      "text": "剑台执事皱眉，却也无法反驳，只能点头，“规矩如此。双方上台，三息后开始。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0036",
+      "text": "许青锋拔剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0037",
+      "text": "锵！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0038",
+      "text": "青锋剑出鞘，剑光如冷水铺开。许青锋的剑路素来以快闻名，许多人败在他手下时，连第一剑从何处来都看不清。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0039",
+      "text": "陆沉渊也拔剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0040",
+      "text": "玄烬残剑出鞘时没有清鸣，只有一声沉闷的裂响。焦黑剑身在阳光下黯淡无光，甚至有几处缺口像随时会崩开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0041",
+      "text": "三息已过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0042",
+      "text": "剑台执事抬手落下：“开始！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0043",
+      "text": "许青锋动了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0044",
+      "text": "他一步踏出，身影像被剑光拉成一线。青锋剑直取陆沉渊右腕，剑尖轻颤，分出三道虚影。一道刺腕，一道点肘，一道斩肩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0045",
+      "text": "台下惊呼声刚起，陆沉渊已横剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0046",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0047",
+      "text": "残剑挡住第一道剑影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0048",
+      "text": "许青锋冷笑，手腕一转，真正的剑锋绕过残剑缺口，直切陆沉渊手筋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0049",
+      "text": "这一剑极阴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0050",
+      "text": "它不是为了赢，是为了废。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0051",
+      "text": "陆沉渊脚下半步后撤，肩背微沉，玄烬残剑斜斜压下。焦黑剑身与青锋剑贴在一起，发出刺耳摩擦声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0052",
+      "text": "许青锋本以为残剑会被直接削断，可下一瞬，他脸色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0053",
+      "text": "那柄残剑沉得异常。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0054",
+      "text": "不是重量沉，而是剑势沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0055",
+      "text": "像一块从废矿深处压出的黑铁，带着冷灰与余火，把他的剑锋牢牢黏住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0056",
+      "text": "陆沉渊眼神平静，“第一剑，取腕。杀意不足，废意有余。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0057",
+      "text": "许青锋心头一跳，“你废话太多！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0058",
+      "text": "他骤然发力，开脉气血灌入长剑。青锋剑光暴涨，连出七剑。每一剑都避开要害，却全朝陆沉渊手腕、膝侧、肩脉而去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0059",
+      "text": "台下弟子看得头皮发麻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0060",
+      "text": "这不是切磋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0061",
+      "text": "这是拆人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0062",
+      "text": "剑台执事眉头紧皱，想开口，却见陆沉渊始终没有喊停，也没有被真正击中，只能按规矩继续观战。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0063",
+      "text": "陆沉渊的身法并不华丽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0064",
+      "text": "他每次只退半步，侧半寸，玄烬残剑也只做最简单的格挡、压剑、挑锋。可许青锋的七剑落下，竟没有一剑能穿过那半截残剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0065",
+      "text": "铛！铛！铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0066",
+      "text": "剑声一声比一声重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0067",
+      "text": "许青锋终于意识到不对。陆沉渊不是勉强防住，而是在看他的剑路。每挡一剑，残剑压下的位置都更准确一分；每退半步，自己的剑势就被引偏一寸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0068",
+      "text": "到第九剑时，许青锋剑锋还未完全刺出，陆沉渊的残剑已经提前落在他的剑脊上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0069",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0070",
+      "text": "青锋剑猛地一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0071",
+      "text": "许青锋虎口发麻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0072",
+      "text": "陆沉渊道：“你的剑太急。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0073",
+      "text": "许青锋眼中怒意暴涨，“闭嘴！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0074",
+      "text": "他低喝一声，周身气血翻涌，凝脉层次的压迫感骤然散开。台下不少外门弟子脸色一变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0075",
+      "text": "“许青锋入凝脉了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0076",
+      "text": "“难怪敢挑战！他竟然藏了境界！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0077",
+      "text": "赵岳嘴角笑意扩大。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0078",
+      "text": "凝脉对开脉，本就压一头。再加上许青锋的剑术，陆沉渊能撑到现在已算极限。下一剑，就是结局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0079",
+      "text": "许青锋剑锋举起，青色剑光在剑身上汇聚，化作一道狭长寒芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0080",
+      "text": "“青锋断影！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0081",
+      "text": "这一剑，他不再遮掩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0082",
+      "text": "剑光掠出，如一道青色匹练，直斩陆沉渊右臂。若斩实，整条手臂不废也要筋骨尽裂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0083",
+      "text": "剑台执事脸色骤变，“许青锋，收剑！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0084",
+      "text": "许青锋没有收。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0085",
+      "text": "陆沉渊站在原地，眸光冷了下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0086",
+      "text": "“账清楚了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0087",
+      "text": "他左手握住剑柄末端，右手按住残剑剑脊。玄烬残剑上，那些焦黑裂纹里，忽然透出细微赤光。像死灰复燃，又像雷火在深处醒来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0088",
+      "text": "系统提示响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0089",
+      "text": "【检测到公开压迫与越界废人意图。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0090",
+      "text": "【是否消耗震惊值一千、显圣值五百，临时推演惊雷一剑最佳出手线？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0091",
+      "text": "“推演。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0092",
+      "text": "【推演完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0093",
+      "text": "【借势节点：对方剑势最盛、众人认定必败、执事已出声制止。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0094",
+      "text": "青色剑光已至眼前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0095",
+      "text": "陆沉渊踏前一步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0096",
+      "text": "不是退，是进。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0097",
+      "text": "玄烬残剑自下而上斩出。残缺剑身划过空气的一瞬，赤光与黑雷交织，发出一声沉闷雷鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0098",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0099",
+      "text": "剑台上仿佛炸开一道惊雷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0100",
+      "text": "所有人眼前一白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0101",
+      "text": "陆沉渊的剑没有许青锋快，没有他的剑光华丽，却精准斩在青锋断影最薄的一线。那是剑势转折处，也是气血灌注的断点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0102",
+      "text": "青色匹练被一剑劈开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0103",
+      "text": "玄烬残剑余势不止，压着青锋剑一路震下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0104",
+      "text": "许青锋脸上的冷笑瞬间消失，取而代之的是难以置信的惊恐。他想撤剑，却发现整条手臂都被雷火般的震荡锁住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0105",
+      "text": "咔嚓！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0106",
+      "text": "青锋剑脱手飞出，插入剑台边缘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0107",
+      "text": "许青锋胸口一震，整个人倒飞出去，重重砸在石栏前。玄烬残剑的剑尖停在他喉前三寸，焦黑剑身仍有细小雷光游走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0108",
+      "text": "全场死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0109",
+      "text": "陆沉渊站在剑台中央，衣袂被剑风吹动，脸上没有半点狂喜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0110",
+      "text": "“你输了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0111",
+      "text": "许青锋喉咙滚动，脸色惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0112",
+      "text": "方才那一剑若再前半寸，他已经被开喉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0113",
+      "text": "陆沉渊没有追击。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0114",
+      "text": "他收剑，转身看向执事，“他未喊停，我未断脉毁基。按剑台规矩，此战可记胜。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0115",
+      "text": "剑台执事回过神，声音仍带着震意，“陆沉渊胜。挑战榜排名，陆沉渊升至第三十七。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0116",
+      "text": "这句话落下，台下才轰然炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0117",
+      "text": "“他赢了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0118",
+      "text": "“许青锋入凝脉都输了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0119",
+      "text": "“那一剑是什么？我刚才听见雷声了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0120",
+      "text": "“玄烬残剑不是废剑？那剑里有雷火！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0121",
+      "text": "赵岳脸色铁青。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0122",
+      "text": "叶寒让许青锋废陆沉渊，结果许青锋不但输了，还把陆沉渊送上了更高的位置。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "tianjiao_banquet",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0123",
+      "text": "剑台西侧，几名内门弟子原本只是来看热闹，此刻全都变了脸色。其中一人匆匆取出传讯符，将消息送往内门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0124",
+      "text": "陆沉渊眼底，系统提示不断刷出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0125",
+      "text": "【剑台公开反转成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0126",
+      "text": "【击败凝脉剑修许青锋。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0127",
+      "text": "【获得震惊值：5200。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0128",
+      "text": "【获得显圣值：1800。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0129",
+      "text": "【获得因果点：1。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0130",
+      "text": "【检测到剑势凝聚，玄烬残剑共鸣。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0131",
+      "text": "【奖励：剑意雏形。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0132",
+      "text": "下一瞬，一缕难以言明的锋芒在陆沉渊识海中成形。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0133",
+      "text": "不是招式。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0134",
+      "text": "不是气血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0135",
+      "text": "而是一种“剑该如何落下”的本能。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0136",
+      "text": "高处观战台上，几道身影同时出现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0137",
+      "text": "一名白眉长老负手而立，目光灼灼，“剑意雏形？外门弟子中竟有人在开脉、凝脉阶段摸到剑意门槛？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0138",
+      "text": "另一名黑袍长老冷哼，“你看清楚些，他靠的不只是悟性，还有那柄残剑。玄烬之名，我年轻时似乎听过。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0139",
+      "text": "“残剑认主，剑意初成，此子该入我剑堂。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0140",
+      "text": "“笑话，剑堂这些年收了多少好苗子，都教成一个模子。我观他清账冷静，心性稳狠，更适合入戒律一脉。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0141",
+      "text": "“戒律一脉拿剑修做什么？陆沉渊，我收了！”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0142",
+      "text": "几名长老竟当着外门众人的面争了起来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0143",
+      "text": "台下弟子面面相觑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0144",
+      "text": "刚才还被赵岳一系盯着要废的人，此刻竟被内门长老争相收徒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0145",
+      "text": "赵岳脸色从铁青变成惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0146",
+      "text": "这意味着，想在外门悄无声息地压死陆沉渊，已经不可能了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0147",
+      "text": "陆沉渊抬头，看向观战台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0148",
+      "text": "诸位长老的目光落在他身上，有欣赏，有探究，也有藏不住的争夺之意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0149",
+      "text": "他没有立刻拜下，也没有露出受宠若惊的神情。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0150",
+      "text": "只是将玄烬残剑缓缓归鞘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0151",
+      "text": "剑台之下，许青锋仍在咳血；远处，叶寒的传讯弟子已经转身狂奔；更高处，青岚旧脉秘境的钥印之事也必将被重新翻开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0152",
+      "text": "陆沉渊心中清楚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0024_b0153",
+      "text": "今日这一剑，不是终点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0154",
+      "text": "只是把账本翻到了更大的那一页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0155",
+      "text": "他望着内门方向，淡淡开口：“诸位长老若要收徒，不妨先问一句。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0156",
+      "text": "白眉长老眉头一挑，“问什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0024_b0157",
+      "text": "陆沉渊道：“我若入内门，旧账还能不能继续清？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    }
+  ]
+}

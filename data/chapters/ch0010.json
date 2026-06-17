@@ -1,0 +1,1697 @@
+{
+  "id": "ch0010",
+  "index": 10,
+  "title": "第十章 二房清账",
+  "beatCount": 188,
+  "beats": [
+    {
+      "id": "ch0010_b0001",
+      "text": "生死台上，风声骤停。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0002",
+      "text": "在所有人的视线里，陆峥那一刀已经落到陆沉渊头顶三尺。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0003",
+      "text": "青黑刀影像一道裂开的雷，带着足以斩断开脉境脉络的暴戾力量。台下不少族人已经下意识闭眼，林清雪的手指也轻轻收紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0010_b0004",
+      "text": "陆承远眼底闪过一抹快意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0005",
+      "text": "死吧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0006",
+      "text": "只要陆沉渊死在这座台上，账册也好，祖祠也好，主脉旧威也好，都会跟着一起断。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0007",
+      "text": "可就在刀影压下的刹那，陆沉渊身上的气息变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0008",
+      "text": "他体内原本分散的九道开脉气血，像被一只无形大手牵引，骤然汇成一线。脉络震鸣，气血成环，一股远比开脉境更加沉稳的力量从他脚下升起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0009",
+      "text": "咚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0010",
+      "text": "第一声，像古钟低响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0011",
+      "text": "咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0012",
+      "text": "第二声，生死台四角镇血纹同时亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0013",
+      "text": "陆沉渊抬手，掌心没有狂暴光华，只有一道凝实到近乎沉寂的血色脉环。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0014",
+      "text": "刀影落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0015",
+      "text": "掌印迎上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0016",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0017",
+      "text": "青黑刀光被硬生生震碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0018",
+      "text": "陆峥手中长刀脱手飞出，插入生死台边缘，刀身震颤不止。他整个人倒退七步，每一步都踩碎一块黑石，最后单膝跪地，喉头一甜，喷出一口血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0019",
+      "text": "全场死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0020",
+      "text": "有人张着嘴，却发不出声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0021",
+      "text": "林清雪怔怔看着台上那道黑衣身影，眼中第一次出现了真正的震动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0010_b0022",
+      "text": "“凝……凝脉？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0023",
+      "text": "“不对，不是完全凝脉，是刚跨过门槛！”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0024",
+      "text": "“可他三日前才在族比上显露开脉后期，怎么可能？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0025",
+      "text": "“他借陆峥的势破关了！”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0026",
+      "text": "陆家大长老站在原地，半晌才吐出一句：“临战破凝脉门槛，此子……竟有这等胆魄。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0027",
+      "text": "系统提示密集响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0028",
+      "text": "【震惊值+800】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0029",
+      "text": "【震惊值+1200】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0030",
+      "text": "【显圣值+3】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0031",
+      "text": "【万象借势完成：众目昭昭。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0032",
+      "text": "【当前境界：凝脉门槛。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0033",
+      "text": "陆沉渊缓缓放下手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0034",
+      "text": "体内脉环初成，力量还不算稳，却足够。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0035",
+      "text": "陆峥跪在地上，脸上满是不可置信。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0036",
+      "text": "“不可能……你怎么可能破关？我才是半步凝脉，我才是青岚宗看中的人！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0037",
+      "text": "陆沉渊走到他面前，一脚踩住他想去摸噬脉符残片的手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0038",
+      "text": "咔嚓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0039",
+      "text": "指骨裂响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0040",
+      "text": "陆峥惨叫出声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0041",
+      "text": "“你靠禁器撑出来的半步凝脉，也配叫境界？”陆沉渊俯视着他，“我让你展示底牌，不是因为我怕你，是因为我要让所有人看清楚，二房到底拿陆家的东西，喂出了什么货色。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0042",
+      "text": "陆承远猛地起身：“陆沉渊！生死台上只论胜负，不容你羞辱族人！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0043",
+      "text": "“二叔急什么？”陆沉渊抬眼看他，“人还没死，账还没清。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0044",
+      "text": "陆承远脸色阴沉：“既是生死约，你若胜了，要杀便杀。少在台上搬弄是非。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0045",
+      "text": "“杀他太便宜了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0046",
+      "text": "陆沉渊一把抓住陆峥后领，将他拖到生死台中央。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0047",
+      "text": "陆峥挣扎，却被陆沉渊一掌拍在肩井，刚被噬脉符撑开的脉络顿时崩痛，整个人瘫软半跪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0048",
+      "text": "陆沉渊朗声道：“大长老，生死台规矩里，可有一条说，胜者不能审败者？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0049",
+      "text": "大长老沉默片刻，道：“没有。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0050",
+      "text": "陆承远寒声道：“大长老！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0051",
+      "text": "大长老看向他：“承远，今日之事牵涉外宗令牌、外宗武技、禁器噬脉符。若不查清，陆家族规何在？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0052",
+      "text": "这句话落下，主脉席位上压抑许久的族人终于挺直了腰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0053",
+      "text": "二房席位则一片难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0054",
+      "text": "陆沉渊伸手，从陆峥怀中取出那枚青岚宗外门弟子令，举给众人看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0055",
+      "text": "“陆峥，第一问。此令何人所赠？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0056",
+      "text": "陆峥咬牙：“青岚宗许长老赏识我天资，自然赐我弟子令。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0057",
+      "text": "陆沉渊一脚踢在他膝弯，陆峥跪得更低。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0058",
+      "text": "“赏识你天资，还是收了二房好处？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0059",
+      "text": "陆峥嘴角溢血，仍旧强撑：“你污蔑我！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0060",
+      "text": "陆沉渊抬手点在他胸口一处脉门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0061",
+      "text": "噬脉符的后劲本就反噬，此刻被精准点中，陆峥浑身抽搐，脸上血色尽失。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0062",
+      "text": "“第二问。青岚断风刀，谁教的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0063",
+      "text": "陆峥额头冷汗直冒：“许……许长老座下弟子。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0064",
+      "text": "台下一阵哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0065",
+      "text": "陆沉渊继续道：“何处教？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0066",
+      "text": "陆峥咬紧牙关。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0067",
+      "text": "陆沉渊又点一处脉门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0068",
+      "text": "陆峥惨叫：“城外黑松岭！每月初七，二房车队送药材出城，我随车去黑松岭！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0069",
+      "text": "二房席位有人脸色骤白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0070",
+      "text": "陆承远眼神阴冷得像要杀人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0071",
+      "text": "陆沉渊看都没看他，只问第三句：“送的什么药材？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0072",
+      "text": "陆峥喘着粗气：“药阁……药阁上等血参、龙筋藤、玄骨散原料。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0073",
+      "text": "大长老怒道：“那些不是账册上写着霉坏折损了吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0074",
+      "text": "陆沉渊笑了一声，笑意却冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0075",
+      "text": "“三日前药阁账册上，二房管事说库房潮湿，药材损了大半。原来是损到青岚宗许长老手里去了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0076",
+      "text": "人群中压抑的怒火开始翻涌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0077",
+      "text": "陆家不是没有内斗，可再怎么斗，吞家族资源去喂外宗长老，这是触族人底线的事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0078",
+      "text": "陆沉渊又从陆峥腰间扯下一只暗袋，倒出两枚黑色玉符残片和一张折起的薄纸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0079",
+      "text": "薄纸被血浸了半边，却还能看清上面的字迹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0080",
+      "text": "那是一份供契摘录。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0081",
+      "text": "城东丹铺，城南铁器铺，西山三座药田。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0082",
+      "text": "落款处不是陆家公印，而是二房私印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0083",
+      "text": "受契人，许云鹤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0084",
+      "text": "“许云鹤。”大长老念出名字，脸色彻底沉下去，“青岚宗外门执事长老。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0085",
+      "text": "陆承远终于坐不住了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0086",
+      "text": "他一步踏出，气息压向生死台：“陆沉渊，够了！你拿一张来历不明的纸，就想定二房的罪？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0087",
+      "text": "陆沉渊抬起薄纸：“二叔说来历不明，那我便让陆峥说清楚。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0088",
+      "text": "他低头，看向陆峥：“这供契，是谁让你带在身上的？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0089",
+      "text": "陆峥嘴唇发抖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0090",
+      "text": "他知道自己不能说。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0091",
+      "text": "可噬脉符反噬越来越重，陆沉渊按住他的脉门，像按住了他全身最脆弱的命根。痛意一阵阵冲上头顶，他的神智已经开始崩散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0092",
+      "text": "“说。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0093",
+      "text": "陆沉渊的声音很轻，却像压在魂上的刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0094",
+      "text": "陆峥终于崩溃：“是二爷！是二爷让我带着！他说今日杀了你后，许长老的人会在城外接我，供契一起送过去，换我正式入青岚宗外门！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0095",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0096",
+      "text": "整个演武场像炸开了一样。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0097",
+      "text": "陆承远脸色铁青，怒喝：“孽障，你被陆沉渊逼疯了，胡言乱语！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0098",
+      "text": "陆峥猛地抬头，眼神怨毒又恐惧：“我胡言？二爷，是你说主脉产业早晚都是二房的！是你说陆沉渊父亲失踪多年，留下的铺子药田与其烂在主脉手里，不如换我一条青岚宗前程！也是你给我买的噬脉符，说必要时可斩陆沉渊于台上！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0099",
+      "text": "陆承远周身气息暴动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0100",
+      "text": "这一刻，他再也维持不了温和长辈的外皮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0101",
+      "text": "“闭嘴！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0102",
+      "text": "他抬掌便要隔空震向陆峥。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0103",
+      "text": "可陆沉渊早已等着这一手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0104",
+      "text": "他一步横移，挡在陆峥身前，体内新成脉环震动，硬接陆承远余势。同时，大长老也出手了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0105",
+      "text": "“陆承远，你敢在生死台灭口？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0106",
+      "text": "两股力量相撞，演武场上劲风四散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0107",
+      "text": "陆承远被迫收手，脸色阴沉到极点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0108",
+      "text": "陆沉渊肩头微微一震，唇边渗出一丝血，却笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0109",
+      "text": "“二叔，急着杀人，可比供契更像证据。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0110",
+      "text": "陆家族人的目光，全都落在陆承远身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0111",
+      "text": "二房席位上，有些人已经不敢抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0112",
+      "text": "大长老沉声道：“来人，查二房私库，封药阁副库，传城东丹铺、城南铁器铺、西山药田管事！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0113",
+      "text": "陆承远怒道：“大长老，你无权越过家主堂动我二房！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0114",
+      "text": "陆沉渊道：“家主堂当然要动。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0115",
+      "text": "他从怀中取出半块古旧玉印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0116",
+      "text": "那是三日前祖祠中，陆家先祖牌位后暗格里取出的主脉少主印。先前陆承远一直以“少主年幼、主脉无人”为由，压着少主实权不放。如今这玉印在阳光下泛出温润冷光，印底“主脉执产”四字清晰无比。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0117",
+      "text": "陆沉渊举起玉印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0118",
+      "text": "“我父亲失踪前，主脉产业由少主印暂押。二房只是代管，不是继承。今日人证、物证俱在，我以主脉少主印，收回城东丹铺、城南铁器铺、西山三座药田，以及药阁主账调阅权。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0119",
+      "text": "他看向大长老：“请族老堂见证。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0120",
+      "text": "大长老盯着那枚玉印，片刻后，缓缓点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0121",
+      "text": "“少主印为真。陆承远代管期间账目失衡，又涉外宗私契。自今日起，相关产业暂归少主陆沉渊执掌，二房不得干涉。待查清后，再议罪责。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0122",
+      "text": "主脉席位上，有人忍不住低声叫好。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0123",
+      "text": "很快，那声音连成一片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0124",
+      "text": "“少主！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0125",
+      "text": "“少主！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0126",
+      "text": "“少主！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0127",
+      "text": "陆承远站在原地，脸色由青转白，又由白转灰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0128",
+      "text": "他经营多年，本想借陆峥入宗，一举压死主脉。没想到今日不但陆峥废了，连吞进去的产业，也被陆沉渊当众撬了出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0129",
+      "text": "更可怕的是，人心变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0130",
+      "text": "那些原本观望的旁支，如今看陆沉渊的眼神，已经不再是看一个侥幸翻身的少年，而是在看一个真正能扛起主脉的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0131",
+      "text": "陆沉渊低头，看向陆峥。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0132",
+      "text": "陆峥瘫在地上，眼中满是恐惧：“陆沉渊，你说过……你不立刻杀我……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0133",
+      "text": "“我确实不立刻杀你。”陆沉渊道，“你要活着，把黑松岭、许云鹤、二房私库，一件件说清楚。等账清完，再按族规和生死约算你的命。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0134",
+      "text": "陆峥彻底软倒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0135",
+      "text": "他宁愿刚才被一刀杀了，也不想这样活着等死。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0136",
+      "text": "陆沉渊抬手，二房几个护卫下意识后退，反倒是主脉护卫上前，将陆峥扣住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0137",
+      "text": "这一幕落在众人眼里，意义不言自明。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0138",
+      "text": "陆家的风向，变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0139",
+      "text": "陆承远深吸一口气，忽然笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0140",
+      "text": "那笑声低沉，阴冷，却没有多少慌乱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0141",
+      "text": "“沉渊，你今日确实赢了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0142",
+      "text": "陆沉渊看着他：“二叔还有后手？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0143",
+      "text": "“后手谈不上。”陆承远整理了一下袖袍，仿佛方才当众败露的人不是他，“你夺回几间铺子、几座药田，以为便能坐稳少主之位？陆家在青岚城立足，靠的不只是族内这点产业。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0144",
+      "text": "他从袖中取出一封拜帖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0145",
+      "text": "拜帖封面素白，边角压着林家特有的雪纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0146",
+      "text": "林清雪神色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0010_b0147",
+      "text": "陆沉渊的目光也落在那封拜帖上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0148",
+      "text": "陆承远将拜帖高高举起，声音传遍演武场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0149",
+      "text": "“林家退婚拜帖，今晨送到我手中。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0150",
+      "text": "全场再次安静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0151",
+      "text": "林家与陆家婚约，是陆沉渊父亲当年亲定。虽说这些年林家态度冷淡，可只要婚约还在，主脉与林家的关系就没有彻底断。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0152",
+      "text": "如今陆承远当众拿出退婚拜帖，等于把另一把刀摆到了陆沉渊面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0153",
+      "text": "林清雪起身，眉头轻蹙：“陆二爷，此帖还未由我父亲亲自递交陆家族老堂。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0154",
+      "text": "陆承远笑道：“林小姐，拜帖上有林家印，便够了。你今日旁观，也正好见证。陆沉渊纵然在陆家生死台上赢了一场，可林家不愿再与他有婚约，这也是事实。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0155",
+      "text": "人群中议论声重新涌起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0156",
+      "text": "有震惊，有同情，也有幸灾乐祸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0157",
+      "text": "陆沉渊刚夺回少主实权，陆承远便抛出退婚拜帖。若陆沉渊应对不好，今日刚立起来的威势，立刻会被林家的羞辱压下一截。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0158",
+      "text": "陆承远看着陆沉渊，眼中终于恢复几分从容。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0159",
+      "text": "“少主，二房的账，你可以慢慢查。林家的账，你又准备怎么算？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0160",
+      "text": "陆沉渊沉默片刻，忽然笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0161",
+      "text": "他从生死台上走下，每一步都踩着还未散尽的血腥气。众人自动让开一条路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0162",
+      "text": "他来到陆承远面前，伸手接过那封拜帖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0163",
+      "text": "陆承远没有阻拦。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0164",
+      "text": "他想看陆沉渊失态，看这个刚刚崛起的少主，被林家退婚二字打回原形。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0165",
+      "text": "可陆沉渊只是看了一眼封面，便将拜帖收起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0166",
+      "text": "“二房的账，今日开头。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0167",
+      "text": "他抬眼，目光越过陆承远，看向林清雪，也看向更远处青岚城的方向。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0168",
+      "text": "“林家的账，明日再算。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0169",
+      "text": "陆承远眸光一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0170",
+      "text": "陆沉渊转身，对大长老道：“封账，拿人，接产业。今日之内，城东丹铺、城南铁器铺、西山药田，全部换回主脉账印。谁拦，按侵吞主脉产业论。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0171",
+      "text": "大长老点头：“照少主令办。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0172",
+      "text": "陆承远握紧拳头，却没有再动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0173",
+      "text": "今日他已经失了先手，再强行动手，只会把自己推到叛族的位置。陆峥被押下去时，还在痛苦呻吟。那声音像一记记耳光，抽在二房脸上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0174",
+      "text": "陆沉渊站在演武场中央，黑衣染尘，肩头带血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0175",
+      "text": "可此刻，没有人再觉得他是那个任人摆布的陆家少主。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0176",
+      "text": "系统提示音在识海中低低响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0177",
+      "text": "【二房清账第一阶段完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0178",
+      "text": "【夺回主脉产业：三座药田、两处铺面。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0179",
+      "text": "【少主实权恢复：初级。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0180",
+      "text": "【震惊值累计入账。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0181",
+      "text": "【因果线更新：林家退婚。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0182",
+      "text": "陆沉渊垂眸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0010_b0183",
+      "text": "母亲线索、青岚宗许云鹤、二房私库、林家退婚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0184",
+      "text": "一条条线都浮出了水面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0185",
+      "text": "很好。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0186",
+      "text": "前世这些人踩着他、欺着他、夺走陆家一切。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0187",
+      "text": "这一世，他会一笔一笔清。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0010_b0188",
+      "text": "从生死台开始，谁欠陆家的，谁欠他的，都要连本带利吐出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    }
+  ]
+}

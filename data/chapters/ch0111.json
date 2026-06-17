@@ -1,0 +1,422 @@
+{
+  "id": "ch0111",
+  "index": 111,
+  "title": "第一百十一章 星墟立军",
+  "beatCount": 45,
+  "beats": [
+    {
+      "id": "ch0111_b0001",
+      "text": "大乾王朝、帝都、丹会的晨雾压得很低，像一层尚未揭开的账页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "pill_pavilion",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0002",
+      "text": "陆沉渊从上一场风暴里走出时，身上仍带着赤月秘境留下的血痕。可他的步子没有慢，玄烬残剑也没有收声。剑身每一次轻震，都像在提醒旁人，第一卷的账只是合上了一册，并不是清完。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0003",
+      "text": "这一章的事，起于审判台前的一封传令。传令上写得冠冕堂皇，说王朝风云，一人压满城阶段需要重新核验陆沉渊所得，实则字里行间都指向同一个意思：把他从众人刚刚建立的信任里重新按回嫌疑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0004",
+      "text": "万界观礼者们聚在四周，看见陆沉渊出现，议论声先是低下去，又像潮水一样慢慢涨起。有人敬畏他在赤月秘境里以阵开天，也有人忌惮他把秦无极拖下高台，更有人在等一个机会，证明这位新起的外门第一也会摔回尘土。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0005",
+      "text": "归零使站在台阶上，手中捧着一卷新案。他没有立刻发难，而是先把卷宗递给旁边执事，让执事当众宣读。卷宗里有三条罪名，条条都绕过事实本身，只抓住结果：陆沉渊拿了王朝气运印相关线索，陆沉渊带出禁区物证，陆沉渊让旧秩序失了脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0006",
+      "text": "陆沉渊听完，没有辩解。他只是抬手，将因果源印放在案上。物证落桌的一瞬，案面上浮出一圈淡淡金纹，像冰面下忽然亮起的火。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0007",
+      "text": "系统提示在他识海中展开：【检测到公开构陷场。】【可借势对象：审判台目光、旧案卷宗、对方心虚、旁观者疑虑。】【建议：先让对方把话说满，再以旧物追索反扣。】",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0008",
+      "text": "陆沉渊心中回应：“按最公开的方式来。”他已经不再满足于单纯打赢某个人。真正要撼动天命棋局，就必须让每一次胜利都变成旁人无法抹掉的记录。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0009",
+      "text": "归零使冷笑道：“你又想拿规矩压人？”陆沉渊看着他，淡淡回道：“规矩若只压弱者，那就不是规矩，是锁链。锁链到了我手里，自然要先套回锻锁的人脖子上。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0010",
+      "text": "这句话落下，万界观礼者中有人倒吸一口冷气。许多人这才想起，赤月秘境之前，陆沉渊就是靠一条条宗规撕开杂役院、贡献殿和戒律堂的遮羞布。如今他站得更高，手里证据也更重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0011",
+      "text": "归零使强行稳住神色，抬手催动案卷。卷宗中的墨字飞出，化成一只黑色大印，压向陆沉渊眉心。那不是普通术法，而是带着皇室夺嫡与世家联盟气息的问罪印，一旦落实，便会在他身上烙下可供后续审判使用的污名。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0012",
+      "text": "陆沉渊没有躲。他让问罪印落到玄烬残剑三寸之外，直到黑印几乎要贴上剑身，才轻轻屈指一弹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0013",
+      "text": "叮的一声，黑印停住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0014",
+      "text": "剑锋里透出灰金色光，照见黑印内部细小的赤纹。那些赤纹原本藏得极深，被剑光照出后，竟与秦氏阵盘残片上的纹路互相呼应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0015",
+      "text": "陆沉渊抬眼：“你说这是宗门问罪印，为何里面有皇室夺嫡与世家联盟的私纹？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0016",
+      "text": "归零使脸色微变，立刻道：“你以邪剑污染印记，当然能照出你想要的东西。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0017",
+      "text": "陆沉渊笑了笑，转身看向姬扶摇。姬扶摇没有多言，只将一份早已拓好的气息记录递出。那记录不是从陆沉渊手里来，而是由第三方在上一场公开事件里留下，因此无法被一句“串供”抹掉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0018",
+      "text": "记录展开，审判台上空浮出两段画面。一段是对方私下调换印记，一段是归零使与皇室夺嫡与世家联盟暗线在夜色中交换信物。画面并不长，却足够清晰，清晰到所有人都能看见那枚信物上刻着同一处纹路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0019",
+      "text": "议论声炸开。先前还犹豫的旁观者终于明白，这不是陆沉渊又惹出一桩风波，而是有人又一次把风波推到他身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0020",
+      "text": "归零使咬牙，强行出手。以他的境界，正面压一个刚入更高阶段不久的陆沉渊，本该十拿九稳。可他忘了，陆沉渊最擅长的，从来不是在对方准备好的台上按对方的方式赢。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0021",
+      "text": "陆沉渊一步踏出，脚下阵纹亮起。那些本该束缚他的墨字，反而被他引向四周证据。每一道墨字落下，都会照亮一处被遮住的细节；每一处细节亮起，归零使的脸色便苍白一分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0022",
+      "text": "系统提示：【旧物追索完成。】【震惊值增加。】【显圣值增加。】【当前公众认知正在改写。】",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0023",
+      "text": "陆沉渊没有立刻把人打下去。他抬手压住玄烬残剑，任由对方继续争辩。争辩越多，漏洞越多；漏洞越多，越能让旁人看清这场局不是临时起意，而是旧秩序的本能反扑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0024",
+      "text": "等到归零使最后一句话出口，陆沉渊终于拔剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0025",
+      "text": "玄烬残剑出鞘半寸，灰金色剑意沿着案卷斩过。所有伪造字迹被一剑剥开，真正的原文浮现出来。卷宗背面写着另一行小字：若陆沉渊不服，即刻封其物证，押入偏殿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0026",
+      "text": "偏殿二字一出，莫老在旁边冷笑。熟悉青岚宗旧案的人都知道，偏殿从来不是审问真相的地方，而是处理麻烦的地方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0027",
+      "text": "陆沉渊道：“你们要的不是查清，是让我没机会把证据带到更多人面前。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0028",
+      "text": "姬扶摇轻声补了一句：“也不想让王朝气运印继续亮下去。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "royal_court",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0029",
+      "text": "那一刻，审判台内外的气氛彻底变了。原本抱着看戏心态的人开始后退，生怕自己被卷进这场清算。原本跟着起哄的人则低下头，不敢再喊一句“严查陆沉渊”。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0030",
+      "text": "归零使终于露出慌色。他想毁掉卷宗，却被陆沉渊一剑钉住手腕。剑锋没有入骨，只压在脉门上，可那股灰金色剑意让他浑身脉络都像被账册封住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0031",
+      "text": "陆沉渊问：“谁让你来的？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0032",
+      "text": "归零使嘴唇发白，不肯答。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0033",
+      "text": "陆沉渊又问：“摄政王萧玄策在这件事里，是什么位置？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0034",
+      "text": "这一次，连旁边的长老都沉默了。摄政王萧玄策这个名字在当前阶段不一定最高，却足够说明局面已经不是低层弟子争斗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0035",
+      "text": "归零使咬牙道：“你查不到最后的。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0036",
+      "text": "陆沉渊收剑，声音平稳：“我不需要你相信我查得到。欠账的人相信就够了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0037",
+      "text": "系统提示：【阶段清算完成。】【奖励：系统权限解锁。】【新增线索：摄政王萧玄策与王朝气运印之间存在旧因果。】",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0038",
+      "text": "事情似乎告一段落，可陆沉渊没有急着离开。他将案卷、气息记录、信物拓印分别交给三名不同见证者。一个给姬扶摇，一个给外宗使者，一个给藏剑峰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0039",
+      "text": "秦无极曾经教会他，证据集中在一个人手里，就会变成一个人的弱点。如今他反过来使用这条道理，让每一份证据都变成一颗散在暗处的钉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0040",
+      "text": "离开审判台时，陆沉渊听见远处钟声响起。钟声不是警告，更像某座旧门正在松动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0041",
+      "text": "他回头，看见大乾王朝、帝都、丹会深处有一道光亮起。那光与王朝气运印同源，也与陆镇南旧案里的残纹相连。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "pill_pavilion",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0042",
+      "text": "玄烬残剑低鸣，系统给出新的提示：【封存多年的旧案忽然亮起。】",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0043",
+      "text": "陆沉渊把因果源印收入袖中，眼神冷了下去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0111_b0044",
+      "text": "“好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0111_b0045",
+      "text": "“下一页。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

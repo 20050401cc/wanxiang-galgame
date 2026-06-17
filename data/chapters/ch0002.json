@@ -1,0 +1,2485 @@
+{
+  "id": "ch0002",
+  "index": 2,
+  "title": "第二章 一指惊全场",
+  "beatCount": 276,
+  "beats": [
+    {
+      "id": "ch0002_b0001",
+      "text": "第二日，陆家演武场人声鼎沸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0002",
+      "text": "青岚城三大家族都派了人来观礼，林家也在其中。高台之上，陆家族老端坐两侧，二爷陆承远坐在主位旁，脸上挂着恰到好处的笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0003",
+      "text": "演武场中央，数十名陆家少年分列而站。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0004",
+      "text": "陆沉渊来得不早不晚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0005",
+      "text": "他穿一身洗得发白的青衫，腰间挂着少主令，脸色仍带病气。刚踏入演武场，四周便有低笑声传来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0006",
+      "text": "“他还真敢来？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0007",
+      "text": "“我以为他昨晚就该称病了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0008",
+      "text": "“少主令挂在他腰上，真是浪费。父亲失踪，自己又是开脉三重，陆家脸都被他丢尽了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0009",
+      "text": "“嘘，小声点，人家毕竟还是少主。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0010",
+      "text": "那人故意把“还是”两个字咬得极重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0011",
+      "text": "陆沉渊没有理会。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0012",
+      "text": "他目光扫过高台，落在陆承远身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0013",
+      "text": "前世这个二叔在父亲失踪后假作照拂，暗地里吞掉父亲留下的产业，买通族老，逼走忠仆。等陆沉渊入了圣地，他又摇身一变，成了最会攀附的陆家功臣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0014",
+      "text": "最后陆家被秦无缺当作弃子灭门时，陆承远还跪在地上喊着愿为圣子效犬马之劳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "qin_wuque",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0015",
+      "text": "可惜，秦无缺连看都没看他一眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "qin_wuque"
+      ]
+    },
+    {
+      "id": "ch0002_b0016",
+      "text": "这样的人，陆沉渊前世懒得恨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0017",
+      "text": "这一世，也不急着杀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0018",
+      "text": "账要一笔一笔算。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0019",
+      "text": "“陆沉渊！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0020",
+      "text": "一道刺耳声音响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0021",
+      "text": "陆川从人群中走来，身穿黑色劲装，肩宽腰窄，身后跟着几个陆家子弟。他看见陆沉渊腰间少主令，眼底嫉妒一闪而过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0022",
+      "text": "“你昨夜没逃，倒还有几分胆子。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0023",
+      "text": "陆沉渊淡淡看他：“你有事？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0024",
+      "text": "陆川冷笑：“没事，就是提醒你一句。待会儿上了台，我不会因为你是我堂兄就留手。大比凭本事，断胳膊断腿，族规也怪不得我。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0025",
+      "text": "周围顿时响起一片哄笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0026",
+      "text": "一个少女掩唇道：“陆川哥，你别吓他。他这身板，估计一拳就散了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0027",
+      "text": "“散了也好，省得霸着少主位置。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0028",
+      "text": "“就是，陆家少主总不能让一个废物当。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0029",
+      "text": "陆沉渊看向说话的少女。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0030",
+      "text": "陆嫣，三房之女。前世林家退婚那日，她第一个上来踩他的婚书，说他癞蛤蟆想吃天鹅肉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0031",
+      "text": "后来他成了圣地亲传，陆嫣又日日送信，喊他沉渊哥哥。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0032",
+      "text": "人心这种东西，陆沉渊见得太多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0033",
+      "text": "他只是笑了笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0034",
+      "text": "陆嫣被他看得心里一寒，随即恼羞成怒：“你笑什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0035",
+      "text": "陆沉渊道：“笑你声音挺大。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0036",
+      "text": "陆嫣一愣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0037",
+      "text": "陆沉渊又道：“希望待会儿还叫得出来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0038",
+      "text": "四周一静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0039",
+      "text": "陆嫣脸色涨红：“你！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0040",
+      "text": "陆川眼神沉下去：“陆沉渊，病了一场，嘴倒是硬了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0041",
+      "text": "陆沉渊没再看他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0042",
+      "text": "高台上，大族老陆青山咳嗽一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0043",
+      "text": "“大比开始。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0044",
+      "text": "第一轮是测脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0045",
+      "text": "陆家子弟依次走到测灵碑前，将手掌按上去。碑身亮起几道光纹，代表开脉几重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0046",
+      "text": "“陆铭，开脉五重。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0047",
+      "text": "“陆嫣，开脉六重。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0048",
+      "text": "陆嫣测完后，得意地看了陆沉渊一眼。周围族人纷纷称赞，三房长辈笑得合不拢嘴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0049",
+      "text": "“不错，嫣儿今年进步很大。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0050",
+      "text": "“开脉六重，在青岚城年轻一辈也算中上了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0051",
+      "text": "很快，陆川走上前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0052",
+      "text": "他掌心按在碑上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0053",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0054",
+      "text": "七道光纹接连亮起，最后一道光纹格外明亮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0055",
+      "text": "“陆川，开脉七重！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0056",
+      "text": "演武场顿时沸腾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0057",
+      "text": "“七重！陆川哥果然突破了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0058",
+      "text": "“十七岁的开脉七重，已经能进青岚宗外门了吧？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0059",
+      "text": "“陆家年轻一辈第一人！”",
+      "kind": "dialogue",
+      "speaker": "陆川",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0060",
+      "text": "陆承远坐在高台上，笑意压都压不住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0061",
+      "text": "几个族老也频频点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0062",
+      "text": "大族老道：“陆川天资不俗，若能保持，陆家未来可期。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0063",
+      "text": "陆川转身，看向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0064",
+      "text": "“堂兄，该你了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0065",
+      "text": "众人目光一下聚集过来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0066",
+      "text": "有人幸灾乐祸，有人冷眼旁观，还有人已经等着看少主颜面扫地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0067",
+      "text": "陆沉渊走向测灵碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0068",
+      "text": "他步子不快，青衫在风里微微晃动。病弱，清瘦，像一阵风就能吹倒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0069",
+      "text": "陆嫣嗤笑：“装什么镇定。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0070",
+      "text": "陆沉渊站到碑前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0071",
+      "text": "系统声音响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0072",
+      "text": "【检测到公开场合。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0073",
+      "text": "【建议宿主进行第一次显圣。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0074",
+      "text": "【方式一：直接展露开脉七重，震惊全场。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0075",
+      "text": "【方式二：隐藏境界，先抑后扬，收益更高。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0076",
+      "text": "陆沉渊心中道：“隐藏。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0077",
+      "text": "【收到。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0078",
+      "text": "他抬手按上测灵碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0079",
+      "text": "碑身微微一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0080",
+      "text": "一道光纹亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0081",
+      "text": "第二道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0082",
+      "text": "第三道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0083",
+      "text": "然后，没了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0084",
+      "text": "“陆沉渊，开脉三重！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0085",
+      "text": "负责记录的执事声音落下，演武场先是一静，随后爆发出更大的嘲笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0086",
+      "text": "“果然还是三重！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0087",
+      "text": "“我就说他不可能有长进。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0088",
+      "text": "“同样是陆家子弟，陆川哥七重，他三重，这少主还坐得住？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0089",
+      "text": "陆嫣笑得眼角弯起：“陆沉渊，你昨晚嘴那么硬，我还以为你至少开脉四重了呢。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0090",
+      "text": "陆川摇了摇头，故作惋惜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0091",
+      "text": "“堂兄，你这天赋，确实不适合再占着少主之位。你若现在把少主令交出来，我可以在比试时下手轻些。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0092",
+      "text": "陆沉渊收回手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0093",
+      "text": "“你很想要？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0094",
+      "text": "陆川盯着那枚令牌：“那本该属于真正能带领陆家的人。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0095",
+      "text": "陆沉渊点头：“那你来拿。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0096",
+      "text": "陆川眼中寒光一闪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0097",
+      "text": "高台上，陆承远适时开口：“年轻人有争胜之心是好事。大比本就是检验实力，若陆沉渊能守住少主令，自然没人多说。若守不住，也该顺应族意。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0098",
+      "text": "几位族老互相看了看，没有反对。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0099",
+      "text": "大族老沉声道：“下一项，比武。抽签开始。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0100",
+      "text": "所谓抽签，不过是早就写好的戏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0101",
+      "text": "第一场，陆沉渊对陆川。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0102",
+      "text": "签牌亮出来时，演武场又是一阵低呼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0103",
+      "text": "“这也太巧了吧。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0104",
+      "text": "“有什么巧不巧的，迟早要打。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0105",
+      "text": "“开脉三重对七重，陆沉渊惨了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0106",
+      "text": "小竹站在场边，脸色煞白，手指攥紧衣角。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "xiaozhu"
+      ]
+    },
+    {
+      "id": "ch0002_b0107",
+      "text": "她知道少主这些年受了多少冷眼，也知道陆川绝不会留情。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0108",
+      "text": "陆沉渊却已经走上擂台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0109",
+      "text": "陆川紧随其后，脚下一踏，整个人跃上三尺高台，动作利落，引来一片喝彩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0110",
+      "text": "他享受着众人的目光，缓缓抬起拳头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0111",
+      "text": "“堂兄，我最后给你一次机会。跪下，认输，把少主令交出来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0112",
+      "text": "陆沉渊看着他：“你废话一直这么多吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0113",
+      "text": "陆川脸色骤冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0114",
+      "text": "“找死！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0115",
+      "text": "裁判刚喊开始，陆川便冲了出去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0116",
+      "text": "开脉七重的气血爆发，脚下木板咔嚓作响。他施展的是陆家黄阶上品武技，裂山拳。拳风沉重，直奔陆沉渊胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0117",
+      "text": "这一拳若打实，开脉三重至少断五根肋骨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0118",
+      "text": "场下有人惊呼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0119",
+      "text": "“陆川哥动真格了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0120",
+      "text": "“陆沉渊躲不开！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0121",
+      "text": "陆嫣笑容扩大。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0122",
+      "text": "陆承远眼底闪过满意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0123",
+      "text": "大族老眉头微皱，却没有出声。大比有伤亡，只要不死人，都算规矩之内。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0124",
+      "text": "陆沉渊站在原地，没有躲。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0125",
+      "text": "在他眼里，陆川的动作慢得可笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0126",
+      "text": "裂山拳，起手沉肩，发力偏右，拳至半途左肋空门大开。前世陆沉渊十七岁便看穿这种低阶武技，可那时他不懂藏锋，也不懂人心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0127",
+      "text": "现在他懂了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0128",
+      "text": "拳风逼近面门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0129",
+      "text": "陆沉渊抬起右手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0130",
+      "text": "不是拔剑，不是运掌，只是伸出一根手指。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0131",
+      "text": "轻轻一点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0132",
+      "text": "点在陆川拳锋侧面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0133",
+      "text": "啪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0134",
+      "text": "声音很轻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0135",
+      "text": "像雨滴落在石阶上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0136",
+      "text": "可下一瞬，陆川脸上的狞笑僵住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0137",
+      "text": "他只觉得一股无法抗拒的力量从拳头传来，整条手臂瞬间发麻。裂山拳的劲力被那一指截断，反冲回经脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0138",
+      "text": "咔！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0139",
+      "text": "陆川脚下木板炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0140",
+      "text": "他整个人倒退三步，脸色由红转白，喉咙一甜，险些吐血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0141",
+      "text": "陆沉渊仍站在原地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0142",
+      "text": "青衫未乱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0143",
+      "text": "手指缓缓收回。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0144",
+      "text": "全场死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0145",
+      "text": "刚才还在嘲笑的人，像被掐住脖子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0146",
+      "text": "陆嫣嘴巴微张，笑容凝固在脸上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0147",
+      "text": "小竹瞪大眼睛，不敢相信自己看见了什么。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "xiaozhu"
+      ]
+    },
+    {
+      "id": "ch0002_b0148",
+      "text": "高台上，陆承远猛地站起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0149",
+      "text": "“怎么可能！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0150",
+      "text": "系统声音随之响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0151",
+      "text": "【来自陆川的震惊值+300。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0152",
+      "text": "【来自陆嫣的震惊值+120。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0153",
+      "text": "【来自陆承远的震惊值+500。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0154",
+      "text": "【来自陆家众人的震惊值+1360。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0155",
+      "text": "【当前震惊值：2280。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0156",
+      "text": "陆沉渊眼底掠过一丝笑意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0157",
+      "text": "果然，有用。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0158",
+      "text": "陆川站在擂台另一侧，右臂微微颤抖。他死死盯着陆沉渊，心中惊怒交加。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0159",
+      "text": "刚才那一下算什么？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0160",
+      "text": "开脉三重怎么可能挡住他的裂山拳？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0161",
+      "text": "不可能！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0162",
+      "text": "一定是他大意了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0163",
+      "text": "陆川咬牙道：“你偷袭！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0164",
+      "text": "场下有人回过神，也跟着喊：“对！陆沉渊刚才肯定用了什么阴招！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0165",
+      "text": "陆沉渊看向裁判：“开始了吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0166",
+      "text": "裁判愣了一下：“开……开始了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0167",
+      "text": "陆沉渊又问：“我动了吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0168",
+      "text": "裁判喉咙发干。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0169",
+      "text": "所有人都看见了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0170",
+      "text": "陆沉渊一步没动，只出了一根手指。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0171",
+      "text": "陆沉渊转向陆川：“我站着让你打，你还说我偷袭？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0172",
+      "text": "陆川脸色铁青。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0173",
+      "text": "这句话，比刚才那一指更狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0174",
+      "text": "羞辱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0175",
+      "text": "赤裸裸的羞辱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0176",
+      "text": "陆川怒吼一声，双拳齐出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0177",
+      "text": "“裂山三叠！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0178",
+      "text": "三重拳影接连爆发，劲风卷起擂台尘屑。陆川不再留手，开脉七重气息彻底释放，连场下靠近擂台的陆家子弟都忍不住后退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0179",
+      "text": "陆沉渊终于动了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0180",
+      "text": "他向前迈了一步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0181",
+      "text": "只一步，便从三重拳影之间穿过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0182",
+      "text": "陆川瞳孔骤缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0183",
+      "text": "人呢？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0184",
+      "text": "下一刻，陆沉渊出现在他身侧，仍旧是那根手指，点在他肩头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0185",
+      "text": "咔嚓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0186",
+      "text": "陆川半边身子一麻，拳势当场溃散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0187",
+      "text": "陆沉渊没有重伤他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0188",
+      "text": "只是让他跪下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0189",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0190",
+      "text": "陆川双膝砸在擂台上，木板震裂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0191",
+      "text": "陆沉渊站在他面前，俯视着他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0192",
+      "text": "“少主令，还拿吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0193",
+      "text": "陆川满脸涨红，想站起来，却发现肩头那一点像压着千斤巨石，任他如何催动真气，都动弹不得。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0194",
+      "text": "场下寂静得能听见风声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0195",
+      "text": "陆嫣脸色煞白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0196",
+      "text": "那些刚才叫得最响的族人，此刻一个个眼神发直。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0197",
+      "text": "开脉三重？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0198",
+      "text": "这叫开脉三重？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0199",
+      "text": "一指破裂山拳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0200",
+      "text": "一步穿三叠拳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0201",
+      "text": "再一指，让开脉七重的陆川跪在擂台上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0202",
+      "text": "这若是废物，那他们算什么？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0203",
+      "text": "高台上，大族老终于坐不住了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0204",
+      "text": "他盯着陆沉渊，声音发沉：“陆沉渊，你隐藏了修为？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0205",
+      "text": "陆沉渊抬头，神色平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0206",
+      "text": "“族老说笑了，测灵碑刚测过，开脉三重。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0207",
+      "text": "这话一出，众人脸色更怪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0208",
+      "text": "测灵碑不可能错。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0209",
+      "text": "可眼前这一幕又怎么解释？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0210",
+      "text": "陆承远眼神阴沉，强压怒火：“沉渊，族中大比，不是让你用邪门手段逞凶的地方。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0211",
+      "text": "陆沉渊看向他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0212",
+      "text": "“二叔的意思是，陆川打断我肋骨，就是大比规矩。我让他跪下，就是邪门手段？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0213",
+      "text": "陆承远一噎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0214",
+      "text": "陆沉渊继续道：“还是说，今日这场大比，只能我输，不能我赢？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0215",
+      "text": "话音落下，四周气氛骤然紧绷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0216",
+      "text": "青岚城其他家族的人也看了过来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0217",
+      "text": "陆承远脸色难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0218",
+      "text": "这句话若接不好，陆家内部夺权的丑事就要摆到明面上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0219",
+      "text": "大族老沉声道：“够了。比试还未结束。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0220",
+      "text": "陆沉渊低头看着陆川。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0221",
+      "text": "“还能打吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0222",
+      "text": "陆川咬牙，眼中满是血丝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0223",
+      "text": "他不甘心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0224",
+      "text": "他准备了这么久，父亲铺了这么多路，今日本该是他踩着陆沉渊夺少主位的日子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0225",
+      "text": "怎么会变成这样？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0226",
+      "text": "他猛地从怀里摸出一枚赤红丹药，塞入口中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0227",
+      "text": "“川儿！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0228",
+      "text": "陆承远脸色一变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0229",
+      "text": "但已经晚了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0230",
+      "text": "丹药入喉，陆川浑身气血暴涨，双眼泛红，硬生生冲开陆沉渊那一指压制。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0231",
+      "text": "“陆沉渊！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0232",
+      "text": "他站起身，声音嘶哑如兽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0233",
+      "text": "“我要你死！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0234",
+      "text": "场下哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0235",
+      "text": "“爆血丹！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0236",
+      "text": "“陆川疯了？大比不能用禁药！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0237",
+      "text": "“这下陆沉渊危险了，爆血丹能让开脉境短时间提升两重！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0238",
+      "text": "陆川浑身肌肉鼓胀，气息直逼开脉九重。他一步踏碎木板，双拳带着血色劲气轰向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0239",
+      "text": "小竹惊叫：“少主！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan",
+        "xiaozhu"
+      ]
+    },
+    {
+      "id": "ch0002_b0240",
+      "text": "陆承远嘴唇动了动，却没有阻止。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0241",
+      "text": "只要陆沉渊被废，事后再罚陆川几句又如何？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0242",
+      "text": "陆沉渊眼神冷了下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0243",
+      "text": "给脸不要，那就不必留脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0244",
+      "text": "他体内第七条经脉微微一震，玄骨深处有暗金光芒闪过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0245",
+      "text": "陆川扑到面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0246",
+      "text": "陆沉渊抬手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0247",
+      "text": "这一次，不是一指。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0248",
+      "text": "是一掌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0249",
+      "text": "啪！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0250",
+      "text": "清脆耳光声响彻演武场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0251",
+      "text": "陆川整个人横飞出去，在空中转了半圈，重重砸下擂台，连滚数丈，撞断场边木栏才停下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0252",
+      "text": "爆血丹的气息，散了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0253",
+      "text": "陆川趴在地上，半张脸高高肿起，眼神涣散，连惨叫都叫不出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0254",
+      "text": "全场鸦雀无声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0255",
+      "text": "陆沉渊站在擂台中央，甩了甩手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0256",
+      "text": "“开脉九重。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0257",
+      "text": "他看向陆承远，语气淡淡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0258",
+      "text": "“也不过如此。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0259",
+      "text": "【来自陆川的震惊值+800。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0260",
+      "text": "【来自陆承远的震惊值+1200。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0261",
+      "text": "【来自大族老陆青山的震惊值+900。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0262",
+      "text": "【来自陆家众人的震惊值+3200。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0263",
+      "text": "【来自青岚城观礼者的震惊值+2100。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0264",
+      "text": "【当前震惊值：9180。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0265",
+      "text": "陆沉渊没有理会系统提示。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0266",
+      "text": "他的目光越过人群，落在观礼席另一侧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0267",
+      "text": "那里坐着林家的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0268",
+      "text": "一名白衣少女正看着他，眉头微蹙，眼中第一次出现了不确定。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0269",
+      "text": "林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0002_b0270",
+      "text": "还未退婚的林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0002_b0271",
+      "text": "前世那句“你挡了无缺的路”，像一根冰针，从记忆深处刺出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "qin_wuque"
+      ]
+    },
+    {
+      "id": "ch0002_b0272",
+      "text": "陆沉渊眼底没有爱，也没有痛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0002_b0273",
+      "text": "只剩一片平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0274",
+      "text": "这场大比，只是开始。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0275",
+      "text": "那些欠他的命，欠他的血，欠他的三百年。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0002_b0276",
+      "text": "他会让他们一点一点还回来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    }
+  ]
+}

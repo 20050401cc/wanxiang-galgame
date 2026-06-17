@@ -1,0 +1,167 @@
+{
+  "model_path": "built-in image_gen / image2-style generation",
+  "style_lock": "Chinese xuanhuan visual novel, polished galgame illustration, readable behind UI, no text, no watermark, no logo",
+  "generated_assets": [
+    {
+      "id": "key_art",
+      "path": "assets/backgrounds/key_art.png",
+      "role": "title screen and destiny-reversal key art"
+    },
+    {
+      "id": "sacrifice_hall",
+      "path": "assets/backgrounds/sacrifice_hall.png",
+      "role": "opening betrayal and furnace sacrifice scene"
+    },
+    {
+      "id": "rebirth_room",
+      "path": "assets/backgrounds/rebirth_room.png",
+      "role": "Qinglan City rainy rebirth bedroom scene"
+    },
+    {
+      "id": "clan_stage",
+      "path": "assets/backgrounds/clan_stage.png",
+      "role": "Lu family grand competition arena"
+    },
+    {
+      "id": "qinglan_zong_gate",
+      "path": "assets/backgrounds/qinglan_zong_gate.png",
+      "role": "Qinglan Sect mountain gate and assessment arc"
+    },
+    {
+      "id": "pill_pavilion",
+      "path": "assets/backgrounds/pill_pavilion.png",
+      "role": "alchemy and Dan Pavilion crisis scenes"
+    },
+    {
+      "id": "royal_court",
+      "path": "assets/backgrounds/royal_court.png",
+      "role": "Great Qian Dynasty court and political scenes"
+    },
+    {
+      "id": "sacred_judgement_hall",
+      "path": "assets/backgrounds/sacred_judgement_hall.png",
+      "role": "holy land trial and destiny judgement scenes"
+    },
+    {
+      "id": "lu_chenyuan",
+      "path": "assets/characters/lu_chenyuan.png",
+      "role": "transparent protagonist sprite"
+    },
+    {
+      "id": "lin_qingxue",
+      "path": "assets/characters/lin_qingxue.png",
+      "role": "transparent Lin Qingxue sprite"
+    },
+    {
+      "id": "qin_wuque",
+      "path": "assets/characters/qin_wuque.png",
+      "role": "transparent Qin Wuque antagonist sprite"
+    },
+    {
+      "id": "yunheng_zhenren",
+      "path": "assets/characters/yunheng_zhenren.png",
+      "role": "transparent Yunheng Zhenren antagonist sprite"
+    },
+    {
+      "id": "qinglan_city_night",
+      "path": "assets/backgrounds/qinglan_city_night.png",
+      "role": "Qinglan City street and rainy night transitions"
+    },
+    {
+      "id": "lu_family_hall",
+      "path": "assets/backgrounds/lu_family_hall.png",
+      "role": "Lu family council hall and clan judgement"
+    },
+    {
+      "id": "lin_family_hall",
+      "path": "assets/backgrounds/lin_family_hall.png",
+      "role": "Lin family engagement cancellation hall"
+    },
+    {
+      "id": "law_enforcement_hall",
+      "path": "assets/backgrounds/law_enforcement_hall.png",
+      "role": "Qinglan Sect law enforcement hall"
+    },
+    {
+      "id": "sect_trial_realm",
+      "path": "assets/backgrounds/sect_trial_realm.png",
+      "role": "sect trial realm and secret realm exploration"
+    },
+    {
+      "id": "ancient_battlefield",
+      "path": "assets/backgrounds/ancient_battlefield.png",
+      "role": "ancient battlefield and forbidden-zone reveals"
+    },
+    {
+      "id": "tianjiao_banquet",
+      "path": "assets/backgrounds/tianjiao_banquet.png",
+      "role": "Nine Provinces Tianjiao banquet and tournament"
+    },
+    {
+      "id": "ancient_world_gate",
+      "path": "assets/backgrounds/ancient_world_gate.png",
+      "role": "ancient world gate and old-clan awakening"
+    },
+    {
+      "id": "system_interface",
+      "path": "assets/backgrounds/system_interface.png",
+      "role": "system panel and causality interface scenes"
+    },
+    {
+      "id": "system_mission_panel",
+      "path": "assets/backgrounds/system_mission_panel.png",
+      "role": "system mission, reward, and completion scenes"
+    },
+    {
+      "id": "causality_debt_ledger",
+      "path": "assets/backgrounds/causality_debt_ledger.png",
+      "role": "causality settlement and debt-ledger scenes"
+    },
+    {
+      "id": "shock_value_surge",
+      "path": "assets/backgrounds/shock_value_surge.png",
+      "role": "shock value and manifestation gain scenes"
+    },
+    {
+      "id": "reverse_causality_space",
+      "path": "assets/backgrounds/reverse_causality_space.png",
+      "role": "reverse causality and rebirth transition scenes"
+    },
+    {
+      "id": "burial_emperor_plain",
+      "path": "assets/backgrounds/burial_emperor_plain.png",
+      "role": "Burial Emperor Plain forbidden zone"
+    },
+    {
+      "id": "outer_heaven_battlefield",
+      "path": "assets/backgrounds/outer_heaven_battlefield.png",
+      "role": "outer heaven battlefield and star-war arc"
+    },
+    {
+      "id": "return_zero_gate",
+      "path": "assets/backgrounds/return_zero_gate.png",
+      "role": "final return-to-zero causality gate"
+    },
+    {
+      "id": "xiaozhu",
+      "path": "assets/characters/xiaozhu.png",
+      "role": "transparent Xiaozhu maid sprite"
+    },
+    {
+      "id": "shen_qingluan",
+      "path": "assets/characters/shen_qingluan.png",
+      "role": "transparent Shen Qingluan saintess sprite"
+    },
+    {
+      "id": "lu_chuan",
+      "path": "assets/characters/lu_chuan.png",
+      "role": "transparent Lu Chuan clan-rival sprite"
+    },
+    {
+      "id": "lu_chengyuan",
+      "path": "assets/characters/lu_chengyuan.png",
+      "role": "transparent Lu Chengyuan uncle antagonist sprite"
+    }
+  ],
+  "next_batch_prompts": []
+}

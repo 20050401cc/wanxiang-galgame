@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>万象清算 Galgame</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="styles.css?v=20260610-sharefix" />
+  </head>
+  <body>
+    <div id="app" class="app is-loading">
+      <main class="stage" aria-live="polite">
+        <img id="background" class="background" alt="" />
+        <div class="backdrop-vignette"></div>
+
+        <section id="titleScreen" class="title-screen">
+          <div class="title-lockup">
+            <p class="kicker">Visual Novel Edition</p>
+            <h1>万象清算：重生后我让天命退位</h1>
+            <p id="titleMeta" class="title-meta">读取原文中</p>
+            <div class="title-actions">
+              <button id="startBtn" class="primary-btn" type="button">开始</button>
+              <button id="continueBtn" class="ghost-btn" type="button">继续</button>
+            </div>
+          </div>
+        </section>
+
+        <section class="hud" aria-label="进度">
+          <div>
+            <p id="chapterLabel" class="chapter-label">载入中</p>
+            <p id="progressLabel" class="progress-label">0 / 0</p>
+          </div>
+          <div class="hud-actions">
+            <button id="chapterBtn" type="button" title="目录">目录</button>
+            <button id="logBtn" type="button" title="日志">日志</button>
+            <button id="saveBtn" type="button" title="保存">保存</button>
+            <button id="fullBtn" type="button" title="全屏">全屏</button>
+          </div>
+        </section>
+
+        <section id="characterLayer" class="character-layer" aria-hidden="true">
+          <img id="charXiaozhu" class="character character-farleft" alt="" />
+          <img id="charLu" class="character character-left" alt="" />
+          <img id="charShen" class="character character-midleft" alt="" />
+          <img id="charYun" class="character character-center" alt="" />
+          <img id="charQin" class="character character-midright" alt="" />
+          <img id="charLin" class="character character-right" alt="" />
+          <img id="charLuChuan" class="character character-farright" alt="" />
+          <img id="charLuChengyuan" class="character character-villainleft" alt="" />
+        </section>
+
+        <section class="textbox" aria-label="原文播放">
+          <div class="speaker-row">
+            <span id="speaker" class="speaker">旁白</span>
+            <span id="kindLabel" class="kind-label">原文</span>
+          </div>
+          <p id="storyText" class="story-text">正在读取脚本。</p>
+          <div class="controls">
+            <button id="prevBtn" type="button" title="上一句">‹</button>
+            <button id="autoBtn" type="button" title="自动播放">自动</button>
+            <button id="nextBtn" class="next-btn" type="button" title="下一句">›</button>
+          </div>
+        </section>
+      </main>
+
+      <aside id="chapterPanel" class="side-panel" aria-label="章节目录">
+        <div class="panel-head">
+          <h2>目录</h2>
+          <button id="closeChapterBtn" type="button">关闭</button>
+        </div>
+        <div id="chapterList" class="chapter-list"></div>
+      </aside>
+
+      <aside id="logPanel" class="side-panel side-panel-right" aria-label="文本日志">
+        <div class="panel-head">
+          <h2>日志</h2>
+          <button id="closeLogBtn" type="button">关闭</button>
+        </div>
+        <div id="sourceInfo" class="source-info"></div>
+        <div id="textLog" class="text-log"></div>
+      </aside>
+    </div>
+
+    <script src="app.js?v=20260610-sharefix"></script>
+  </body>
+</html>

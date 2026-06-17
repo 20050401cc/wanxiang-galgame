@@ -1,0 +1,1157 @@
+{
+  "id": "ch0016",
+  "index": 16,
+  "title": "第十六章 招新之前",
+  "beatCount": 133,
+  "beats": [
+    {
+      "id": "ch0016_b0001",
+      "text": "陆家主宅，天刚亮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0002",
+      "text": "寒鸦岭之事尚未传开，陆家上下却已暗流涌动。青岚宗招新临近，各房子弟早早聚在议事堂外，人人衣冠整齐，神色紧绷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0003",
+      "text": "对陆家这种地方家族而言，青岚宗招新不是简单报名。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0004",
+      "text": "那是改命的门槛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0005",
+      "text": "只要有一人入宗，家族地位便会水涨船高。若能成为外门弟子，便足以压过城中数家。若再往上走一步，陆家未来十年的资源分配，都要跟着改写。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0006",
+      "text": "所以报名令，向来是最锋利的刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0007",
+      "text": "议事堂内，几名族老端坐上首，脸色比平日更沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0008",
+      "text": "陆承远已被压下，但他的残余人脉并未散尽。尤其几名掌过族库、管过子弟名册的老人，表面称臣，暗地里仍想着找机会翻账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0009",
+      "text": "今日，他们找到了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0010",
+      "text": "“陆沉渊近来行事太过激烈。”",
+      "kind": "dialogue",
+      "speaker": "陆承远",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0011",
+      "text": "三族老放下茶盏，缓缓开口：“休妻、动刑、夺印，又私自外出。青岚宗招新讲究根骨，也讲究品行。若让他拿少主名额报名，万一惹怒宗门，岂不是连累陆家？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0012",
+      "text": "旁边一名管事立刻接话：“不错。况且少主虽有名分，但族中报名令只有三枚。陆成岳、陆婉、陆明川三人近年修为稳固，皆已开脉有成。陆沉渊此前根基受损，是否适合报名，还该重新议定。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0013",
+      "text": "这话一出，堂外不少子弟低声议论。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0014",
+      "text": "根基受损，是旧账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0015",
+      "text": "可旧账最容易被拿来做新刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0016",
+      "text": "陆镇南坐在主位，眉头微皱。他刚要开口，议事堂外忽然传来一道平静声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0017",
+      "text": "“重新议定？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0018",
+      "text": "众人转头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0019",
+      "text": "陆沉渊踏入堂内，青色长衣未换，袖口干净，神色平静。昨夜寒鸦岭的血色没有在他身上留下半点痕迹，只有一双眼，比从前更沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0020",
+      "text": "他身后跟着两名护卫，捧着一只木匣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0021",
+      "text": "陆镇南看见他时，目光微不可察地一顿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0022",
+      "text": "父子之间不必多问。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0023",
+      "text": "陆沉渊能站在这里，说明昨夜截杀的人没能站着回来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0024",
+      "text": "三族老眼底闪过一丝阴沉，随即摆出长辈姿态：“沉渊，你来得正好。族中正议青岚宗招新名额。你虽是少主，但少主也该以家族大局为重。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0025",
+      "text": "陆沉渊看了他一眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0026",
+      "text": "“家族大局？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0027",
+      "text": "“自然。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0028",
+      "text": "三族老道：“若你根基未复，却强占报名令，岂不是误了陆家机会？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0029",
+      "text": "陆沉渊淡淡道：“所以你们想扣下我的报名资格。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0030",
+      "text": "一名族老皱眉：“话不要说得这么难听。只是暂缓。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0031",
+      "text": "“暂缓到招新结束？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0032",
+      "text": "陆沉渊目光扫过众人：“还是暂缓到陆承远的人重新握住名册？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0033",
+      "text": "堂内一静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0034",
+      "text": "陆承远三个字，像一柄刀直接插在桌上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0035",
+      "text": "三族老脸色微变：“你这是什么意思？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0036",
+      "text": "陆沉渊没有回答，只抬手示意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0037",
+      "text": "护卫将木匣放在堂中，打开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0038",
+      "text": "第一层，是几枚碎裂的私印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0039",
+      "text": "第二层，是子弟名册副册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0040",
+      "text": "第三层，是两张盖着暗印的银票流转凭证。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0041",
+      "text": "堂内管事脸色瞬间发白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0042",
+      "text": "陆沉渊走到木匣旁，声音不高，却让每个人都听得清清楚楚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0043",
+      "text": "“昨夜我去寒鸦岭，杀了几名追兵。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0044",
+      "text": "几个族老眼皮一跳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0045",
+      "text": "“追兵身上，有青岚宗外门印记。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0046",
+      "text": "陆沉渊从袖中取出一枚割下的暗青印牌，放在桌上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0047",
+      "text": "青岚宗三个字尚未出口，堂内气氛已经僵住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0048",
+      "text": "陆沉渊继续道：“他们身上还带着陆家内院出入暗号，以及这三日子弟名册调动记录。记录里，我的报名令被划到陆成岳名下，时间是昨夜子时。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0049",
+      "text": "他看向那名管事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0050",
+      "text": "“我人在寒鸦岭，你在陆家替我改命。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0051",
+      "text": "管事膝盖一软，险些跪下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0052",
+      "text": "三族老厉声道：“一派胡言！这些东西谁知道是不是你伪造的？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0053",
+      "text": "陆沉渊抬眸，眼底没有怒，只有冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0054",
+      "text": "“族老说得对，证据当然要验。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0055",
+      "text": "他抬手一挥，木匣底部暗格打开，里面躺着一枚传讯玉符。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0056",
+      "text": "玉符亮起，传出昨夜一道压低的声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0057",
+      "text": "“等他出岭，若未死，便拖住报名令。青岚宗使者来前，名册必须改完。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0058",
+      "text": "声音不长。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0059",
+      "text": "却足够。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0060",
+      "text": "堂内有人倒吸冷气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0061",
+      "text": "那声音，正是陆承远旧部管事之一。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0062",
+      "text": "陆沉渊转向三族老：“还要继续验吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0063",
+      "text": "三族老额角微微跳动，却强撑道：“就算有人私下动手，也不能说明族老会有意扣你资格。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0064",
+      "text": "“我没说族老会有意。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0065",
+      "text": "陆沉渊声音更淡：“我只说，族老若老糊涂到被一个管事牵着走，那便不适合再管招新名册。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0066",
+      "text": "啪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0067",
+      "text": "一句话落下，堂内众人心头齐震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0068",
+      "text": "这不是辩解。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0069",
+      "text": "这是夺权。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0070",
+      "text": "三族老猛地拍案：“陆沉渊！你眼里还有没有族规？！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0071",
+      "text": "陆沉渊平静道：“正因为有族规，我才站在这里，而不是先清人头。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0072",
+      "text": "话音落下，他从袖中取出少主令，直接按在议事桌中央。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0073",
+      "text": "少主令一落，灵纹亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0074",
+      "text": "陆家族规中，少主有监察族务、调验名册、临时罢免失职管事之权。过去陆沉渊修为受损，名分虽在，权柄却被陆承远一系架空。如今陆承远败落，这枚令终于回到了它该有的位置。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0075",
+      "text": "系统光幕无声闪过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0076",
+      "text": "【触发局势清算：报名令争夺。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0077",
+      "text": "【可借势目标：陆家少主权柄、族规旧章、青岚宗招新规制。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0078",
+      "text": "【建议：以规破局。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0079",
+      "text": "陆沉渊眼神微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0080",
+      "text": "“调族规第三卷，少主监察条。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0081",
+      "text": "陆镇南挥手，旁边书记立刻取出族规卷册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0082",
+      "text": "陆沉渊不用翻，直接道：“族中重大名额，若涉少主本人，名册变更需家主、少主、三名族老共同签押。未签者无效。私改名册者，夺职，杖四十，交族法堂。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0083",
+      "text": "书记翻到对应位置，脸色一变：“确有此条。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0084",
+      "text": "陆沉渊又道：“族规第五卷，招新名额条。嫡系少主若符合最低开脉要求，报名令优先保留，不得以旧伤、旧怨、房系利益废止。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0085",
+      "text": "书记继续翻，声音开始发颤：“也有。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0086",
+      "text": "三族老脸色彻底难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0087",
+      "text": "他掌族规多年，却从未想到陆沉渊会把这些冷僻条款背得如此清楚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0088",
+      "text": "事实上，陆沉渊不是背。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0089",
+      "text": "系统已在此刻完成推演。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0090",
+      "text": "【消耗震惊值：五十点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0091",
+      "text": "【局势借势成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0092",
+      "text": "【奖励：宗规解读。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0093",
+      "text": "【说明：可快速解析家族、宗门、势力条文中的可用权柄与漏洞。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0094",
+      "text": "陆沉渊没有理会奖励，只看向陆镇南。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0095",
+      "text": "“父亲，按族规办。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0096",
+      "text": "陆镇南沉默片刻，眼底闪过一抹赞许。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0097",
+      "text": "他起身，声音沉稳：“私改名册者，拿下。涉事管事，夺职。陆承远残余暗线，一并交族法堂审。三族老监管不力，暂卸招新名册之权，由少主亲自核验。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0098",
+      "text": "三族老脸色铁青：“家主！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0099",
+      "text": "陆镇南看向他：“你若觉得不服，可以把族规翻出来，当着全族讲。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0100",
+      "text": "三族老嘴唇动了动，终究没敢再说。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0101",
+      "text": "陆沉渊将报名令从木匣中取出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0102",
+      "text": "那是一枚青玉小令，正面刻着青岚宗云岚纹，背面刻着陆家举荐。令牌本该三日前就送到他手中，却被藏在名册暗格里，等着换主。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0103",
+      "text": "他指尖摩挲令牌，淡淡道：“东西是我的，谁伸手，谁断手。这个道理，以后不用我再教。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0104",
+      "text": "堂外子弟一片死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0105",
+      "text": "陆成岳站在人群里，脸色白一阵青一阵。他原本以为今日能顺理成章拿到第三枚报名令，哪怕陆沉渊不服，也只能等招新后再闹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0106",
+      "text": "可陆沉渊根本没给他们“以后”。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0107",
+      "text": "他把证据、族规、权柄全摆在今天。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0108",
+      "text": "当场清账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0109",
+      "text": "陆沉渊转身看向堂外众人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0110",
+      "text": "“青岚宗招新，陆家三枚报名令不变。想争，可以在演武场凭本事争另外两枚。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0111",
+      "text": "他顿了顿，目光落在陆成岳身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0112",
+      "text": "“但谁再碰我的名额，我会让他连站上演武场的机会都没有。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0113",
+      "text": "陆成岳喉咙发干，竟不敢应声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0114",
+      "text": "就在这时，门外护卫匆匆入内，单膝跪地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0115",
+      "text": "“家主，少主，城门传讯。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0116",
+      "text": "陆镇南皱眉：“说。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0117",
+      "text": "护卫抬头，神色惊疑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0118",
+      "text": "“青岚宗招新使者到了。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0119",
+      "text": "议事堂内轰然一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0120",
+      "text": "有人脱口而出：“不可能！招新使者不是三日后才到吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0121",
+      "text": "护卫咽了咽口水：“来人说，宗门临时改期，提前巡查各家报名名册。青岚宗使者已入城，正往陆家来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0122",
+      "text": "三族老眼底忽然闪过一丝难以掩饰的异色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0123",
+      "text": "陆沉渊看见了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0124",
+      "text": "他也看见堂外几个陆承远旧部同时低下头，像是早就知道会有这一刻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0125",
+      "text": "提前抵达。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0126",
+      "text": "不是意外。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0127",
+      "text": "是有人怕陆家账没改完，所以把青岚宗的人提前请来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0128",
+      "text": "陆沉渊低头，看了一眼掌中的报名令，又看向桌上的青岚宗外门印记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0016_b0129",
+      "text": "嘴角微微扬起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0130",
+      "text": "“来得正好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0131",
+      "text": "他抬手收起令牌，声音平静得让人心寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0132",
+      "text": "“陆家的账清完了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0016_b0133",
+      "text": "“该清宗门的了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    }
+  ]
+}

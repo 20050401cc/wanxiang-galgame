@@ -1,0 +1,1544 @@
+{
+  "id": "ch0020",
+  "index": 20,
+  "title": "第二十章 断剑有灵",
+  "beatCount": 182,
+  "beats": [
+    {
+      "id": "ch0020_b0001",
+      "text": "断剑入手，比看上去更沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0002",
+      "text": "陆沉渊回到杂役院分给自己的小屋时，外面夜色已深。屋内只有一张木床，一张残桌，一盏油灯。墙角漏风，地面潮湿，窗纸破了两个洞，寒气顺着缝隙钻进来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0003",
+      "text": "换作旁人，从三关第一跌到这种地方，心里难免憋屈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0004",
+      "text": "陆沉渊却很平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0005",
+      "text": "他把断剑放在桌上，又取出白日从柴场顺手换来的磨石、废油、麻布和半包铁砂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0006",
+      "text": "杂役院没有灵炉，没有名匠，没有上等材料。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0007",
+      "text": "但修一把剑，未必一开始就要那些。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0008",
+      "text": "他先擦去表面浮锈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0009",
+      "text": "麻布一层层抹过，黑红色铁屑簌簌落下。断剑原本模糊的纹路渐渐露出。那不是普通铸纹，而是一道道细密如骨节的剑脉，从剑柄延伸到断口处，只是大半都被裂痕截断。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0010",
+      "text": "陆沉渊眯起眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0011",
+      "text": "“剑脉被烧断过。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0012",
+      "text": "他前世见过兵器无数。好剑不怕断，怕的是脉死。剑脉若死，再锋利也只是废铁；剑脉若存，哪怕只剩半截，也可能重开锋芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0013",
+      "text": "这把断剑，脉未全死。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0014",
+      "text": "只是被一股极烈的火力封住了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0015",
+      "text": "陆沉渊指尖按在剑脊黑痕上，玄骨微震，体内那缕玄骨灵髓留下的清冷力量顺着指腹渗入剑身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0016",
+      "text": "嗡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0017",
+      "text": "油灯火苗轻轻一晃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0018",
+      "text": "断剑没有亮，却像在沉睡中吐出一口寒气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0019",
+      "text": "【检测到残缺兵器：未知断剑。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0020",
+      "text": "【兵器状态：剑脉残损，火蚀封痕，疑似残留微弱魂性。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0021",
+      "text": "【可借势方向：玄骨定脉，万象引锋。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0022",
+      "text": "陆沉渊眼神一凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0023",
+      "text": "魂性。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0024",
+      "text": "兵器有灵，并不稀奇。真正稀奇的是，这么一把被丢在杂役院废库里的断剑，竟还有魂性未灭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0025",
+      "text": "他没有急着灌力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0026",
+      "text": "越是残损之物，越不能猛攻。剑脉像人脉，断处强冲，只会彻底崩碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0027",
+      "text": "陆沉渊先用铁砂细磨断口，再以废油洗去火蚀浮层，最后用麻布紧紧缠住剑柄。他做得很慢，每一步都像在处理伤口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0028",
+      "text": "窗外，几名杂役弟子悄悄路过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0029",
+      "text": "有人低声笑道：“还真把废剑当宝？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0030",
+      "text": "“赵管事说了，明日给他派更狠的活。今日让他出风头，明日就让他趴下。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0031",
+      "text": "“叶寒师兄的人在外门看着呢，他爬不上去。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0032",
+      "text": "声音远去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0033",
+      "text": "陆沉渊没有抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0034",
+      "text": "爬？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0035",
+      "text": "他从不爬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0036",
+      "text": "他只会把挡路的人踩成台阶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0037",
+      "text": "半个时辰后，断剑上的黑锈褪去大半。剑身虽然残缺，却显出一种暗沉的玄色，像火烧后的夜铁。陆沉渊指腹划过剑脊，忽然被一处细刺划破。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0038",
+      "text": "一滴血落在剑身裂痕上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0039",
+      "text": "嗡！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0040",
+      "text": "断剑猛地一颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0041",
+      "text": "油灯瞬间熄灭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0042",
+      "text": "屋内陷入黑暗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0043",
+      "text": "陆沉渊坐在桌前，眼神却骤然冷了下来。因为黑暗之中，他看见断剑裂痕里浮出一线微弱赤光，像灰烬底下将灭未灭的火。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0044",
+      "text": "下一刻，一股冰冷杀意顺着剑柄冲入掌心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0045",
+      "text": "不是幻象。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0046",
+      "text": "是剑意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0047",
+      "text": "很残，很碎，却锋利得惊人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0048",
+      "text": "陆沉渊眼前景象一变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0049",
+      "text": "他仍在小屋里，却仿佛站进了一座空旷的兵器场。四周没有仙雾，没有玄妙光海，只有泥地、木桩、铁架、风声，以及一排排插在地上的旧兵器。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0050",
+      "text": "刀、枪、斧、矛、戟、锤、短刃、长剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0051",
+      "text": "全部残破。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0052",
+      "text": "一道沙哑声音在前方响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0053",
+      "text": "“握剑者，试锋。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0054",
+      "text": "陆沉渊看向声音来处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0055",
+      "text": "断剑前方，站着一个模糊影子。那影子像人，却残缺不全，肩背处有火蚀痕迹，右臂只剩半截轮廓，脸也看不清。它手中握着一把完整长剑，剑尖斜指地面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0056",
+      "text": "残缺剑魂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0057",
+      "text": "陆沉渊淡淡道：“你想试我？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0058",
+      "text": "剑魂声音干涩：“废物不配持剑。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0059",
+      "text": "话音未落，它一步踏出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0060",
+      "text": "没有花哨身法，没有漫天剑光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0061",
+      "text": "只是直刺。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0062",
+      "text": "快、准、狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0063",
+      "text": "剑尖直取咽喉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0064",
+      "text": "陆沉渊反手提起断剑，横挡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0065",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0066",
+      "text": "一声金铁交鸣，他整个人被震退三步，虎口微麻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0067",
+      "text": "好重的剑势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0068",
+      "text": "这不是境界碾压，而是纯粹的冷兵器压迫。出剑者懂距离，懂重心，懂杀人。那一刺没有浪费半分力，若陆沉渊挡得慢一瞬，咽喉便已被穿透。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0069",
+      "text": "剑魂没有停。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0070",
+      "text": "第二剑斩肩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0071",
+      "text": "第三剑切腕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0072",
+      "text": "第四剑挑腹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0073",
+      "text": "每一剑都朴素到近乎粗暴，却都落在陆沉渊最难受的位置。它不追求好看，只追求让人死。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0074",
+      "text": "陆沉渊连挡七剑，脚下在泥地里划出七道痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0075",
+      "text": "第八剑落下时，他没有再硬挡，而是侧身半寸，让剑锋贴着衣襟掠过，同时用断剑背脊撞向对方剑格。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0076",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0077",
+      "text": "剑魂手中长剑偏开一线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0078",
+      "text": "陆沉渊顺势进步，肩撞、肘压、短剑切腕，一连三招贴身反打。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0079",
+      "text": "剑魂退了半步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0080",
+      "text": "“懂战。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0081",
+      "text": "“前世被人追杀多了，自然懂一点。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0082",
+      "text": "剑魂不懂前世二字，只再次出剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0083",
+      "text": "这一次，它改刺为劈，剑势沉如战斧，逼陆沉渊不能后退。兵器场两侧的残刀残枪仿佛被风牵动，发出低低嗡鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0084",
+      "text": "陆沉渊深吸一口气，玄骨之力沿脊而起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0085",
+      "text": "他现在只是开脉境界，正面对拼并不占便宜。但他有玄骨，有万象借势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0086",
+      "text": "剑魂的剑再凶，也要遵循兵器的势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0087",
+      "text": "重劈之后，必有回收。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0088",
+      "text": "直刺之后，腕肩连线必露。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0089",
+      "text": "踏步发力，重心必先落足。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0090",
+      "text": "这些都是势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0091",
+      "text": "【万象借势系统启动。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0092",
+      "text": "【可借：剑魂旧招之势、残兵共鸣之势、玄骨承压之势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0093",
+      "text": "陆沉渊眼中，剑魂的动作忽然变得清晰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0094",
+      "text": "不是变慢，而是每一道发力轨迹都像有痕迹可循。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0095",
+      "text": "剑魂横斩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0096",
+      "text": "陆沉渊不挡剑锋，断剑点向对方剑身三寸处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0097",
+      "text": "那里是力道转折。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0098",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0099",
+      "text": "剑势偏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0100",
+      "text": "剑魂上挑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0101",
+      "text": "陆沉渊压腕，断剑顺势滑下，卡住对方剑脊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0102",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0103",
+      "text": "长剑停。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0104",
+      "text": "剑魂踏前重劈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0105",
+      "text": "陆沉渊脚下不退反进，玄骨承住那一瞬压迫，断剑贴着长剑内侧逆削而上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0106",
+      "text": "嗤！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0107",
+      "text": "剑魂手臂虚影被削开一道裂痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0108",
+      "text": "残缺影子停了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0109",
+      "text": "陆沉渊也停了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0110",
+      "text": "他的虎口已经裂开，血顺着断剑流下，却没有一滴落地，全被剑身裂痕吸收。断剑的赤光更亮了些，仿佛灰烬重新遇风。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0111",
+      "text": "剑魂低声道：“你借我的剑势？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0112",
+      "text": "陆沉渊道：“你的剑太直，直到可以被人看见骨头。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0113",
+      "text": "“狂。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0114",
+      "text": "剑魂双手握剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0115",
+      "text": "兵器场内风声骤然变冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0116",
+      "text": "这一次，它没有立刻攻来，而是摆出了一个极简的架势。剑尖低垂，肩沉，膝屈，所有力量都压在脚下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0117",
+      "text": "陆沉渊眼神微凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0118",
+      "text": "这一剑，不能躲。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0119",
+      "text": "因为剑魂的势已经锁住他的退路。只要他退，下一剑便会追入中线，直接破开他的防守。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0120",
+      "text": "剑魂道：“接住，便认主。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0121",
+      "text": "陆沉渊握紧断剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0122",
+      "text": "剑魂一步踏出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0123",
+      "text": "泥地炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0124",
+      "text": "长剑由下而上，像从地底拔出的寒铁，斩向陆沉渊胸腹。没有光，没有雷，没有玄虚异象，只是一剑，带着无数次战场厮杀磨出来的决断。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0125",
+      "text": "陆沉渊在这一瞬想起前世。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0126",
+      "text": "想起自己被人逼到绝路，想起那些冷眼旁观的人，想起背后那只看不见的手如何一步步抽走他的命数。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0127",
+      "text": "他重生，不是为了再躲一次。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0128",
+      "text": "玄骨震鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0129",
+      "text": "体内脉力全部压入右臂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0130",
+      "text": "断剑没有迎向剑锋，而是先向下压，借对方上斩之势，让两剑贴合。紧接着，他腕骨一转，断剑沿着对方剑身滑到剑格，借力入身，肩、肘、腕、指一线贯通。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0131",
+      "text": "“借你一剑，还你一剑。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0132",
+      "text": "陆沉渊低喝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0133",
+      "text": "断剑横切。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0134",
+      "text": "这一剑没有完整剑身，却有完整剑意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0135",
+      "text": "短，便贴身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0136",
+      "text": "断，便夺线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0137",
+      "text": "残，便更狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0138",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0139",
+      "text": "剑魂手中的长剑被切成两截。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0140",
+      "text": "模糊影子胸口裂开一道赤痕，整个人向后退去，最终停在兵器场中央。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0141",
+      "text": "四周残兵同时震鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0142",
+      "text": "陆沉渊站在原地，右臂微颤，血从指缝滴落，脸色却冷静如初。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0143",
+      "text": "剑魂低头看着胸口裂痕，许久之后，发出一声低哑笑声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0144",
+      "text": "“好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0145",
+      "text": "兵器场开始崩散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0146",
+      "text": "木桩化灰，泥地消失，残兵沉入黑暗。陆沉渊眼前重新出现小屋的破桌、油灯和窗纸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0147",
+      "text": "桌上的断剑静静躺着。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0148",
+      "text": "但它已经不一样了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0149",
+      "text": "剑身锈迹尽褪，玄黑色的断刃上浮着细小赤纹。断口处不再死寂，而是凝出一截若隐若现的暗红锋影，虽不完整，却足以让人感到寒意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0150",
+      "text": "系统提示随之响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0151",
+      "text": "【剑魂试锋完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0152",
+      "text": "【宿主以玄骨承压、万象借势破残缺剑魂杀招，获得显圣值+120。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0153",
+      "text": "【奖励发放：玄烬残剑。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0154",
+      "text": "【玄烬残剑：残缺剑魂寄宿之兵，断而不死，遇势重燃。可随宿主战意短暂凝出玄烬锋影。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0155",
+      "text": "陆沉渊伸手握住剑柄。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0156",
+      "text": "这一次，断剑不再沉得像死铁，而是像一名沉默的老兵，虽伤痕累累，却愿意再上战场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0157",
+      "text": "他挥剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0158",
+      "text": "一道半尺暗红锋影在断口处亮起，又迅速熄灭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0159",
+      "text": "陆沉渊满意地点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0160",
+      "text": "有了这把剑，七日晋升外门，便更稳了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0161",
+      "text": "就在此时，屋外传来脚步声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0162",
+      "text": "胖管事的声音隔着院墙响起：“明日卯时，所有杂役去废矿搬石。陆沉渊，你也去。迟一息，扣十点贡献！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0163",
+      "text": "陆沉渊没有回应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0164",
+      "text": "扣贡献？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0165",
+      "text": "他现在最不缺的，就是贡献。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0166",
+      "text": "真正要算的，是赵岳和叶寒借杂役院压他的账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0167",
+      "text": "他把玄烬残剑收在床侧，准备调息。可剑身忽然轻颤，残缺剑魂的声音在他脑海中响起，比试锋时低了许多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0168",
+      "text": "“陆沉渊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0169",
+      "text": "“何事？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0170",
+      "text": "“你方才说前世。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0171",
+      "text": "陆沉渊眼神一冷：“你能听懂？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0172",
+      "text": "剑魂沉默片刻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0173",
+      "text": "“我残了很多年，记不全事。但你的血里，有一种被夺过命数的味道。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0174",
+      "text": "陆沉渊握剑的手缓缓收紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0175",
+      "text": "“说清楚。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0176",
+      "text": "断剑赤纹微亮，剑魂声音沙哑，像从很远的灰烬里传来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0177",
+      "text": "“我见过那种味道。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0178",
+      "text": "“也见过一个人，身上带着同样的因果痕。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0179",
+      "text": "陆沉渊眸中寒意骤起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0020_b0180",
+      "text": "“谁？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0181",
+      "text": "剑魂停了许久，才低声道：",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0020_b0182",
+      "text": "“那个害过你前世的人。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

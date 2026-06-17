@@ -1,0 +1,2324 @@
+{
+  "id": "ch0034",
+  "index": 34,
+  "title": "第三十四章 禁区围猎",
+  "beatCount": 277,
+  "beats": [
+    {
+      "id": "ch0034_b0001",
+      "text": "赤月核心区没有风。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0002",
+      "text": "这里的天地像被一只无形大手按住，连灵雾都凝滞在半空。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0003",
+      "text": "陆沉渊从地下裂道走出时，第一眼便看见了禁区边缘的石碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0004",
+      "text": "石碑高三丈，通体暗红，上面没有完整文字，只有一道从顶端贯穿到底部的剑痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0005",
+      "text": "剑痕深处，黑金光芒若隐若现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0006",
+      "text": "玄烬残剑轻轻一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0007",
+      "text": "陆沉渊知道，他找对地方了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0008",
+      "text": "石碑之后，是一片赤色荒原。荒原尽头隐约可见倒悬山影，山影上挂着一轮残月，月光并非从天上照下，而是从地底向上翻涌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0009",
+      "text": "这里就是赤月禁区的入口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0010",
+      "text": "前世碎片里，那片尸山血海的源头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0011",
+      "text": "陆沉渊没有急着踏进去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0012",
+      "text": "他站在石碑前，取出地图残页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0013",
+      "text": "残页自行燃起赤火，火焰没有烧毁纸张，而是将其中隐藏的线条全部逼出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0014",
+      "text": "干涸河道、地下古葬、核心裂道、禁区碑林，四处连成一个完整阵势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0015",
+      "text": "而阵势外围，有七个光点正在移动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0016",
+      "text": "陆沉渊盯着那些光点，笑意淡淡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0017",
+      "text": "“来得倒齐。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0018",
+      "text": "秦无极的人在正东。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0019",
+      "text": "外宗修士从南北两侧包抄。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0020",
+      "text": "同门暗线从后方裂道封口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0021",
+      "text": "还有两枚光点藏在禁区碑林里，气息压得极低，显然早就埋伏在那里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0022",
+      "text": "这不是临时起意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0023",
+      "text": "这是一场早就为别人准备好的围猎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0024",
+      "text": "只不过如今猎物换成了他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0025",
+      "text": "系统提示浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0026",
+      "text": "【检测到敌对势场：禁区围猎。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0027",
+      "text": "【参与势力：秦氏暗线、外宗小队、宗内同门暗桩。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0028",
+      "text": "【当前敌方认知：宿主已获古葬传承，身怀秦氏令牌、地图残页、玄烬残剑。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0029",
+      "text": "【可借势方向：贪念、误判、禁区威压、古棺传承显圣。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0030",
+      "text": "陆沉渊收起残页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0031",
+      "text": "“贪念最容易用。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0032",
+      "text": "他抬手，故意撤去一道遮息符。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0033",
+      "text": "玄烬残剑的气息顿时泄出一线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0034",
+      "text": "黑金剑光冲天而起，虽只一瞬，却足够让所有埋伏者看见。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0035",
+      "text": "东面山坡上，一名秦氏随从猛地抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0036",
+      "text": "“在那里！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0037",
+      "text": "他身后，秦无极负手而立，白衣不染尘，眉心有一道淡淡赤纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0038",
+      "text": "听见动静，秦无极并未立刻动身，只是看着禁区方向，眼神深得像一口井。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0039",
+      "text": "“古葬传承被他拿了？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0040",
+      "text": "“令牌有裂痕回传，应当无误。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0041",
+      "text": "秦无极微微摇头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0042",
+      "text": "“古葬传承不是谁拿到就是谁的。赤月禁区会替我们先剥他一层皮。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0043",
+      "text": "他语气平稳，可指节却轻轻摩挲着袖中一截黑金剑尖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0044",
+      "text": "那剑尖原本毫无反应，此刻却在发烫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0045",
+      "text": "秦无极眼底闪过一抹阴沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0046",
+      "text": "玄烬残剑主体，竟然真在陆沉渊手里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0047",
+      "text": "另一侧，南面沙丘后，三名外宗修士也看见了剑光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0048",
+      "text": "为首之人身材高瘦，背负双刀，修为已至凝脉初期。他舔了舔嘴唇，低笑道：“秦无极说那小子刚入凝脉，手里却有秘境传承。诸位，这买卖不亏。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0049",
+      "text": "旁边女子皱眉：“秦无极的话能信几分？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0050",
+      "text": "“信几分不重要。”高瘦修士道，“传承是真的，剑光是真的。他若强，我们等秦无极先上；他若弱，我们先割肉。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0051",
+      "text": "北面，另一队外宗修士也在逼近。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0052",
+      "text": "而裂道出口处，四名同门弟子悄然封住退路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0053",
+      "text": "其中一人低声道：“真要对陆沉渊下手？他最近风头不小，若活着出去……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0054",
+      "text": "“活着？”另一人冷笑，“秦少主既然开了价，就没打算让他活着回去。再说了，禁区死几个人，很稀奇吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0055",
+      "text": "话音刚落。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0056",
+      "text": "前方忽然传来陆沉渊的声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0057",
+      "text": "“不稀奇。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0058",
+      "text": "四人脸色同时一变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0059",
+      "text": "陆沉渊不知何时已经站在裂道口上方的断石上，手中残剑未出鞘，目光淡淡落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0060",
+      "text": "“稀奇的是，你们收了价，却连自己卖给了谁都不知道。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0061",
+      "text": "那冷笑之人强撑镇定：“陆沉渊，你少虚张声势！交出古葬传承和秦氏令牌，我们还能给你留个全尸。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0062",
+      "text": "陆沉渊没有回答。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0063",
+      "text": "他只是抬起秦氏令牌，指尖一弹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0064",
+      "text": "令牌中藏着的传讯玉片亮起，先前那段声音清晰传出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0065",
+      "text": "“少主吩咐过，若有人先开古葬，不必夺令，直接把人赶进禁区。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0066",
+      "text": "四名同门脸色瞬间难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0067",
+      "text": "陆沉渊看着他们。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0068",
+      "text": "“听清楚了吗？你们不是来分好处的，是来当驱赶我的草绳。等我进了禁区，你们也得跟着进去灭口。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0069",
+      "text": "其中两人眼神动摇。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0070",
+      "text": "系统提示响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0071",
+      "text": "【同门暗桩士气动摇。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0072",
+      "text": "【获得震惊值：320。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0073",
+      "text": "【可借势：离间成功，消耗显圣值扩大传音范围。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0074",
+      "text": "陆沉渊心念一动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0075",
+      "text": "那段传讯声音骤然放大，沿着禁区边缘扩散开来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0076",
+      "text": "南北两侧外宗修士也听得清清楚楚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0077",
+      "text": "“把人赶进禁区？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0078",
+      "text": "高瘦修士脸色微沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0079",
+      "text": "“秦无极没说这一段。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0080",
+      "text": "秦无极终于迈步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0081",
+      "text": "“挑拨有用，说明人心本就散。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0082",
+      "text": "他声音传开，平静压住四方躁动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0083",
+      "text": "“诸位，陆沉渊所得之物关系赤月核心秘藏。他现在故意乱人心神，只为拖延时间。谁先擒下他，古葬传承可拓印一份，秦氏另赠凝脉丹三枚。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0084",
+      "text": "凝脉丹三字一出，外围众人呼吸都重了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0085",
+      "text": "陆沉渊笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0086",
+      "text": "“秦无极，你比前世更会开空头价。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0087",
+      "text": "秦无极目光一顿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0088",
+      "text": "“前世？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0089",
+      "text": "陆沉渊没有解释。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0090",
+      "text": "他要的就是这一瞬间的破绽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0091",
+      "text": "脚下禁区石碑忽然亮起，玄烬残剑出鞘三寸，黑金剑意注入剑痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0092",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0093",
+      "text": "整片碑林震动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0094",
+      "text": "赤月禁区的威压像潮水般向外扩散，所有逼近者身形一沉，修为稍弱者当场跪倒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0095",
+      "text": "秦无极袖中剑尖剧烈颤抖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0096",
+      "text": "陆沉渊立在石碑前，衣袍猎猎，身后赤月倒悬，黑金剑光缠绕残剑，宛如古葬中走出的执刑者。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0097",
+      "text": "【触发显圣场景：古棺传承显圣。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0098",
+      "text": "【消耗显圣值：400。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0099",
+      "text": "【敌方误判加深。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0100",
+      "text": "【获得震惊值：1800。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0101",
+      "text": "高瘦外宗修士瞳孔收缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0102",
+      "text": "“他能引动禁区石碑！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0103",
+      "text": "“秦无极，你不是说他刚得传承，无法掌控吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0104",
+      "text": "秦无极眼神终于冷了下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0105",
+      "text": "“动手。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0106",
+      "text": "他不再等待。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0107",
+      "text": "袖中剑尖飞出，化作一道黑金寒芒，直取陆沉渊眉心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0108",
+      "text": "那剑尖一出，玄烬残剑竟传来一阵刺痛般的震鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0109",
+      "text": "陆沉渊眼中寒意骤盛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0110",
+      "text": "前世，就是这一截剑尖洞穿了他的肩胛，断了他的退路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0111",
+      "text": "如今再见，倒像旧账自己送上门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0112",
+      "text": "他不退反进，残剑横斩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0113",
+      "text": "“玄烬葬月式。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0114",
+      "text": "没有惊天剑光，也没有繁复招式。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0115",
+      "text": "只是一道压缩到极致的黑线，从剑锋掠出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0116",
+      "text": "黑线与剑尖相撞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0117",
+      "text": "咔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0118",
+      "text": "清脆裂声传遍四方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0119",
+      "text": "秦无极脸色第一次变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0120",
+      "text": "那截剑尖没有碎，却被斩得倒飞而回，表面多出一道深深裂纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0121",
+      "text": "更可怕的是，剑尖上附着的赤色灵纹被这一剑斩灭大半，秦无极与剑尖之间的联系瞬间迟滞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0122",
+      "text": "【玄烬残剑压制失落剑尖。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0123",
+      "text": "【斩断敌方一处后手。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0124",
+      "text": "【获得因果点：1。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0125",
+      "text": "陆沉渊脚步不停，左手抬起，秦氏令牌悬空炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0126",
+      "text": "令牌碎片化作十七道赤光，分别射向四周地面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0127",
+      "text": "这是古葬入口处留下的阵势残纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0128",
+      "text": "秦氏令牌能开古葬，也能短暂牵动禁区外缘的封锁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0129",
+      "text": "他在古葬所得的真正筹码，从来不是一篇残法，而是知道了秦氏暗线如何借赤月地势布网。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0130",
+      "text": "如今，他要让这张网反套回去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0131",
+      "text": "轰隆隆！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0132",
+      "text": "干涸河道方向，地下传来锁链拖动的声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0133",
+      "text": "裂道出口塌陷，四名同门暗桩的退路被赤色石柱封死。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0134",
+      "text": "南北两侧沙丘同时下沉，外宗修士脚下浮现棺纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0135",
+      "text": "有人惊叫：“这是秦氏布的围阵！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0136",
+      "text": "陆沉渊淡淡道：“准确说，是秦氏借古葬布的驱赶阵。只不过他们以为令牌还在自己手里。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0137",
+      "text": "高瘦修士猛然看向秦无极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0138",
+      "text": "“你要把我们也赶进禁区？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0139",
+      "text": "秦无极目光阴沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0140",
+      "text": "“蠢货！这是陆沉渊夺阵，不先杀他，谁都出不去！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0141",
+      "text": "话是实话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0142",
+      "text": "可人心已经裂了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0143",
+      "text": "外宗修士不会再完全听他，同门暗桩更是进退失据。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0144",
+      "text": "陆沉渊等的就是这一刻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0145",
+      "text": "【敌方合围结构破裂。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0146",
+      "text": "【可借势：互疑、阵势反压、禁区威慑。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0147",
+      "text": "【建议消耗因果点强化反打节点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0148",
+      "text": "“消耗。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0149",
+      "text": "【消耗因果点：2。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0150",
+      "text": "【借势完成：围猎反噬。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0151",
+      "text": "下一瞬，禁区石碑上的剑痕爆发出刺目光芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0152",
+      "text": "所有携带秦无极传讯符、秦氏暗纹、外宗契约印记的人，身上都浮现出赤色细线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0153",
+      "text": "那些细线本该指向陆沉渊，将他逼入禁区。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0154",
+      "text": "如今却被玄烬残剑强行改向，反过来拖拽布阵之人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0155",
+      "text": "一名秦氏随从最先承受不住，惨叫着被拖向碑林。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0156",
+      "text": "“少主救我！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0157",
+      "text": "他刚踏入碑林三步，地面便伸出赤色锁链，将他整个人卷入地下，只留下一枚储物戒滚落出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0158",
+      "text": "众人脸色惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0159",
+      "text": "禁区不是传说。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0160",
+      "text": "它真的会吃人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0161",
+      "text": "秦无极抬手一掌拍碎自己身上的赤线，冷喝：“所有人，毁掉身上符印！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0162",
+      "text": "反应快的人立刻照做。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0163",
+      "text": "可陆沉渊已经杀到。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0164",
+      "text": "他身形如电，借禁区威压压低众人速度，残剑不求斩杀，只斩符印、斩契约、斩联络。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0165",
+      "text": "每一剑落下，便有一处暗线断裂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0166",
+      "text": "每断一线，秦无极脸色便沉一分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0167",
+      "text": "因为这些暗线，是他经营许久的秘境布局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0168",
+      "text": "如今被陆沉渊当众拆掉，比杀几个人更让他肉痛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0169",
+      "text": "“陆沉渊！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0170",
+      "text": "秦无极终于失了从容，掌中赤纹凝成一轮弯月，朝陆沉渊背心斩来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0171",
+      "text": "凝脉层次的威压爆发，周围碎石尽成齑粉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0172",
+      "text": "陆沉渊没有硬接。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0173",
+      "text": "他侧身让过弯月，反手将一名正欲偷袭的外宗弟子踹向赤线边缘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0174",
+      "text": "那弟子吓得魂飞魄散，慌忙挥刀自救，刀芒却正好撞上秦无极的弯月余波。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0175",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0176",
+      "text": "两股力量炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0177",
+      "text": "外宗弟子吐血倒飞，高瘦修士眼睛立刻红了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0178",
+      "text": "“秦无极，你连我们的人也杀？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0179",
+      "text": "秦无极声音森寒：“他自己挡路。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0180",
+      "text": "“好一个挡路！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0181",
+      "text": "高瘦修士本就不是善类，见退路被封、契约被坑、同伴被伤，哪里还肯继续当刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0182",
+      "text": "他双刀一震，竟转身朝秦氏随从杀去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0183",
+      "text": "局面彻底乱了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0184",
+      "text": "南北外宗互相观望，有人继续盯着陆沉渊，有人却先抢秦氏随从的储物戒。同门暗桩则试图破开裂道封锁，谁都不愿再第一个冲向禁区石碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0185",
+      "text": "陆沉渊穿行乱局之中，像早已算准每个人的贪念与恐惧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0186",
+      "text": "他取出一枚从古葬得来的黑金符印，按在石碑剑痕上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0187",
+      "text": "赤月光芒再度上涌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0188",
+      "text": "秦无极察觉不对，猛地抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0189",
+      "text": "“拦住他！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0190",
+      "text": "可已经晚了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0191",
+      "text": "石碑后方，禁区入口裂开一道缝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0192",
+      "text": "从那缝隙里，传出古棺中同源的锁链声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0193",
+      "text": "陆沉渊站在入口前，回身看向所有人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0194",
+      "text": "“你们不是想赶我进去吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0195",
+      "text": "“现在门开了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0196",
+      "text": "他抬起玄烬残剑，剑尖指向秦无极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0197",
+      "text": "“谁先来？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0198",
+      "text": "无人应声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0199",
+      "text": "就连高瘦修士也下意识后退半步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0200",
+      "text": "这一刻，他们终于发现，陆沉渊从一开始就没有被围住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0201",
+      "text": "真正被围住的，是他们。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0202",
+      "text": "秦无极盯着陆沉渊，眼底杀意几乎凝成实质。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0203",
+      "text": "“你以为借禁区之势，就能赢我？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0204",
+      "text": "陆沉渊平静道：“不是以为。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0205",
+      "text": "他脚下一踏，石碑剑痕中的黑金光芒化作一道半月弧线，横扫全场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0206",
+      "text": "这不是杀招。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0207",
+      "text": "却精准斩在每个人身上残留的赤线上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0208",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0209",
+      "text": "围阵彻底反噬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0210",
+      "text": "秦氏随从一个接一个被震飞，外宗修士灵力逆冲，同门暗桩更是面无人色，纷纷吐血跪倒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0211",
+      "text": "【禁区围猎反打成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0212",
+      "text": "【获得震惊值：3600。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0213",
+      "text": "【获得显圣值：1200。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0214",
+      "text": "【获得因果点：4。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0215",
+      "text": "【敌方围猎声势已转化为宿主显圣声势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0216",
+      "text": "陆沉渊没有沉迷提示。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0217",
+      "text": "他盯着秦无极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0218",
+      "text": "所有人里，只有秦无极还站着。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0219",
+      "text": "对方身前悬着那截裂纹剑尖，硬生生挡住了围阵反噬。虽衣袖破裂，气息紊乱，却仍未伤到根基。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0220",
+      "text": "不愧是前世能夺走赤月机缘的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0221",
+      "text": "难杀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0222",
+      "text": "但越难杀，越说明值得杀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0223",
+      "text": "秦无极缓缓抬手，按住剑尖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0224",
+      "text": "“陆沉渊，今日之局，是我低估你了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0225",
+      "text": "陆沉渊道：“你不是低估我，你是高估了自己布的局。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0226",
+      "text": "秦无极冷冷一笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0227",
+      "text": "“禁区已开，你也被它盯上。你以为我输了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0228",
+      "text": "他忽然捏碎一枚血色玉符。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0229",
+      "text": "下一瞬，赤月荒原深处传来一声低吼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0230",
+      "text": "一道庞大阴影从禁区缝隙后掠过，恐怖气息让所有人脊背发寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0231",
+      "text": "秦无极借剑尖护身，身形暴退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0232",
+      "text": "“既然你喜欢借势，那便看看禁区真正的势，你借不借得起！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0233",
+      "text": "他退得极快，显然早有脱身后手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0234",
+      "text": "陆沉渊没有追。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0235",
+      "text": "因为禁区入口的缝隙已经扩大，赤色锁链从里面探出，像嗅到血气般卷向场中伤者。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0236",
+      "text": "惨叫声此起彼伏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0237",
+      "text": "外宗修士与同门暗桩终于彻底崩溃，纷纷拼命逃窜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0238",
+      "text": "陆沉渊目光扫过乱局，抬手一抓，将先前滚落的储物戒与几枚传讯符卷入掌中，又顺势收走一块秦氏阵盘残片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0239",
+      "text": "该拿的战利品不能漏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0240",
+      "text": "随后，他转身踏入禁区入口半步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0241",
+      "text": "玄烬残剑插入地面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0242",
+      "text": "“闭门。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0243",
+      "text": "黑金符印亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0244",
+      "text": "古棺传承与石碑剑痕共鸣，硬生生将扩大中的缝隙压回三尺。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0245",
+      "text": "赤色锁链撞在剑光上，发出刺耳摩擦声，却一时无法越界。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0246",
+      "text": "陆沉渊脸色微白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0247",
+      "text": "这一压，消耗极大。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0248",
+      "text": "但效果足够。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0249",
+      "text": "逃得慢的人被禁区锁链吞没，逃得快的人也被吓破了胆。秦无极的围猎网，就此被撕成废纸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0250",
+      "text": "远处，秦无极停在一座断崖上，回头看了一眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0251",
+      "text": "陆沉渊隔着赤雾与他对视。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0252",
+      "text": "两人之间，禁区石碑轰鸣不止。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0253",
+      "text": "秦无极没有再放狠话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0254",
+      "text": "他转身消失在荒原尽头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0255",
+      "text": "陆沉渊收回视线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0256",
+      "text": "系统结算声再次响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0257",
+      "text": "【本次事件结算：禁区围猎。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0258",
+      "text": "【宿主以古棺传承为引，借敌方贪念成局，借禁区威压破局。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0259",
+      "text": "【获得震惊值：总计5720。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0260",
+      "text": "【获得显圣值：总计1800。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0261",
+      "text": "【获得因果点：总计5。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0262",
+      "text": "【新增可追踪因果：秦无极失落剑尖、赤月禁区核心剑槽、陆镇南旧年线索。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0263",
+      "text": "陆沉渊看到最后一条，眼神微凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0264",
+      "text": "陆镇南？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0265",
+      "text": "父亲的名字，怎么会与赤月禁区核心剑槽扯上关系？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0266",
+      "text": "他低头看向玄烬残剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0267",
+      "text": "残剑剑身上，原本暗淡的一道裂纹已经修复少许。那黑金光芒像一只睁开的眼，指向禁区更深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0268",
+      "text": "禁区外围，幸存者仓皇远去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0269",
+      "text": "他们会把今日所见带出去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0270",
+      "text": "古棺传承、禁区石碑、玄烬残剑、陆沉渊一人反压秦无极围猎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0271",
+      "text": "这些消息会变成新的风暴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0272",
+      "text": "而陆沉渊要的，正是风暴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0273",
+      "text": "他握紧残剑，踏过石碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0274",
+      "text": "赤月禁区深处，九口古棺的影子在雾中若隐若现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0275",
+      "text": "“秦无极，下一次。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0034_b0276",
+      "text": "陆沉渊声音很轻，却像剑锋落在命数之上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0034_b0277",
+      "text": "“就不是让你退走这么简单了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    }
+  ]
+}

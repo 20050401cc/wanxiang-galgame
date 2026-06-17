@@ -1,0 +1,1520 @@
+{
+  "id": "ch0028",
+  "index": 28,
+  "title": "第二十八章 秘境名额",
+  "beatCount": 178,
+  "beats": [
+    {
+      "id": "ch0028_b0001",
+      "text": "外门第一战之后，陆沉渊的名字终于被挂上外门榜首。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0002",
+      "text": "不是传闻，不是议论，而是执事堂当场验印，刻入名册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0003",
+      "text": "“外门第一，陆沉渊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0004",
+      "text": "六个字落下时，满场弟子皆静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0005",
+      "text": "昨日之前，还有人觉得他不过是靠一时狠劲翻身，靠几句宗规压住了人。可叶寒亲自出手，败得干净利落，连还口的资格都没有，所有质疑便成了笑话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0006",
+      "text": "陆沉渊站在台下，衣袍未换，神色平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0007",
+      "text": "他不看那些震惊目光，只看执事堂手中的名册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0008",
+      "text": "那册子旁边，还有一枚赤红色玉牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0009",
+      "text": "赤月秘境资格令。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0010",
+      "text": "外门第一，本该得一枚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0011",
+      "text": "这也是秦无极敢施压的根由。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0012",
+      "text": "执事堂长老沉默片刻，正要将玉牌递出，殿门外忽然传来一道冷声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0013",
+      "text": "“慢着。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0014",
+      "text": "众人回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0015",
+      "text": "三名内门弟子迈入执事堂，最前一人身穿墨色长袍，袖口绣着赤金纹，眼神锋利，像是早已习惯了让外门低头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0016",
+      "text": "他没有看其他人，只盯着陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0017",
+      "text": "“赤月秘境名额，事关宗门利益，不可交给来历不稳、屡犯宗规之人。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0018",
+      "text": "一句话，执事堂内的气氛骤然压低。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0019",
+      "text": "有外门弟子脸色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0020",
+      "text": "来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0021",
+      "text": "秦无极的人，果然来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0022",
+      "text": "陆沉渊抬眼，“你是谁？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0023",
+      "text": "墨袍弟子眉头一挑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0024",
+      "text": "“内门执事卫，秦师兄座下，韩照。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0025",
+      "text": "“秦无极的人？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0026",
+      "text": "“你可以这么理解。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0027",
+      "text": "韩照笑了笑，笑意里没有半点客气，“陆沉渊，你与叶寒一战，确实赢了。但赢了，不代表你配进赤月秘境。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0028",
+      "text": "陆沉渊道：“外门第一，不配？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0029",
+      "text": "“外门第一，也要经宗门复核。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0030",
+      "text": "韩照抬手，将一份卷宗拍在案上，“陆沉渊，入宗以来多次引发争端，牵连执事堂、戒律堂、外门诸院。其父陆镇南旧事未清，宗内尚有疑点未决。此等身份，若入秘境，恐损宗门机要。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0031",
+      "text": "这话一出，许多人脸色都变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0032",
+      "text": "把陆镇南牵出来，便不只是名额之争了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0033",
+      "text": "这是要把陆沉渊从根上按回泥里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0034",
+      "text": "执事堂长老眉头微皱，却没有立刻开口。内门执事卫拿着卷宗来，背后又是秦无极，寻常长老也不愿轻易硬碰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0035",
+      "text": "韩照趁势看向陆沉渊，声音更冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0036",
+      "text": "“所以，赤月秘境外门名额，暂由内门代管。待你身份查明，再议。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0037",
+      "text": "“再议到什么时候？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0038",
+      "text": "“秘境开启之后。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0039",
+      "text": "堂内有人忍不住倒吸一口冷气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0040",
+      "text": "秘境开启之后再议，那就是名额没了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0041",
+      "text": "陆沉渊笑了一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0042",
+      "text": "韩照眯眼，“你笑什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0043",
+      "text": "“笑你们终于不装了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0044",
+      "text": "陆沉渊走到案前，看了一眼那份卷宗，“昨日秦无极借叶寒之口威胁我，说名额我拿得到，活不出。今日你们改口，说我连拿都不配。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0045",
+      "text": "他抬起头，目光平静得近乎冷漠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0046",
+      "text": "“秦无极是怕我进秘境，还是怕我进了秘境之后，有些账不受他控制？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0047",
+      "text": "韩照脸色一沉，“放肆！秦师兄之名，也是你能直呼的？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0048",
+      "text": "“我连他的账都要清，名字为何不能叫？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0049",
+      "text": "陆沉渊一句话落下，堂中寂静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0050",
+      "text": "几个外门弟子眼睛发亮，却不敢出声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0051",
+      "text": "韩照身上气势压来，凝脉威压铺开，直逼陆沉渊胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0052",
+      "text": "可陆沉渊连退都没退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0053",
+      "text": "他只将手伸入怀中，取出一枚古朴铁令，放在案上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0054",
+      "text": "铁令落下，发出沉闷一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0055",
+      "text": "执事堂长老目光一凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0056",
+      "text": "“藏剑峰试剑令？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0057",
+      "text": "韩照神色也变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0058",
+      "text": "陆沉渊道：“藏剑峰试剑令在此。按宗门附令，持令者可调阅与自身试炼、奖惩、名额相关的宗规原卷，并申请三堂复核。韩照，你说我不配，可以。拿宗规来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0059",
+      "text": "他抬手指向案上的名册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0060",
+      "text": "“外门第一名额，哪一条写着可由内门弟子一句‘代管’夺走？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0061",
+      "text": "韩照冷声道：“秘境名额事关重大，内门有权复核。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0062",
+      "text": "“复核可以，剥夺不行。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0063",
+      "text": "陆沉渊看向执事堂长老，“请长老调宗规。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0064",
+      "text": "执事堂长老迟疑了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0065",
+      "text": "韩照立刻道：“长老，此事秦师兄已有交代。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0066",
+      "text": "陆沉渊淡淡道：“秦无极的交代，比宗规高？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0067",
+      "text": "这一句，像一记耳光抽在堂内。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0068",
+      "text": "执事堂长老可以给秦无极面子，却不能当众承认秦无极高于宗规。尤其藏剑峰试剑令摆在这里，若他连宗规原卷都不敢调，传出去便是执事堂畏惧内门弟子，私夺外门名额。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0069",
+      "text": "“取宗规原卷。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0070",
+      "text": "片刻后，宗规原卷被取来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0071",
+      "text": "执事堂长老翻开赤月秘境相关条目，当众宣读。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0072",
+      "text": "“赤月秘境外门名额一枚，归当期外门榜首。榜首若重伤、失踪、被戒律堂定罪，或自愿放弃，名额顺延。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0073",
+      "text": "声音落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0074",
+      "text": "陆沉渊看向韩照。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0075",
+      "text": "“我重伤了吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0076",
+      "text": "韩照不语。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0077",
+      "text": "“我失踪了吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0078",
+      "text": "无人作答。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0079",
+      "text": "“戒律堂定罪了吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0080",
+      "text": "执事堂长老沉声道：“并无。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0081",
+      "text": "“我自愿放弃了吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0082",
+      "text": "陆沉渊伸手拿起赤红玉牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0083",
+      "text": "“没有。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0084",
+      "text": "韩照眼中怒意翻涌，“你只是暂列外门第一，叶寒伤势未稳，外门榜未必最终定下。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0085",
+      "text": "陆沉渊转身，看向满堂外门弟子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0086",
+      "text": "“外门榜首，是不是当场挑战、当场验定？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0087",
+      "text": "众人一阵沉默，随即有人低声道：“是。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0088",
+      "text": "又有人道：“叶寒败了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0089",
+      "text": "“执事堂刻名了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0090",
+      "text": "声音越来越多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0091",
+      "text": "韩照猛地回头，目光扫过，那些弟子立刻低头，可议论已经压不回去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0092",
+      "text": "陆沉渊将玉牌按在案上，没有立刻收入怀中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0093",
+      "text": "“韩照，你们若觉得我战绩不足，我可以继续打。外门之内，今日谁不服，都可挑战。内门若想插手，也可以请宗门开特例，让凝脉弟子下场与外门争榜。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0094",
+      "text": "话音落下，空气仿佛凝固。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0095",
+      "text": "让内门弟子下场抢外门榜？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0096",
+      "text": "这话看似狂妄，实则一刀扎中要害。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0097",
+      "text": "内门势力敢施压，却不敢明着坏规矩。若他们真让凝脉弟子抢外门名额，外门所有人都会寒心，宗门脸面也会被撕开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0098",
+      "text": "韩照咬牙，“陆沉渊，你别偷换概念。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0099",
+      "text": "“那你就按规矩来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0100",
+      "text": "陆沉渊道，“叶寒不服，已经败了。你不服，拿条文。秦无极不服，让他来执事堂，当着宗规原卷说外门第一不算数。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0101",
+      "text": "执事堂长老终于将卷宗合上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0102",
+      "text": "“韩照，宗规已明。陆沉渊暂列外门第一，且无戒律定罪，赤月秘境名额应归他所有。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0103",
+      "text": "韩照转头，“长老！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0104",
+      "text": "“够了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0105",
+      "text": "长老声音不大，却带上了威严，“内门可提交复核，但复核不得影响既定名额发放。若三堂另有裁定，再行处置。现在，令牌发给陆沉渊。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0106",
+      "text": "韩照眼角抽动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0107",
+      "text": "他没想到，陆沉渊不但敢顶，还顶得每一步都有章法。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0108",
+      "text": "不是撒泼，不是逞凶，而是逼着所有人站到宗规面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0109",
+      "text": "执事堂长老拿起赤红玉牌，郑重递给陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0110",
+      "text": "“陆沉渊，赤月秘境资格令。三日后辰时，宗门东麓集合，过时不候。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0111",
+      "text": "陆沉渊接过玉牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0112",
+      "text": "玉牌入手微热，赤色纹路如月影流转。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0113",
+      "text": "刹那间，系统声音响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0114",
+      "text": "【检测到宿主以外门第一身份夺取赤月秘境资格。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0115",
+      "text": "【检测到内门势力压迫失败，宗规借势成功，战绩借势成功，藏剑峰权限借势成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0116",
+      "text": "【获得震惊值。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0117",
+      "text": "【获得显圣值。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0118",
+      "text": "【获得因果点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0119",
+      "text": "【额外奖励：地图残页。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0120",
+      "text": "一道微不可察的光影在陆沉渊识海中铺开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0121",
+      "text": "残页泛黄，边角破碎，上面只勾勒出一片赤色山谷和半轮残月，某处以黑线标出，旁边写着两个模糊小字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0122",
+      "text": "血池。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0123",
+      "text": "陆沉渊眼底微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0124",
+      "text": "赤月秘境里的东西，看来不止是普通机缘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0125",
+      "text": "万象借势系统从不无故给奖励。所谓地图残页，必然指向秘境中某个被隐藏的关键之地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0126",
+      "text": "而秦无极如此急着夺名额，也许不是单纯为了压他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0127",
+      "text": "他在秘境里，另有图谋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0128",
+      "text": "陆沉渊收起资格令，转身便要离开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0129",
+      "text": "韩照却挡在门前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0130",
+      "text": "“陆沉渊，你赢了一次口舌，不代表赢了全局。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0131",
+      "text": "陆沉渊停步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0132",
+      "text": "韩照压低声音，“外门这些人把你当榜首，执事堂把令牌给你，可秘境之中没有执事堂，也没有演武台。那里不讲宗规，只讲谁能活着出来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0133",
+      "text": "陆沉渊看着他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0134",
+      "text": "“所以秦无极要在那里动手？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0135",
+      "text": "韩照冷笑，“有些话，不必说得太明白。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0136",
+      "text": "陆沉渊点了点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0137",
+      "text": "“那我也告诉你一句。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0138",
+      "text": "他向前一步，迫得韩照下意识绷紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0139",
+      "text": "“我进秘境，不是去避祸，是去清账。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0140",
+      "text": "韩照的笑意僵在脸上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0141",
+      "text": "陆沉渊继续道：“告诉秦无极，名额我拿到了。至于谁活不出秘境，让他准备好亲自看。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0142",
+      "text": "说完，他越过韩照，走出执事堂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0143",
+      "text": "阳光落在外门石阶上，许多弟子自觉让开道路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0144",
+      "text": "这一次，不是因为恐惧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0145",
+      "text": "而是因为他们知道，眼前这个人，已经真正把外门第一这四个字踩实了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0146",
+      "text": "从宗规审判，到演武台胜叶寒，再到今日内门逼名额失败，陆沉渊每一步都像把旧秩序剥下一层皮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0147",
+      "text": "那些曾经压在外门弟子头顶的名字，第一次显得没有那么不可撼动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0148",
+      "text": "陆沉渊回到自己的院落，将门合上，取出赤月秘境资格令，又在识海中重新展开那张地图残页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0149",
+      "text": "残页上的赤色山谷若隐若现，血池二字像被某种力量遮住，越看越模糊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0150",
+      "text": "系统提示再次浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0151",
+      "text": "【地图残页：赤月秘境局部线索。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0152",
+      "text": "【提示：残页不完整，进入秘境后，可根据地势、月影、因果波动补全路径。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0153",
+      "text": "陆沉渊指尖轻敲桌面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0154",
+      "text": "“血池。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0155",
+      "text": "这两个字不像善地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0156",
+      "text": "但越是凶险，越可能藏着秦无极真正想要的东西。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0157",
+      "text": "与此同时，内门一处偏殿中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0158",
+      "text": "韩照跪在阶下，将执事堂发生的事一五一十禀报完毕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0159",
+      "text": "殿中光线昏暗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0160",
+      "text": "秦无极坐在高处，指尖把玩着一枚赤色玉符，脸上看不出喜怒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0161",
+      "text": "许久之后，他才轻笑一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0162",
+      "text": "“宗规，战绩，藏剑峰权限。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0163",
+      "text": "他念着这几个词，像是在品一件有趣的玩物。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0164",
+      "text": "“陆沉渊倒是比我想的更会借势。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0165",
+      "text": "韩照低头道：“秦师兄，是我办事不力。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0166",
+      "text": "“不是你不力。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0167",
+      "text": "秦无极淡淡道，“是他知道，在哪里不能打，在哪里该打。他今日若动手，名额就没了。他忍住了，所以名额留下了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0168",
+      "text": "韩照皱眉，“那秘境……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0169",
+      "text": "秦无极抬手，打断了他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0170",
+      "text": "“既然他这么想进去，就让他进去。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0171",
+      "text": "赤色玉符在他掌心发出幽暗光芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0172",
+      "text": "“赤月秘境里，有些路，不是拿着资格令就能走完的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0173",
+      "text": "韩照眼中掠过狠色，“我会安排人。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0174",
+      "text": "秦无极将玉符丢给他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0175",
+      "text": "“告诉他们，不必急着杀。先让陆沉渊知道，他所谓的外门第一，在真正的局里，只是一枚被送进去的棋子。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0028_b0176",
+      "text": "韩照接过玉符，恭声道：“明白。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0177",
+      "text": "临退下前，他抬起头，声音冷得像刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0028_b0178",
+      "text": "“秘境会有人替陆沉渊收尸。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    }
+  ]
+}

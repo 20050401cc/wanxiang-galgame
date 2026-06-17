@@ -1,0 +1,1480 @@
+{
+  "id": "ch0029",
+  "index": 29,
+  "title": "第二十九章 秘境开启",
+  "beatCount": 173,
+  "beats": [
+    {
+      "id": "ch0029_b0001",
+      "text": "赤月秘境开启这一日，青岚宗山门外云海翻涌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0002",
+      "text": "数百名外门弟子立于广场之上，腰间皆悬着赤色木牌。那木牌名为入境令，刻着宗门印记，只要秘境大门开启，便能护住弟子穿过入口乱流。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0003",
+      "text": "陆沉渊站在人群前列，衣袍干净，神色平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0004",
+      "text": "昨日外门大比的余波还未散尽，许多人看他的眼神已经彻底变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0005",
+      "text": "从前他们看陆沉渊，是看一个可以随意踩踏的废物；如今再看，却像看一柄已经出鞘的刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0006",
+      "text": "尤其是那些曾经跟随叶寒的人，目光闪躲，却又藏着怨毒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0007",
+      "text": "陆沉渊没有理会。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0008",
+      "text": "账已经开了，就不会漏算。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0009",
+      "text": "叶寒倒下，只是第一笔。真正站在后面递刀的人，还没有露面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0010",
+      "text": "远处，一道白衣身影静静立在女弟子队列之中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0011",
+      "text": "林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0029_b0012",
+      "text": "她今日没有主动靠近陆沉渊，眉目清冷，像是与他从未有过纠葛。可当陆沉渊目光扫过时，她指尖微微一紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0013",
+      "text": "那一瞬间的反应，被陆沉渊看得分明。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0014",
+      "text": "“装得越干净，越说明账面不清。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0015",
+      "text": "广场高台上，几名执事并肩而立。最中央的灰袍长老抬手一压，嘈杂声顿时散去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0016",
+      "text": "“赤月秘境十年一开，此次开启时间为七日。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0017",
+      "text": "“秘境之内，灵药、矿晶、残阵、机缘，皆凭本事获取。但有一条，凡同宗弟子，不得明面残杀。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0018",
+      "text": "说到这里，灰袍长老目光扫过众人，语气更沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0019",
+      "text": "“若有人胆敢坏宗门规矩，出来之后，严惩不贷。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0020",
+      "text": "人群中有人低头，有人冷笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0021",
+      "text": "不得明面残杀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0022",
+      "text": "这几个字，本身就留下了太多缝隙。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0023",
+      "text": "秘境凶险，死于妖兽，死于阵乱，死于外宗之手，谁能一一查清？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0024",
+      "text": "陆沉渊自然听懂了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0025",
+      "text": "规则是给弱者看的，刀是给强者握的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0026",
+      "text": "灰袍长老继续道：“此次除我青岚宗外，赤云门、百川谷、金锋楼等势力也会进入秘境。你们记住，秘境之中没有绝对同盟。遇外宗弟子，能避则避，不能避，便不要心软。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0027",
+      "text": "这句话落下，广场上气氛骤然紧绷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0028",
+      "text": "赤月秘境并非青岚宗独占，而是几方宗门共同把持。每次开启，名义上是历练，实际上却是各宗年轻弟子的一场暗中较量。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0029",
+      "text": "能活着出来，还带回资源的人，才有资格继续往上走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0030",
+      "text": "不能活着出来的人，只会变成宗门卷宗上一行小字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0031",
+      "text": "陆沉渊垂下眼帘，掌心轻轻按过袖中一角。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0032",
+      "text": "那是系统奖励的地图残页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0033",
+      "text": "残页并不完整，纸质泛黄，边缘像被火焰灼过。若只用眼看，不过是一张残破旧图；可当陆沉渊以震惊值激活时，残页之上会浮现出一层淡淡赤光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0034",
+      "text": "昨夜他已经试过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0035",
+      "text": "赤光并非普通路线，而是与赤月秘境气机相连。尤其是图中央缺失的一片区域，隐隐有一枚月牙状标记，像是被什么东西强行遮住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0036",
+      "text": "陆沉渊原本以为那是核心区。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0037",
+      "text": "可残页真正给出的方向，比核心区更深。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0038",
+      "text": "“陆沉渊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0039",
+      "text": "一道声音从侧后方传来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0040",
+      "text": "陆沉渊回头，见一名面容瘦削的外门弟子走近。此人名叫赵砚，曾经与叶寒走得极近，大比之后却突然低调起来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0041",
+      "text": "赵砚脸上带着笑，拱手道：“秘境凶险，大家毕竟同宗。进去之后若能彼此照应，总比单打独斗强。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0042",
+      "text": "他话音刚落，旁边又有两名弟子靠了过来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0043",
+      "text": "三人表面恭敬，眼中却有压不住的试探。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0044",
+      "text": "陆沉渊看着他们，“照应？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0045",
+      "text": "赵砚笑道：“陆师兄如今是外门第一，我等自然以陆师兄为首。只要陆师兄愿意带我们一程，我们所得灵药，可以先让陆师兄挑选。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0046",
+      "text": "周围几名弟子听到这话，脸色各异。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0047",
+      "text": "有人觉得赵砚识时务，也有人暗骂他不要脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0048",
+      "text": "昨日还跟着叶寒叫嚣，今日就改口喊师兄。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0049",
+      "text": "陆沉渊却没有笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0050",
+      "text": "他只是看了一眼赵砚腰间的入境令。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0051",
+      "text": "入境令旁边，多了一枚不起眼的黑色小坠。坠子上没有宗门标记，却有一道极细的银纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0052",
+      "text": "秦无极的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0053",
+      "text": "陆沉渊不动声色地收回目光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0054",
+      "text": "“可以。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0055",
+      "text": "赵砚一愣，似乎没想到他答应得这么轻易。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0056",
+      "text": "陆沉渊道：“秘境里见。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0057",
+      "text": "赵砚脸上笑意更深，“好，秘境里见。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0058",
+      "text": "他说完退回人群，转身那一刻，眼底阴色终于浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0059",
+      "text": "陆沉渊心中没有半点波动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0060",
+      "text": "送上门的账，不收白不收。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0061",
+      "text": "就在此时，广场之外传来钟鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0062",
+      "text": "咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0063",
+      "text": "咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0064",
+      "text": "咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0065",
+      "text": "三声过后，山门前的云海骤然裂开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0066",
+      "text": "一道赤红光柱从天际落下，像是将苍穹劈开了一道口子。光柱之中，隐约可见一轮残月倒悬，月色如血，边缘不断滴落赤辉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0067",
+      "text": "那便是赤月秘境入口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0068",
+      "text": "随着入口显现，来自各宗的队伍也陆续抵达。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0069",
+      "text": "赤云门弟子衣袍赤红，气势张扬；百川谷弟子多穿青白长衫，腰间挂着药囊；金锋楼弟子则背负短刃，目光凌厉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0070",
+      "text": "几方势力一到，青岚宗弟子顿时安静不少。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0071",
+      "text": "赤云门队伍中，一名高大青年扫了一眼青岚宗这边，嘴角露出轻蔑笑意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0072",
+      "text": "“听说青岚宗外门第一换人了？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0073",
+      "text": "他声音不大，却足够周围听见。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0074",
+      "text": "“以前那个叶寒不堪一击，如今这个陆沉渊，又能强到哪里去？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0075",
+      "text": "赤云门弟子顿时哄笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0076",
+      "text": "青岚宗这边不少人脸色难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0077",
+      "text": "若是换作昨日之前，他们或许也会跟着嘲讽陆沉渊。可现在陆沉渊代表青岚宗外门第一，被外宗当众轻慢，便是在打整个青岚宗的脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0078",
+      "text": "陆沉渊抬眼看去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0079",
+      "text": "高大青年胸前绣着赤云纹，气血强盛，已是凝脉初期，周身气息比普通外门弟子更沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0080",
+      "text": "对方显然不是随口挑衅。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0081",
+      "text": "各宗入境前互相试探，若能乱人心境，入境之后便多一分优势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0082",
+      "text": "陆沉渊淡淡道：“叶寒至少敢站到台上。你若想知道我强到哪里，秘境里可以自己来问。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0083",
+      "text": "赤云门青年眼神一冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0084",
+      "text": "周围笑声一滞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0085",
+      "text": "这句话不高，却压得住场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0086",
+      "text": "青岚宗弟子中有人忍不住低声道：“陆沉渊真敢啊。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0087",
+      "text": "“他连叶寒都打败了，怕什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0088",
+      "text": "“可赤云门那人是凝脉初期。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0089",
+      "text": "议论声一起，陆沉渊识海中熟悉的冰冷提示随之响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0090",
+      "text": "【检测到宿主当众反压外宗挑衅，引发青岚宗弟子情绪波动。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0091",
+      "text": "【震惊值+120】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0092",
+      "text": "【显圣值+30】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0093",
+      "text": "陆沉渊眼底没有喜色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0094",
+      "text": "这些只是小账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0095",
+      "text": "真正的大账，在秘境里面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0096",
+      "text": "另一侧，林清雪的目光落在他身上，神色复杂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0029_b0097",
+      "text": "她曾经以为陆沉渊最大的价值，是替她承受那些旧日麻烦；她曾经以为自己只要稍稍冷淡，陆沉渊便会像从前一样追上来解释、低头、让步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0098",
+      "text": "可如今的陆沉渊，像是从一场大梦里醒来，连看她一眼都像在看一笔陈年旧债。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0099",
+      "text": "她心里忽然生出一丝不安。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0100",
+      "text": "这种不安，不是因为陆沉渊强了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0101",
+      "text": "而是因为他不再受她影响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0102",
+      "text": "高台上，灰袍长老与其他几宗执事确认时辰后，抬手祭出一枚古印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0103",
+      "text": "古印悬空，赤月入口随之扩大。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0104",
+      "text": "乱流如潮，卷动山风。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0105",
+      "text": "“入境！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0106",
+      "text": "一声令下，各宗弟子腰间入境令同时发亮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0107",
+      "text": "赤云门弟子最先冲出，百川谷与金锋楼紧随其后。青岚宗这边也迅速行动，数十名弟子化作一道道人影，没入赤红光门之中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0108",
+      "text": "陆沉渊没有急着动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0109",
+      "text": "他看见赵砚等人已经先一步进入，消失前还回头看了他一眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0110",
+      "text": "那一眼里，有催促，也有杀意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0111",
+      "text": "林清雪也进入了秘境。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0029_b0112",
+      "text": "她身旁跟着几名女弟子，其中一人衣袖内藏着短刃，步伐却极稳，显然不是普通外门弟子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0113",
+      "text": "陆沉渊记下位置，随即取出地图残页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0114",
+      "text": "残页一接触入口赤光，瞬间变得滚烫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0115",
+      "text": "原本模糊的线条开始游走，像有一条条血色脉络在图上苏醒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0116",
+      "text": "陆沉渊掌心微沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0117",
+      "text": "识海中，系统提示陡然响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0118",
+      "text": "【检测到赤月秘境核心区域气机。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0119",
+      "text": "【地图残页已激活。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0120",
+      "text": "【主线阶段任务发布：进入赤月秘境核心区。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0121",
+      "text": "【任务要求：七日内抵达核心区外缘，取得至少一处核心区机缘。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0122",
+      "text": "【任务奖励：因果点+300，显圣值+500，随机清算权限一次。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0123",
+      "text": "【危险预警：核心区存在高阶残阵、异化妖兽、外宗猎杀小队及未知禁区气息。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0124",
+      "text": "【提示：宿主当前境界为开脉巅峰，正面闯入核心区风险极高。建议借势而行。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0125",
+      "text": "陆沉渊看着地图残页上不断浮现的线条，眼神微凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0126",
+      "text": "借势而行。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0127",
+      "text": "这正是万象借势系统真正的强处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0128",
+      "text": "不是莽撞冲杀，而是把敌人的刀、别人的局、秘境的规则，都变成自己的台阶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0129",
+      "text": "赤月入口即将闭合，灰袍长老看向陆沉渊：“还不入境？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0130",
+      "text": "陆沉渊收起残页，踏步向前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0131",
+      "text": "身后，秦无极站在内门弟子观礼台上，目光冰冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0132",
+      "text": "他今日没有资格入赤月秘境，因为秘境限制外门弟子进入。但他的手，已经伸进去了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0133",
+      "text": "秦无极身旁，一名随从低声道：“秦师兄放心，令牌已经交出去。只要陆沉渊落单，他必死无疑。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0134",
+      "text": "秦无极淡淡道：“不要只杀他。让他死之前明白，外门第一也不过是一只被人捏死的虫。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0135",
+      "text": "光门之前，陆沉渊忽然回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0136",
+      "text": "他的目光越过人群，正好落在秦无极身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0137",
+      "text": "两人隔着广场对视。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0138",
+      "text": "秦无极嘴角微动，无声吐出四个字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0139",
+      "text": "“等着收尸。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0140",
+      "text": "陆沉渊看懂了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0141",
+      "text": "他也笑了笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0142",
+      "text": "那笑意很浅，却让秦无极心中莫名一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0143",
+      "text": "下一刻，陆沉渊转身踏入赤月光门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0144",
+      "text": "天旋地转。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0145",
+      "text": "赤色乱流扑面而来，像无数刀锋从四面八方划过。入境令爆发出一层护光，将陆沉渊包裹其中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0146",
+      "text": "他没有抗拒，而是顺着乱流下坠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0147",
+      "text": "耳边风声尖啸，眼前景象不断破碎重组。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0148",
+      "text": "山脉、血月、荒林、湖泊、残破石碑，一幕幕飞速闪过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0149",
+      "text": "地图残页在袖中震动，像是在与秘境深处某处存在呼应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0150",
+      "text": "残页边缘忽然裂开一道细缝，原本缺失的月牙标记变得清晰了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0151",
+      "text": "那不是核心区的标记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0152",
+      "text": "那是核心区之后，被赤色雾气层层封锁的一片黑暗区域。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0153",
+      "text": "【危险预警升级。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0154",
+      "text": "【检测到禁区指向。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0155",
+      "text": "【地图残页真实目标：赤月禁区。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0156",
+      "text": "【当前权限不足，无法解析禁区信息。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0157",
+      "text": "陆沉渊眼神骤然一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0158",
+      "text": "赤月禁区。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0159",
+      "text": "上一世，青岚宗关于赤月秘境的记载里，几乎没有这两个字。所有从核心区深入的人，要么失踪，要么出来后神志混乱，不久暴毙。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0160",
+      "text": "可如今地图残页偏偏指向那里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0161",
+      "text": "乱流尽头，赤光炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0162",
+      "text": "陆沉渊身形坠落，脚下大地越来越近。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0163",
+      "text": "一片血色古林出现在视线之中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0164",
+      "text": "他在落地前翻身卸力，稳稳踏在一块青黑巨石上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0165",
+      "text": "四周寂静无声，空气中弥漫着淡淡药香与腐叶气息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0166",
+      "text": "天穹之上，一轮赤月高悬，仿佛永不落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0167",
+      "text": "陆沉渊取出地图残页。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0168",
+      "text": "残页上的路线已经彻底改变，不再指向普通灵药区，而是绕过三处外宗常走路径，直指秘境深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0169",
+      "text": "而在路线尽头，那片被赤雾涂抹的禁区边缘，正亮着一点微弱黑光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0170",
+      "text": "陆沉渊掌心合拢，将残页收起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0029_b0171",
+      "text": "“核心区是第一站。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0172",
+      "text": "他望向古林深处，声音冷静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0029_b0173",
+      "text": "“禁区，才是真账本。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    }
+  ]
+}

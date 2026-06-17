@@ -1,0 +1,1228 @@
+{
+  "id": "ch0025",
+  "index": 25,
+  "title": "第二十五章 拒绝拜师",
+  "beatCount": 144,
+  "beats": [
+    {
+      "id": "ch0025_b0001",
+      "text": "剑台上的风还没有散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0002",
+      "text": "许青锋被人抬下去时，右手仍在发抖。他不是被废了根基，却被陆沉渊一剑震散了剑势。对剑修而言，这比皮肉伤更难受。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0003",
+      "text": "台下弟子看着陆沉渊，眼神已经从看热闹变成了看异数。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0004",
+      "text": "一个被压成杂役的人，三日内杀回外门，登挑战榜，打穿贡献殿，又在剑台上一剑胜凝脉剑修。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0005",
+      "text": "这已经不是运气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0006",
+      "text": "这是有人把压在他身上的石头，一块块翻开，再一块块砸回了出手的人脸上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0007",
+      "text": "观战台上，几位长老仍在争。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0008",
+      "text": "白眉长老道：“陆沉渊，你入我剑堂。老夫给你三次入剑池资格，玄烬残剑也可由剑堂替你修补。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0009",
+      "text": "黑袍长老冷笑：“修补？那是你的说法。剑修的剑，不是越完整越好。此子剑意初成，心中有账，手中有尺，入戒律堂更合适。我可给他戒律副令，让他查外门压事之案。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0010",
+      "text": "另一个紫衣长老摇头，“他现在锋芒太露，最该入内门静修三年。给他功法、丹药、师承，把底子补上，再谈清账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0011",
+      "text": "“静修三年？”黑袍长老嗤笑，“他若真静修三年，外门这些账早被人抹干净了。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0012",
+      "text": "几位长老你一言我一语，台下弟子听得心惊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0013",
+      "text": "剑池资格，戒律副令，内门静修，这些平日里一个名额都足以让外门弟子争破头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0014",
+      "text": "如今却被摆在陆沉渊面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0015",
+      "text": "赵岳站在人群里，脸色难看到极点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0016",
+      "text": "他本以为许青锋上台，至少能废掉陆沉渊一只手。没想到许青锋败得干净，反倒把陆沉渊送到几位长老眼前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0017",
+      "text": "若陆沉渊真入剑堂或戒律堂，他以后再想动手，就不是外门小争，而是打长老的脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0018",
+      "text": "这时，一道温和声音从观战台后方传来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0019",
+      "text": "“诸位何必争得这样急。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0020",
+      "text": "众人回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0021",
+      "text": "一名青袍长老缓步走出，眉眼温润，袖口绣着云纹。他一出现，白眉长老和黑袍长老都收了几分声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0022",
+      "text": "韩长老。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0023",
+      "text": "外门与内门交界处的掌事长老之一，也是叶寒名义上的授业长老。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0024",
+      "text": "他平日不显山露水，却能影响外门资源流向。很多人都知道，叶寒能在外门一路顺利，背后少不了这位韩长老点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0025",
+      "text": "韩长老走到观战台前，看向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0026",
+      "text": "“你剑意初成，心性也不错。今日若愿拜入老夫门下，先前外门之事，到此为止。赵岳该罚，许青锋该养伤，叶寒那边老夫会让他亲自向你赔礼。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0027",
+      "text": "台下骤然安静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0028",
+      "text": "赔礼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0029",
+      "text": "这两个字，听起来像是给陆沉渊面子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0030",
+      "text": "可真正听懂的人都明白，这话的重点是“到此为止”。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0031",
+      "text": "只要陆沉渊拜下，叶寒与赵岳此前所有布置，都会被韩长老一句调和压住。陆沉渊能得到一个强力靠山，也能从被围压的局面中暂时脱身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0032",
+      "text": "代价是，他不能继续查。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0033",
+      "text": "陆沉渊望着韩长老，神情平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0034",
+      "text": "“长老所说的外门之事，包括杂役院私扣月供，贡献殿压价，剑台废人令，还是青岚旧脉钥印被人提前盯上？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0035",
+      "text": "韩长老眼中温和不变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0036",
+      "text": "“年轻人，宗门水深。很多事，追到尽头未必对你有利。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0037",
+      "text": "“对我无利，还是对别人不利？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0038",
+      "text": "台下又是一静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0039",
+      "text": "韩长老笑意淡了些，“你锋芒太盛。剑可以锋利，却不可只知向前。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0040",
+      "text": "陆沉渊道：“若前面是账，剑就该向前。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0041",
+      "text": "韩长老的目光终于冷了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0042",
+      "text": "“你可知，拒绝老夫意味着什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0043",
+      "text": "陆沉渊抬起玄烬残剑，剑尖斜指地面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0044",
+      "text": "“意味着旧账继续算。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0045",
+      "text": "观战台上，黑袍长老忽然笑出声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0046",
+      "text": "“好，好一个旧账继续算！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0047",
+      "text": "白眉长老却皱眉，“陆沉渊，你莫要一时意气。韩长老虽与叶寒有师承关系，但入他门下，确可让你少走许多弯路。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0048",
+      "text": "陆沉渊看向白眉长老，语气仍然平稳，“多谢长老好意。但我这一世走的，不是少走弯路的路。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0049",
+      "text": "他话音落下，玄烬残剑忽然轻轻震动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0050",
+      "text": "远处观战台后的山影之中，一座几乎被云雾遮住的孤峰传来一声钟鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0051",
+      "text": "咚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0052",
+      "text": "声音不大，却压过剑台所有议论。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0053",
+      "text": "几位长老同时变色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0054",
+      "text": "“藏剑峰？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0055",
+      "text": "“那座峰不是二十年没有收人了吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0056",
+      "text": "“谁敲的钟？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0057",
+      "text": "陆沉渊也抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0058",
+      "text": "在他眼底，系统提示浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0059",
+      "text": "【玄烬残剑触发宗门旧峰响应。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0060",
+      "text": "【检测到藏剑峰残存传承权限。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0061",
+      "text": "【提示：藏剑峰曾收录玄烬残剑来历残档，持剑者可申请试剑。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0062",
+      "text": "【选择支线：入剑堂、入戒律堂、入韩长老门下、入藏剑峰。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0063",
+      "text": "【警告：藏剑峰资源贫瘠，现存弟子稀少，宗门话语权低。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0064",
+      "text": "【隐藏收益：藏剑峰旧档、试剑令、独立查账权限。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0065",
+      "text": "陆沉渊看到最后一行，眼神微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0066",
+      "text": "独立查账权限。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0067",
+      "text": "这比剑池资格更重要。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0068",
+      "text": "韩长老顺着他的目光看向远处孤峰，淡淡道：“藏剑峰早已衰落。峰主多年不问宗务，弟子不过三五人，连月供都常被内务堂拖欠。陆沉渊，你若入那里，今日这些长老给你的东西，全都没有。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0069",
+      "text": "“有账可查吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0070",
+      "text": "韩长老眉头一皱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0071",
+      "text": "陆沉渊重复道：“藏剑峰，有账可查吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0072",
+      "text": "黑袍长老沉默片刻，道：“藏剑峰不归外门内务直接管辖，按旧制，持试剑令者可调阅与剑器、旧案、宗门封存兵录有关的部分档案。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0073",
+      "text": "陆沉渊点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0074",
+      "text": "“那我选藏剑峰。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0075",
+      "text": "台下轰然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0076",
+      "text": "“他疯了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0077",
+      "text": "“剑堂不要，戒律堂不要，韩长老也拒了，去藏剑峰？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0078",
+      "text": "“藏剑峰那地方，除了旧剑和灰，什么都没有！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0079",
+      "text": "韩长老脸上的温和彻底散去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0080",
+      "text": "“你确定？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0081",
+      "text": "陆沉渊道：“确定。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0082",
+      "text": "远处孤峰第二声钟鸣响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0083",
+      "text": "咚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0084",
+      "text": "云雾散开一线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0085",
+      "text": "一名佝偻老者不知何时站在山道尽头。他衣袍灰旧，背后背着一捆破剑，头发乱得像多年没有梳理。可他出现时，玄烬残剑竟主动发出低鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0086",
+      "text": "那正是库房里给陆沉渊断剑的看库老头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0087",
+      "text": "他看向观战台，咧嘴一笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0088",
+      "text": "“诸位别争了，这小子我藏剑峰要了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0089",
+      "text": "白眉长老一愣，“莫老，你还活着？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0090",
+      "text": "莫老翻了个白眼，“你死了我都未必死。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0091",
+      "text": "黑袍长老低声道：“你多年不收弟子，今日为何出面？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0092",
+      "text": "莫老拍了拍背后破剑，“不是我要收，是剑要收。他拿了玄烬残剑，按旧规，得走藏剑峰一趟。至于拜不拜师，老头子不强求。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0093",
+      "text": "韩长老冷冷道：“藏剑峰若要收人，也要过内门名册。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0094",
+      "text": "莫老笑道：“名册归你管，试剑令不归你管。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0095",
+      "text": "他说完，从怀中摸出一枚古朴铁令，随手抛下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0096",
+      "text": "铁令落到剑台上，发出沉闷一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0097",
+      "text": "令面锈迹斑斑，却刻着两个字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0098",
+      "text": "试剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0099",
+      "text": "几位长老脸色都变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0100",
+      "text": "藏剑峰试剑令，按青岚宗旧制，持令者三日内可不受外门寻常调派，优先入峰试剑，且可调阅与自身剑器相关的旧档。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0101",
+      "text": "这是一条老规矩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0102",
+      "text": "平日没人用，也没人敢用。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0103",
+      "text": "陆沉渊拾起试剑令。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0104",
+      "text": "令牌入手微凉，玄烬残剑的剑魂在剑中低笑，“小子，这老头身上有旧灰味，和本剑有关。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0105",
+      "text": "陆沉渊道：“正好。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0106",
+      "text": "莫老看着他，“什么正好？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0107",
+      "text": "陆沉渊收起令牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0108",
+      "text": "“我缺一处能查旧账的地方。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0109",
+      "text": "莫老怔了一下，随即笑得更响，“好。藏剑峰别的没有，旧账最多。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0110",
+      "text": "韩长老看着这一幕，眼底寒意一闪而逝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0111",
+      "text": "“陆沉渊，路是你自己选的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0112",
+      "text": "陆沉渊点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0113",
+      "text": "“账也是你们自己欠的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0114",
+      "text": "这一句话落下，韩长老转身离去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0115",
+      "text": "赵岳站在人群里，只觉背后发冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0116",
+      "text": "他原本以为韩长老出面，陆沉渊必然会被收编。没想到陆沉渊宁肯去冷门藏剑峰，也不肯让账到此为止。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0117",
+      "text": "而更让他不安的是，那枚试剑令。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0118",
+      "text": "试剑令一出，陆沉渊便有了短暂调阅旧档的权限。贡献殿钥印、杂役院私扣、剑台废人，任何一件往上追，都可能追到他头上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0119",
+      "text": "赵岳转身想走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0120",
+      "text": "陆沉渊却忽然开口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0121",
+      "text": "“赵岳执事。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0122",
+      "text": "赵岳脚步一僵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0123",
+      "text": "所有人都看向他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0124",
+      "text": "陆沉渊站在剑台上，手中试剑令微微发光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0125",
+      "text": "“明日，我会去藏剑峰试剑。后日，我会去戒律堂递第一份账。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0126",
+      "text": "赵岳脸色发白，“你什么意思？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0127",
+      "text": "陆沉渊道：“意思是你今晚最好把能藏的账藏好。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0128",
+      "text": "台下哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0129",
+      "text": "赵岳怒极，“陆沉渊，你敢威胁执事？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0130",
+      "text": "“不是威胁。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0131",
+      "text": "陆沉渊将玄烬残剑归鞘，转身走下剑台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0132",
+      "text": "“是通知。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0133",
+      "text": "系统提示在识海中响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0134",
+      "text": "【选择完成：藏剑峰。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0135",
+      "text": "【获得：藏剑峰试剑令。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0136",
+      "text": "【获得：旧档调阅权限一次。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0137",
+      "text": "【触发后续任务：宗规审判。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0138",
+      "text": "【任务要求：在七日内查明赵岳至少一条违规压迫链，并于戒律堂公开反告。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0139",
+      "text": "【奖励：戒律豁免令、因果点五十、震惊值按公开影响结算。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0140",
+      "text": "陆沉渊抬头，看向云雾中的藏剑峰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0025_b0141",
+      "text": "山道荒凉，剑鸣低沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0142",
+      "text": "那里不是坦途。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0143",
+      "text": "可坦途上站满了别人安排好的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0025_b0144",
+      "text": "他这一世要走的路，必须自己劈开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    }
+  ]
+}

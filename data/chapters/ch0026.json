@@ -1,0 +1,1864 @@
+{
+  "id": "ch0026",
+  "index": 26,
+  "title": "第二十六章 宗规审判",
+  "beatCount": 218,
+  "beats": [
+    {
+      "id": "ch0026_b0001",
+      "text": "第二日清晨，藏剑峰山门前落满枯叶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0002",
+      "text": "陆沉渊沿石阶而上，脚下每一步都能听见旧剑轻鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0003",
+      "text": "藏剑峰比外门想象中更冷清。山道两侧没有灵花灵木，也没有内门常见的迎客弟子，只有一排排断剑插在石缝里，剑身锈迹斑斑，却各自带着不同的锋芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0004",
+      "text": "莫老走在前面，背着那捆破剑，边走边打哈欠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0005",
+      "text": "“后悔没有？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0006",
+      "text": "陆沉渊道：“没有。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0007",
+      "text": "“剑堂有剑池，戒律堂有权，韩长老那里有丹药和靠山。藏剑峰有什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0008",
+      "text": "陆沉渊看着石缝里的断剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0009",
+      "text": "“有不肯被抹掉的旧痕。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0010",
+      "text": "莫老脚步一顿，回头看他一眼，笑意收了几分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0011",
+      "text": "“你这小子，说话像个老账房。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0012",
+      "text": "“前世欠账太多。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0013",
+      "text": "莫老没听懂后半句，只以为他在说陆家旧事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0014",
+      "text": "山顶有一座旧阁，门匾上写着“藏剑”二字。字迹苍劲，边缘却有被火烧过的痕迹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0015",
+      "text": "莫老推门入内。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0016",
+      "text": "阁中没有华丽陈设，只有一排排剑匣和厚厚旧卷。灰尘在阳光里漂浮，像一场迟迟没有落完的雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0017",
+      "text": "“试剑令只能开一次旧档。”莫老道，“你要查玄烬残剑，还是查最近这些破事？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0018",
+      "text": "陆沉渊道：“两者有无交叉？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0019",
+      "text": "莫老眯起眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0020",
+      "text": "“你倒是问到点上了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0021",
+      "text": "他从最里侧的木柜中取出一卷发黑的兵录，放到桌上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0022",
+      "text": "“玄烬残剑曾是藏剑峰封存之物，二十年前被送去外库，理由是残损无用。可送走它的人，不是藏剑峰。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0023",
+      "text": "陆沉渊翻开兵录。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0024",
+      "text": "卷末有一行封存记录。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0025",
+      "text": "玄烬残剑，旧名缺失，封于藏剑峰第三匣。二十年前，因内门调令转入外库。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0026",
+      "text": "调令签名处，被人用墨涂掉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0027",
+      "text": "陆沉渊眼中冷光一闪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0028",
+      "text": "“谁涂的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0029",
+      "text": "莫老摇头，“我醒来时，已经这样了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0030",
+      "text": "“醒来？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0031",
+      "text": "“藏剑峰出过一场火。”莫老摸了摸自己的白发，“我睡了几年，醒来后很多账都变了样。玄烬残剑被送走，一批旧档被封，几个当年经手的人要么升了，要么死了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0032",
+      "text": "陆沉渊沉默片刻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0033",
+      "text": "这条线，比他想的更早。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0034",
+      "text": "玄烬残剑、父亲陆镇南、青岚旧脉钥印，未必是彼此独立的事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0035",
+      "text": "这时，阁外忽然传来急促脚步声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0036",
+      "text": "一个藏剑峰年轻弟子闯进来，脸色发白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0037",
+      "text": "“莫师叔，戒律堂来人了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0038",
+      "text": "莫老眉头一皱，“来藏剑峰做什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0039",
+      "text": "“他们说陆沉渊偷盗贡献殿封存的青岚旧脉钥印，要押他去审。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0040",
+      "text": "陆沉渊合上兵录。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0041",
+      "text": "“来得比我预想中快。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0042",
+      "text": "莫老看向他，“你早知道？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0043",
+      "text": "“赵岳若等我查完再动手，就不是赵岳了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0044",
+      "text": "藏剑峰山门外，戒律堂弟子十余人列队而立。赵岳站在最前，脸色阴沉，却带着一丝胜券在握的冷笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0045",
+      "text": "他身旁还有贡献殿的赵平。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0046",
+      "text": "赵平手里捧着一只封阵盒，盒盖半开，里面空空如也。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0047",
+      "text": "赵岳见陆沉渊出来，立刻喝道：“陆沉渊，你昨日在贡献殿鉴出青岚旧脉钥印，今日钥印失窃。有人亲眼见你夜入贡献殿后库。随我去戒律堂受审！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0048",
+      "text": "藏剑峰弟子一片哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0049",
+      "text": "莫老冷声道：“证据呢？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0050",
+      "text": "赵岳道：“后库封阵破损，守库弟子口供在此，封阵残息也指向玄烬残剑。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0051",
+      "text": "赵平趁势道：“我昨日便觉得陆沉渊对钥印过于熟悉，恐怕早有图谋。王执役一时被他话术蒙蔽，才让他得了机会。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0052",
+      "text": "莫老笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0053",
+      "text": "“你们倒是会编。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0054",
+      "text": "赵岳冷声道：“莫老，藏剑峰试剑令不是免罪令。陆沉渊若清白，自可去戒律堂解释。若抗令，便是心虚。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0055",
+      "text": "陆沉渊看着赵岳，“戒律堂审，还是你审？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0056",
+      "text": "赵岳眼角一跳，“自然是戒律堂。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0057",
+      "text": "“公开审，还是关门审？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0058",
+      "text": "赵岳皱眉，“你什么意思？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0059",
+      "text": "“若我偷了钥印，罪关宗门旧脉，自然该公开。若你诬告，罪关执事滥权，也该公开。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0060",
+      "text": "陆沉渊取出试剑令。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0061",
+      "text": "“藏剑峰试剑令在此。按旧制，持令者三日内涉及剑器、旧档、封存物争议时，可申请三堂见证。戒律堂、贡献殿、藏剑峰同时到场。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0062",
+      "text": "赵岳脸色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0063",
+      "text": "他本想先把陆沉渊押到戒律堂偏厅，用“证据确凿”迅速定罪，再逼他交出玄烬残剑和贡献玉牌。没想到陆沉渊直接把审判推到三堂见证。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0064",
+      "text": "莫老立刻道：“好，就三堂见证。老头子也想看看，是谁敢把偷钥印的脏水泼到藏剑峰头上。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0065",
+      "text": "半个时辰后，戒律堂正厅坐满了人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0066",
+      "text": "戒律堂主坐在正中，贡献殿王执役在左，藏剑峰莫老在右。外门不少弟子挤在堂外，伸长脖子看热闹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0067",
+      "text": "赵岳站在堂中，声音沉沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0068",
+      "text": "“陆沉渊昨日发现青岚旧脉钥印，今日钥印失窃。后库封阵留有玄烬残剑雷火残息。守库弟子刘显亲眼见其夜入后库。封阵盒空置，人证物证俱在。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0069",
+      "text": "戒律堂主看向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0070",
+      "text": "“你有何话说？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0071",
+      "text": "陆沉渊道：“先验人证。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0072",
+      "text": "刘显被带上来，脸色苍白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0073",
+      "text": "赵岳道：“你只管照实说。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0074",
+      "text": "刘显咽了咽口水，“昨夜亥时，我值守后库，见陆沉渊从廊下经过。他背着玄烬残剑，进了后库。不久后封阵便有异响。我进去时，钥印已经不见了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0075",
+      "text": "戒律堂主问：“你确定是陆沉渊？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0076",
+      "text": "刘显点头，“确定。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0077",
+      "text": "陆沉渊看着他，“亥时几刻？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0078",
+      "text": "刘显一愣，“二刻。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0079",
+      "text": "“贡献殿后库几道门？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0080",
+      "text": "“三道。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0081",
+      "text": "“第一道门用什么封阵？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0082",
+      "text": "刘显眼神闪烁，“青木封阵。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0083",
+      "text": "陆沉渊道：“错。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0084",
+      "text": "王执役眉头一皱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0085",
+      "text": "陆沉渊继续道：“贡献殿后库第一道门是铁纹阵，第二道是青木阵，第三道才是封阵盒所在。刘显，你若真在后库值守，不会连第一道门都记错。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0086",
+      "text": "刘显脸色骤白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0087",
+      "text": "赵岳喝道：“陆沉渊，你休要混淆！一个值守弟子紧张记错，有何稀奇？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0088",
+      "text": "陆沉渊看向戒律堂主。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0089",
+      "text": "“请调昨夜后库值守名册。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0090",
+      "text": "王执役已经冷着脸开口，“我贡献殿后库昨夜值守者，不是刘显。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0091",
+      "text": "赵岳神色一僵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0092",
+      "text": "王执役挥手，让人取来名册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0093",
+      "text": "名册摊开，昨夜亥时值守者名为周原。刘显是前日值守，昨夜并不在后库。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0094",
+      "text": "堂外一片哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0095",
+      "text": "刘显腿一软，几乎跪下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0096",
+      "text": "赵岳脸色阴沉，“刘显或许记错值守时辰，但封阵残息总不会错。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0097",
+      "text": "陆沉渊道：“那便验封阵。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0098",
+      "text": "赵平立刻将封阵盒递上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0099",
+      "text": "戒律堂主取出盒中残片，雷火气息确实残留其上，与玄烬残剑有几分相似。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0100",
+      "text": "堂外有人低声道：“这气息真像。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0101",
+      "text": "赵岳重新找回底气，“陆沉渊，你还有何话说？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0102",
+      "text": "陆沉渊取出玄烬残剑，放在案上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0103",
+      "text": "“玄烬残剑的雷火气息，是灰金色，内含黑雷。此残息为赤金色，浮在表面，像是外物拓印。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0104",
+      "text": "赵平冷笑，“你说拓印就是拓印？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0105",
+      "text": "“可验。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0106",
+      "text": "陆沉渊看向莫老。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0107",
+      "text": "莫老已经从怀里取出一枚破旧铜镜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0108",
+      "text": "“藏剑峰验剑镜，专验剑气来源。多年没用，今日倒正好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0109",
+      "text": "铜镜照向玄烬残剑，镜面浮出灰金雷纹，纹路下沉如烬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0110",
+      "text": "再照向封阵残片，镜面浮出赤金雷纹，却在三息后散成粉末状虚影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0111",
+      "text": "莫老冷笑，“拓印的。拓得还不太熟。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0112",
+      "text": "堂外议论声骤起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0113",
+      "text": "赵岳额角渗出汗意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0114",
+      "text": "戒律堂主看向赵平，“封阵残片从何而来？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0115",
+      "text": "赵平强撑道：“后库现场所取。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0116",
+      "text": "陆沉渊道：“那钥印呢？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0117",
+      "text": "赵平咬牙，“钥印自然被你盗走！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0118",
+      "text": "陆沉渊抬手，将贡献玉牌放在案上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0119",
+      "text": "“昨日王执役封存钥印后，可曾给我任何接触封阵盒的机会？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0120",
+      "text": "王执役道：“没有。钥印由我亲手入盒，送入后库。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0121",
+      "text": "“后库谁有钥？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0122",
+      "text": "“贡献殿正执役、轮值管事、戒律堂备案执事。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0123",
+      "text": "陆沉渊看向赵岳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0124",
+      "text": "戒律堂主也看向赵岳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0125",
+      "text": "赵岳脸色变得难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0126",
+      "text": "他是戒律堂备案执事之一，有权在特殊情况下取封存物复核。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0127",
+      "text": "陆沉渊继续道：“请调后库出入阵印。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0128",
+      "text": "赵岳怒道：“你把戒律堂当什么？什么都由你说调就调？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0129",
+      "text": "陆沉渊淡淡道：“若不敢调，便说明出入阵印里有你。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0130",
+      "text": "赵岳一拍桌案，“放肆！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0131",
+      "text": "戒律堂主沉声道：“调。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0132",
+      "text": "事情已经闹到三堂见证，若不调，戒律堂便要替赵岳背锅。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0133",
+      "text": "片刻后，后库出入阵印被送来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0134",
+      "text": "昨夜亥时三刻，有人以戒律堂备案执事权限开启后库。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0135",
+      "text": "阵印署名，赵岳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0136",
+      "text": "堂外轰然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0137",
+      "text": "赵岳脸色惨白，“我是接到贡献殿报备，前去查看封阵异动！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0138",
+      "text": "陆沉渊道：“报备人是谁？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0139",
+      "text": "赵岳张口，却没有立刻说出名字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0140",
+      "text": "陆沉渊看向戒律堂主。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0141",
+      "text": "“再调报备记录。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0142",
+      "text": "报备记录很快送上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0143",
+      "text": "空白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0144",
+      "text": "没有任何贡献殿报备。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0145",
+      "text": "赵岳额角冷汗滚落。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0146",
+      "text": "陆沉渊的声音在大堂中响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0147",
+      "text": "“人证是假的，封阵残息是拓印的，后库出入阵印是赵岳执事本人。现在问题只剩一个。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0148",
+      "text": "他看向赵岳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0149",
+      "text": "“钥印在哪里？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0150",
+      "text": "赵岳下意识后退半步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0151",
+      "text": "赵平也慌了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0152",
+      "text": "就在这时，陆沉渊忽然抬手，玄烬残剑轻轻一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0153",
+      "text": "剑身雷火气息不是攻向人，而是扫过赵岳腰间一枚不起眼的玉坠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0154",
+      "text": "玉坠瞬间发光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0155",
+      "text": "青金色纹路从玉坠中透出，与昨日钥印残片上的“岚”字遥相呼应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0156",
+      "text": "王执役猛地起身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0157",
+      "text": "“封阵转移坠！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0158",
+      "text": "莫老冷笑，“好东西啊，赵执事。藏得挺近。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0159",
+      "text": "赵岳脸色彻底灰败。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0160",
+      "text": "戒律堂弟子上前，将玉坠取下。玉坠打开，里面封着的正是青岚旧脉钥印残片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0161",
+      "text": "赵平直接跪了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0162",
+      "text": "堂外所有人都炸了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0163",
+      "text": "“赵岳偷了钥印，还反咬陆沉渊？”",
+      "kind": "dialogue",
+      "speaker": "陆川",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0164",
+      "text": "“这也太狠了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0165",
+      "text": "“难怪贡献殿昨日想压价，原来早就盯上了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0166",
+      "text": "戒律堂主脸色阴沉如水。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0167",
+      "text": "赵岳还想挣扎，“堂主，我是一时糊涂，我只是担心钥印落入陆沉渊之手，才先行保管……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0168",
+      "text": "陆沉渊道：“你担心，还是叶寒担心？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0169",
+      "text": "赵岳浑身一僵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0170",
+      "text": "韩长老的名字不能提，叶寒的名字也不能轻易咬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0171",
+      "text": "可眼下证据全在，若他不说，所有罪都要落在他身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0172",
+      "text": "陆沉渊继续道：“杂役院周魁盯我的剑，是你传话。剑台许青锋废我，是你安排。贡献殿赵平压价，是你授意。青岚旧脉钥印，你偷走再栽赃。赵岳，你一个外门执事，真有胆子同时动这么多线？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0173",
+      "text": "赵岳脸色发白，嘴唇颤抖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0174",
+      "text": "戒律堂主沉声道：“赵岳，从实招来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0175",
+      "text": "赵岳沉默许久，终于低头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0176",
+      "text": "“叶寒只让我压住陆沉渊，不让他拿到钥印线索。偷钥印……是我自己想立功。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0177",
+      "text": "叶寒只让他压住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0178",
+      "text": "这句话一出，等于把叶寒拉进了审判。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0179",
+      "text": "堂外一片低哗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0180",
+      "text": "陆沉渊眼神没有波动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0181",
+      "text": "他知道赵岳还在避重就轻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0182",
+      "text": "叶寒不是源头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0183",
+      "text": "但这句话已经够了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0184",
+      "text": "戒律堂主当场宣判。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0185",
+      "text": "赵岳滥用职权，私取封存物，构陷同门，革去执事职，押入戒律堂候审。赵平参与伪证与压价，革管事职，罚贡献三千，半年不得入贡献殿核验岗。刘显作伪证，罚入矿洞三月。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0186",
+      "text": "青岚旧脉钥印重新封存，由三堂共同看管。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0187",
+      "text": "陆沉渊作为被诬告者，获戒律堂清白印，并得一次公开反告记录。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0188",
+      "text": "系统提示响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0189",
+      "text": "【宗规审判完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0190",
+      "text": "【宿主以证据链反破栽赃，击穿赵岳压迫链。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0191",
+      "text": "【获得戒律豁免令一枚。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0192",
+      "text": "【获得因果点五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0193",
+      "text": "【获得震惊值：6800。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0194",
+      "text": "【获得显圣值：1700。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0195",
+      "text": "【叶寒势力因果暴露。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0196",
+      "text": "陆沉渊收起清白印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0197",
+      "text": "赵岳被押下去时，忽然回头，眼中满是怨毒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0198",
+      "text": "“陆沉渊，你以为抓住我，就能碰到叶寒？我告诉你，叶寒只是传话的人。真正要压你的人，你连名字都不配听！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0199",
+      "text": "戒律堂内顿时一静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0200",
+      "text": "陆沉渊抬眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0201",
+      "text": "“名字。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0202",
+      "text": "赵岳咬牙冷笑，“你想知道？那就自己去问叶寒。他若敢说，你就能听。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0203",
+      "text": "说完，他被戒律堂弟子强行押走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0204",
+      "text": "莫老看向陆沉渊，“这句话，像陷阱。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0205",
+      "text": "陆沉渊道：“陷阱也有账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0206",
+      "text": "王执役叹了一声，“你刚洗清罪名，最好先避一避风头。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0207",
+      "text": "陆沉渊看向戒律堂外。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0208",
+      "text": "堂外弟子纷纷让开一条路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0209",
+      "text": "远处，外门演武台方向传来钟声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0210",
+      "text": "一名传讯弟子飞奔而来，声音急促。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0211",
+      "text": "“叶寒师兄在外门榜前立战帖！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0212",
+      "text": "“他说陆沉渊若自认清白，就上台与他一战。胜者为外门第一，败者交出青岚旧脉钥印相关名额！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0213",
+      "text": "堂内再度哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0214",
+      "text": "叶寒终于亲自下场了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0215",
+      "text": "陆沉渊缓缓笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0026_b0216",
+      "text": "“正好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0217",
+      "text": "他将玄烬残剑背回身后，走出戒律堂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0026_b0218",
+      "text": "“账本翻到下一页。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    }
+  ]
+}

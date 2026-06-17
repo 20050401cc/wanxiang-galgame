@@ -1,0 +1,1728 @@
+{
+  "id": "ch0011",
+  "index": 11,
+  "title": "第十一章 退婚上门",
+  "beatCount": 194,
+  "beats": [
+    {
+      "id": "ch0011_b0001",
+      "text": "青岚城的雪停在午后。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0002",
+      "text": "陆家正厅前，檐角残冰滴答落下，砸在青石板上，像一声声缓慢的敲钟。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0003",
+      "text": "陆沉渊坐在主位左侧，玄衣束袖，指尖轻轻摩挲着茶盏边缘。大比之后，他夺回少主实权，祖祠显圣，药阁清账，家宴定权，生死台上又让陆家上下亲眼看见了什么叫做不可欺。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0004",
+      "text": "这几日，陆家看似安静，实则每一道门槛下都藏着暗流。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0005",
+      "text": "二房陆承远暂退，族老们收起了锋芒，可今日，另一把刀来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0006",
+      "text": "林家的车驾停在陆府门前时，半条长街都静了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0007",
+      "text": "三辆青帷马车，二十名护卫随行。为首那辆车帘掀开，一个鬓发微白、目光阴沉的老者先下了车。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0008",
+      "text": "林家三长老，林问鹤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0009",
+      "text": "他身后，林清雪缓步踏下马车。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0010",
+      "text": "她穿一身月白长裙，腰悬青岚宗外门弟子的玉牌，眉眼清冷，像是天生不该沾染凡尘。她一出现，陆家不少年轻族人呼吸都慢了半拍。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0011",
+      "text": "青岚宗名额。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0012",
+      "text": "林清雪已经得到了青岚宗的举荐令，只待春后入宗。对青岚城世家而言，这四个字足够压弯许多人的脊梁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0013",
+      "text": "陆沉渊抬眼看去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0014",
+      "text": "前世，他曾为了这张脸耗尽心血。林清雪一句“陆家不稳，我心难安”，他便替她挡下林家旁支的算计；她一句“青岚宗门槛太高”，他便把母亲留下的灵玉换成资源送去林家；最后他经脉尽毁，父亲产业被夺，她在青岚宗山门前只留下一句：",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0015",
+      "text": "“陆沉渊，你我终究不是一路人。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0016",
+      "text": "那时他以为是自己不够强。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0017",
+      "text": "重生之后他才明白，有些人不是等你强大才会并肩，而是你跪着时，她刚好需要一块垫脚石。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0018",
+      "text": "“陆少主。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0019",
+      "text": "林问鹤进门后没有行晚辈礼，只略一拱手，便将一封朱漆拜帖放在桌上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0020",
+      "text": "“今日登门，是为两家婚约而来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0021",
+      "text": "正厅内，陆家族老陆续落座。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0022",
+      "text": "大长老陆景山面色沉凝，二长老垂眸不语，几个支脉管事相互交换眼神。陆承远没有来，可他的人都在。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0023",
+      "text": "陆沉渊端起茶盏，吹开浮叶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0024",
+      "text": "“说。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0025",
+      "text": "林问鹤眉头一皱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0026",
+      "text": "一个小辈，让他说？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0027",
+      "text": "但想到今日目的，他忍住了不悦，淡淡道：“清雪已得青岚宗名额，不日便要离开青岚城。宗门规矩森严，弟子入门之前，不宜背负俗世婚约。林陆两家本是世交，若强留这门亲事，反倒误了两家颜面。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0028",
+      "text": "“所以呢？”陆沉渊道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0029",
+      "text": "林问鹤从袖中取出一张折好的文书。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0030",
+      "text": "“解除婚约。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0031",
+      "text": "四字落下，厅中气氛骤冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0032",
+      "text": "陆家几个年轻族人脸色微变，有人看向陆沉渊，眼里竟带着几分看笑话的兴奋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0033",
+      "text": "退婚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0034",
+      "text": "这两个字落在世家子弟身上，比掌掴更狠。尤其是女方登门，长老当众开口，无异于把陆沉渊这些日子攒起的威势撕开一道口子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0035",
+      "text": "林清雪终于抬眸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0036",
+      "text": "她望着陆沉渊，神情没有多少波澜，只像看一件已经不合时宜的旧物。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0037",
+      "text": "“沉渊哥哥。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0038",
+      "text": "这一声出来，厅内不少人神色微妙。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0039",
+      "text": "陆沉渊指尖一顿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0040",
+      "text": "前世每次她这样叫他，后面必有所求。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0041",
+      "text": "林清雪轻声道：“你我自幼相识，婚约本是长辈定下。以前我不懂事，也曾觉得两家门当户对，或许真能走到一起。但如今局势不同了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0042",
+      "text": "她腰间青岚宗玉牌在光下微微一晃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0043",
+      "text": "“我即将入青岚宗。那里有更高的山，更远的道。你虽夺回了少主之位，可青岚城终究太小，陆家也困不住我。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0044",
+      "text": "陆沉渊没有说话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0045",
+      "text": "林清雪继续道：“我今日亲自来，是不想让你太难堪。只要你愿意点头，林家可以给陆家三个青岚宗外门杂役举荐名额，还可以把城南两间铺子的三年收益让出来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0046",
+      "text": "她说得平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0047",
+      "text": "像是在施舍。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0048",
+      "text": "陆家支脉中立刻有人坐不住了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0049",
+      "text": "“少主，这事……倒也不是不能谈。”一个管事干咳一声，“清雪小姐天资不凡，入青岚宗是好事。两家好聚好散，总比撕破脸强。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0050",
+      "text": "另一人也道：“是啊，林家愿给三个杂役名额，这对族中子弟也是机会。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0051",
+      "text": "“少主如今掌权，更该从大局考虑。儿女私情，何必执着？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0052",
+      "text": "“忍一时不算丢人。等林小姐在青岚宗站稳脚跟，陆家也能跟着沾光。”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0053",
+      "text": "话音一声接一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0054",
+      "text": "陆沉渊看着这些人，忽然笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0055",
+      "text": "大比时他们让他让位，祖祠时他们劝他息事宁人，药阁清账时他们说家丑不可外扬，家宴上他们要他顾全族亲，生死台后他们沉默了几天。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0056",
+      "text": "如今林家一来，他们又活了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0057",
+      "text": "真是好一群长着陆姓骨头、跪着林家影子的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0058",
+      "text": "林问鹤眼中露出几分满意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0059",
+      "text": "他要的就是这个局面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0060",
+      "text": "陆沉渊再强，也不过是陆家少主。只要陆家内部有人逼他低头，这婚便退得顺理成章。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0061",
+      "text": "林清雪看着陆沉渊，语气放缓：“沉渊哥哥，我知你心里不甘。可人与人之间，终究要认清差距。你若还念旧情，就别让我为难，也别让陆家难看。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0062",
+      "text": "旧情。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0063",
+      "text": "陆沉渊杯中茶水微微荡起一圈涟漪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0064",
+      "text": "他听见脑海中一声轻响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0065",
+      "text": "【检测到关键因果场：退婚羞辱。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0066",
+      "text": "【对方携带势：青岚宗名额、林家颜面、前世旧情。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0067",
+      "text": "【可借势方向：隐忍吞辱、当众反制、因果清算。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0068",
+      "text": "陆沉渊放下茶盏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0069",
+      "text": "声音不高，却压过了厅内所有议论。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0070",
+      "text": "“说完了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0071",
+      "text": "林问鹤皱眉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0072",
+      "text": "陆沉渊看向林清雪：“你要退婚，我没有意见。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0073",
+      "text": "厅内顿时一静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0074",
+      "text": "连林清雪都怔了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0075",
+      "text": "她预想过陆沉渊暴怒，预想过他死缠烂打，也预想过他碍于颜面强撑平静。唯独没想到，他答应得这样快。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0076",
+      "text": "陆家几个管事脸上刚露出松气之色，陆沉渊下一句话便落了下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0077",
+      "text": "“但婚契原件，和我母亲留下的信物，林家要还回来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0078",
+      "text": "林清雪眉心微蹙。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0079",
+      "text": "林问鹤眼神一冷：“陆少主，此事我们自然会按礼处置。今日先定解除婚约，信物改日送还。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0080",
+      "text": "“改日？”陆沉渊笑意淡了些，“当年订婚时，林家收下我母亲云纹半印，说那是两家姻缘之证。婚契一式两份，原件由两家长辈共同封印。你们今日登门退婚，拜帖、长老、护卫、青岚宗玉牌一样不少，却偏偏没带信物和婚契？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0081",
+      "text": "他目光转向林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0082",
+      "text": "“是忘了，还是不想还？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0083",
+      "text": "林清雪脸色微微一变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0084",
+      "text": "陆家主厅中议论再起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0085",
+      "text": "不少人这才想起，当年这门婚约不是普通婚约。陆沉渊母亲出身神秘，留下的云纹半印据说不是凡物。只是这些年陆沉渊父亲失势，母亲早逝，旁人渐渐不提。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0086",
+      "text": "林问鹤冷哼：“一枚旧物罢了，林家岂会贪你？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0087",
+      "text": "“既是旧物，今日还我。”陆沉渊道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0088",
+      "text": "“信物不在我身上。”林清雪终于开口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0089",
+      "text": "陆沉渊看着她。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0090",
+      "text": "“在你身上。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0091",
+      "text": "林清雪眼底掠过一抹冷色：“陆沉渊，你是在搜我的身？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0092",
+      "text": "“我是在要回陆家的东西。”陆沉渊道，“你若觉得我说错了，可以让林长老以林家祖名立誓，说云纹半印今日不在你林清雪身上。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0093",
+      "text": "林问鹤脸色骤沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0094",
+      "text": "立誓？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0095",
+      "text": "这小子怎会如此笃定？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0096",
+      "text": "林清雪袖中指尖轻轻收紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0097",
+      "text": "她确实带来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0098",
+      "text": "云纹半印一直被她贴身携带。不是因为念旧，而是自从得到青岚宗名额后，那枚半印偶尔会在夜中发热，牵引她体内脉力运转。林家请人看过，说此物可能与某处秘藏有关。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0099",
+      "text": "今日退婚，她本打算先逼陆沉渊签下解除文书，再以“信物遗失需查”为由拖延。等她入了青岚宗，陆家还能如何？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0100",
+      "text": "可陆沉渊当众点破，便把她架在了火上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0101",
+      "text": "陆家大长老终于开口：“林长老，既然是退婚，信物婚契理应当场交割。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0102",
+      "text": "林问鹤看向大长老，冷声道：“陆景山，你想好了？为了这点细枝末节，坏两家情面？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0103",
+      "text": "“情面不是这么用的。”陆沉渊起身，“林家登门退婚，陆家让你们进门，听你们说完，已经给足体面。现在我要回亡母遗物，你们却说是细枝末节。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0104",
+      "text": "他一步步走到厅中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0105",
+      "text": "“那我倒想问问，林家的体面是体面，我母亲的遗物就不是遗物？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0106",
+      "text": "没人回答。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0107",
+      "text": "陆沉渊又看向那几个劝他忍让的陆家管事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0108",
+      "text": "“你们觉得三个杂役名额很值钱？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0109",
+      "text": "那几人脸色难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0110",
+      "text": "陆沉渊道：“要不这样，谁想要林家的名额，现在跪下给林长老磕三个头。我不拦。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0111",
+      "text": "“陆沉渊！”一名管事怒道，“你怎可如此羞辱族人？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0112",
+      "text": "“羞辱？”陆沉渊眸光冷下，“你们逼我拿亡母信物换林家施舍时，怎么不觉得羞辱？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0113",
+      "text": "他的声音并不大，却像刀锋擦过骨面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0114",
+      "text": "“我不求复合，不求林家回头，更不求林清雪留下。我要的只有两样。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0115",
+      "text": "“婚契原件。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0116",
+      "text": "“母亲信物。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0117",
+      "text": "“今日少一样，林家就别想把退婚二字写完。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0118",
+      "text": "林清雪忽然笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0119",
+      "text": "那笑意很轻，却带着压抑的寒意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0120",
+      "text": "“陆沉渊，你变了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0121",
+      "text": "陆沉渊平静道：“人总不能死两次还不长记性。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0122",
+      "text": "林清雪没听懂这句话，只以为他在讽刺生死台一战。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0123",
+      "text": "她抬起下巴：“你以为这样就能挽回颜面？你逼我交出信物，只会让所有人知道，你放不下我。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0124",
+      "text": "“你错了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0125",
+      "text": "陆沉渊转身从桌上拿起那封退婚拜帖，随手翻开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0126",
+      "text": "“我不是放不下你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0127",
+      "text": "他把拜帖扔回林问鹤面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0128",
+      "text": "“我是嫌脏。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0129",
+      "text": "厅内骤然死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0130",
+      "text": "林清雪脸上的从容第一次出现裂痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0131",
+      "text": "“你说什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0132",
+      "text": "陆沉渊道：“一份婚约，从今日起于我而言就是污点。污点可以洗，亡母遗物不能丢。这个道理很难懂？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0133",
+      "text": "林问鹤猛地一拍桌案。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0134",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0135",
+      "text": "茶盏震翻，热水溅了一地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0136",
+      "text": "“陆沉渊！你莫要得寸进尺！清雪入青岚宗已成定局，你陆家若今日闹得太难看，日后在青岚城未必好过！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0137",
+      "text": "林家护卫同时上前半步，厅外气机骤紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0138",
+      "text": "陆家这边，几个支脉管事神色慌乱，有人低声道：“少主，算了吧……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0139",
+      "text": "“闭嘴。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0140",
+      "text": "陆沉渊没有回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0141",
+      "text": "只两个字，便让那人浑身一颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0142",
+      "text": "他看着林问鹤，体内九条开脉同时震动。祖祠显圣后凝聚的气势在这一刻缓缓铺开，像深井之下有龙睁眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0143",
+      "text": "林问鹤是凝脉初境。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0144",
+      "text": "若在前几日，陆沉渊未必能稳压他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0145",
+      "text": "但生死台一战后，他以因果点补全脉络破损，又借陆家众人震惊之势稳住根基。此刻他虽未入凝脉，却已不是普通开脉境能衡量。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0146",
+      "text": "林问鹤眼神微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0147",
+      "text": "这小子的气息……怎么比情报中更沉？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0148",
+      "text": "陆沉渊抬手，掌心一缕淡金纹路浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0149",
+      "text": "那不是脉力外放，而是祖祠显圣后残留的陆家族运印痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0150",
+      "text": "“林长老想动手，可以。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0151",
+      "text": "他声音平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0152",
+      "text": "“不过你最好想清楚，今日你若在陆家主厅动手，林家退婚便不是退婚，是上门夺我亡母遗物。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0153",
+      "text": "“青岚城三大家族都在看。青岚宗收弟子，也会看名声。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0154",
+      "text": "林问鹤脸色彻底沉了下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0155",
+      "text": "他可以压陆家，但不能让事情变成林家贪夺遗物。尤其青岚宗名额还未正式落定，任何污点都可能被竞争者拿去做文章。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0156",
+      "text": "林清雪深吸一口气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0157",
+      "text": "她忽然伸手，缓缓从袖中取出一只青玉匣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0158",
+      "text": "匣子不过巴掌大小，表面刻着细密云纹。它一出现，陆沉渊胸口处那枚母亲留下的另一半云纹残印便微微发热。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0159",
+      "text": "陆沉渊眼底一凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0160",
+      "text": "果然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0161",
+      "text": "林清雪托着玉匣，指尖却没有松开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0162",
+      "text": "“信物可以还你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0163",
+      "text": "她望着陆沉渊，一字一句道：“但你要亲口承认，是你陆沉渊配不上我林清雪，是你自愿解除婚约。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0164",
+      "text": "陆家众人哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0165",
+      "text": "这不是退婚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0166",
+      "text": "这是要把陆沉渊的脊梁踩断后，再让他自己承认骨头软。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0167",
+      "text": "林问鹤眼中闪过快意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0168",
+      "text": "“不错。”他接话道，“两家颜面要保，清雪名声也要保。陆少主若愿写一份自愿解除婚约的文书，说明此事与你自身修行不济、前途不合有关，林家当场归还信物。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0169",
+      "text": "陆沉渊看着那只青玉匣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0170",
+      "text": "系统提示再次响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0171",
+      "text": "【检测到羞辱势升级。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0172",
+      "text": "【可消耗因果点三，临时开启“契文辨真”。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0173",
+      "text": "【是否开启？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0174",
+      "text": "陆沉渊心念一动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0175",
+      "text": "“开启。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0176",
+      "text": "下一瞬，林问鹤放在桌上的那份解除文书在他眼中浮起淡淡灰线。灰线缠绕在“自愿”“修行不济”“不敢高攀”几个字上，如同一条条细小毒蛇。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0177",
+      "text": "陆沉渊看完，唇角勾起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0178",
+      "text": "好一份文书。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0179",
+      "text": "只要他签下，不但退婚责任全在他，连日后林家吞下母亲信物的因果都能被抹得七七八八。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0180",
+      "text": "前世他或许会被逼得签字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0181",
+      "text": "这一世？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0182",
+      "text": "陆沉渊转身回到案前，取过笔墨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0183",
+      "text": "林清雪眸光微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0184",
+      "text": "陆家几个族人也松了一口气，觉得这少主终究还是认了现实。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0185",
+      "text": "大长老想要开口，却被陆沉渊一个眼神止住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0186",
+      "text": "他铺开一张新纸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0187",
+      "text": "笔尖落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0188",
+      "text": "墨色如刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0189",
+      "text": "林问鹤抚须冷笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0190",
+      "text": "林清雪神情重新恢复清冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0011_b0191",
+      "text": "可下一刻，随着陆沉渊写下第一行字，厅内一名眼尖的族老脸色骤变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0011_b0192",
+      "text": "那不是自愿解除婚约文书。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0193",
+      "text": "纸上赫然四个大字：",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0011_b0194",
+      "text": "休书一封。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    }
+  ]
+}

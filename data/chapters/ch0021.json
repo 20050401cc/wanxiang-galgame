@@ -1,0 +1,1308 @@
+{
+  "id": "ch0021",
+  "index": 21,
+  "title": "第二十一章 杂役院立规矩",
+  "beatCount": 152,
+  "beats": [
+    {
+      "id": "ch0021_b0001",
+      "text": "杂役院的夜，比外门冷得多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0002",
+      "text": "陆沉渊推开木门时，西角柴房前还亮着一盏油灯。灯下站着十几个人，为首的汉子肩背宽厚，脚边踩着一只麻袋，袋口散开，里面滚出灵谷饼、洗脉散和几块杂役弟子的贡献牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0003",
+      "text": "那是本月月供。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0004",
+      "text": "“陆沉渊。”汉子咧嘴一笑，“听说你今日很风光，一天干完三百六十贡献，还从看库老头手里拿了把剑？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0005",
+      "text": "陆沉渊停在台阶下，目光扫过众人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0006",
+      "text": "这些人衣袖上都缝着灰线，是杂役院各处小头目。谁扫山道，谁挑水，谁进矿洞，谁能分到完整月供，全由他们一句话决定。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0007",
+      "text": "而周魁，就是这些人背后的头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0008",
+      "text": "杂役院多年没有明面院主，轮值执事只管账册，久而久之便生出另一套规矩。贡献先交周魁，月供先过周魁，新来的杂役先挨一顿，旧的杂役每月交例钱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0009",
+      "text": "不交，就被派去最脏最险的活；不服，就半夜被打到下不了床。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0010",
+      "text": "赵岳和叶寒的人把陆沉渊压进杂役院，本意就是让他在这里被磨掉骨头。只是他们没想到，陆沉渊第一天就把所有杂役半个月都做不完的活做完了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0011",
+      "text": "周魁也没想到。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0012",
+      "text": "所以他来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0013",
+      "text": "陆沉渊淡淡道：“让开。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0014",
+      "text": "周魁笑意更重，“进了杂役院，就得按杂役院规矩办。今日你赚的贡献，交七成。那把剑，也交出来让魁爷看看。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0015",
+      "text": "旁边有人跟着哄笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0016",
+      "text": "“外门来的废物，还以为自己是少主？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0017",
+      "text": "“你父亲陆镇南再有名，也管不到宗门杂役院。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0018",
+      "text": "陆沉渊没有怒意，只看着周魁脚边那只麻袋，“那些月供，是谁的？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0019",
+      "text": "屋檐阴影里，有几个杂役低下头，拳头攥得发白，却不敢开口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0020",
+      "text": "周魁抬脚踢了踢麻袋，“他们孝敬我的。怎么，你也想孝敬？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0021",
+      "text": "陆沉渊道：“宗规第三卷，杂役条，第四十一款：杂役月供由执事堂按名册发放，私扣者按夺供论，轻则罚十倍贡献，重则逐出宗门。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0022",
+      "text": "周魁脸上的笑僵了一瞬，随即嗤笑：“宗规？你拿宗规压我？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0023",
+      "text": "“不是压你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0024",
+      "text": "陆沉渊缓缓往前一步，“是清账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0025",
+      "text": "周魁身后十几人同时动了。有人抽出木棍，有人握住短刀，还有人封住两侧退路。更多门窗悄悄打开，一双双眼睛藏在黑暗里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0026",
+      "text": "他们不是没见过有人反抗周魁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0027",
+      "text": "三个月前，一个新来的凝脉边缘杂役，仗着自己原是外门弟子，当夜与周魁起冲突。第二天，那人被抬去药庐，半个月后主动求着调去矿洞，再没回来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0028",
+      "text": "从那以后，杂役院无人敢提宗规。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0029",
+      "text": "因为宗规在纸上，周魁在眼前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0030",
+      "text": "周魁低声道：“陆沉渊，你今日完成三百六十贡献，我承认你有点本事。但这里夜深人静，摔断几根骨头，执事堂不会来问。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0031",
+      "text": "陆沉渊将玄烬残剑横在身前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0032",
+      "text": "剑身残缺，黑沉如烬，看上去更像一段烧焦的废铁。周魁盯着那把剑，眼底贪意一闪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0033",
+      "text": "“兄弟们，别伤他脸。赵师兄交代过，这张脸明日还要给人看笑话。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0034",
+      "text": "陆沉渊握剑的手微微一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0035",
+      "text": "脑海中，冰冷的系统声响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0036",
+      "text": "【检测到宿主遭遇杂役院地下秩序压迫。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0037",
+      "text": "【临时任务：掌控杂役院秩序。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0038",
+      "text": "【任务要求：一夜之内，清除周魁私设规矩，夺回被扣月供，建立可执行的新规。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0039",
+      "text": "【任务奖励：统御值一百，因果点二十，震惊值按影响结算。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0040",
+      "text": "陆沉渊眼神平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0041",
+      "text": "“正好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0042",
+      "text": "周魁皱眉，“什么正好？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0043",
+      "text": "“我本来只想睡一觉。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0044",
+      "text": "话音未落，左侧一名灰线杂役已经冲上来，木棍横扫他的膝弯。陆沉渊脚尖一错，避开半寸，玄烬残剑贴着木棍一磕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0045",
+      "text": "咔嚓！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0046",
+      "text": "碗口粗的木棍从中断开。那人还没反应过来，陆沉渊肩膀撞入他胸口，开脉之力瞬间爆开，直接将他撞飞三步，砸在柴堆上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0047",
+      "text": "第二人短刀刺来。陆沉渊没有后退，残剑压住刀背，顺势一转，短刀脱手。剑柄砸在对方手腕，惨叫刚起，又被一脚踹回喉咙里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0048",
+      "text": "周魁脸色变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0049",
+      "text": "他知道陆沉渊能做贡献，说明体力耐力不弱，却没想到对方出手如此干净。没有多余招式，每一次都是冲着关节、气门、重心去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0050",
+      "text": "像是在打架。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0051",
+      "text": "更像是在清账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0052",
+      "text": "“并肩！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0053",
+      "text": "周魁怒喝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0054",
+      "text": "十几人一拥而上。杂役院狭窄过道里，棍影刀光挤成一团。陆沉渊不退反进，玄烬残剑的残缺剑锋在夜色里划出一道暗红光痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0055",
+      "text": "剑魂在剑中低笑：“用它杀这些人有些浪费，但用来立规矩，倒也不错。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0056",
+      "text": "陆沉渊没有回应，只借了一缕剑势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0057",
+      "text": "不是杀意，而是压迫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0058",
+      "text": "残剑落下，铁棍被斩断半截；剑背横拍，肩骨脱臼；剑柄一顶，第三人腹部气门被震散，整个人蜷缩跪地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0059",
+      "text": "十息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0060",
+      "text": "第一波人倒下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0061",
+      "text": "二十息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0062",
+      "text": "堵住两侧的人开始往后退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0063",
+      "text": "三十息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0064",
+      "text": "柴房前只剩周魁还站着。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0065",
+      "text": "油灯摇晃，照出满地呻吟的人影。屋檐下那些偷看的杂役，呼吸都停了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0066",
+      "text": "周魁额角青筋跳动，“你敢在杂役院伤这么多人，执事堂不会饶你！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0067",
+      "text": "“伤人？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0068",
+      "text": "陆沉渊抬手指向地上众人，“断棍在他们手里，短刀是他们先拔。月供麻袋在你脚下。今日夜值名册上，你们本该分守柴房、井房、兽栏，却擅离值守，聚众夺供。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0069",
+      "text": "周魁心里一寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0070",
+      "text": "陆沉渊不是临时反抗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0071",
+      "text": "他白天做任务时，已经把杂役院各处名册看过了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0072",
+      "text": "“你算计我？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0073",
+      "text": "“你不配。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0074",
+      "text": "陆沉渊道，“我只是在等账目自己走到我面前。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0075",
+      "text": "周魁怒吼一声，终于出手。他能压住杂役院多年，靠的不是嘴。周魁已在凝脉边缘，体内脉力比寻常开脉弟子厚得多，一拳轰出，空气发出闷响，直奔陆沉渊面门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0076",
+      "text": "陆沉渊眼底寒芒一闪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0077",
+      "text": "他没有动用玄烬残剑的锋，而是将残剑反握，剑脊贴臂。周魁拳势刚至，他侧身入怀，左手扣住其腕脉，右肘撞在其肋下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0078",
+      "text": "周魁闷哼，气息一乱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0079",
+      "text": "陆沉渊顺势踏前半步，残剑剑脊横压在他肩头，借势一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0080",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0081",
+      "text": "周魁单膝砸地，青石板裂出蛛网纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0082",
+      "text": "周魁双目充血，还想挣扎，陆沉渊的剑锋已经贴在他喉前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0083",
+      "text": "黑沉残剑没有寒光，却有一股从灰烬里烧出的灼意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0084",
+      "text": "“我问，你答。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0085",
+      "text": "周魁咬牙，“你敢杀我？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0086",
+      "text": "“第一，月供扣了多少？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0087",
+      "text": "周魁不答。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0088",
+      "text": "陆沉渊剑锋压下半分，皮肤裂开，一线血珠渗出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0089",
+      "text": "“三个月！”周魁声音发颤，“最近三个月的都在西库暗格！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0090",
+      "text": "“第二，贡献私收多少？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0091",
+      "text": "“每人每月二十到五十不等。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0092",
+      "text": "“第三，谁让你盯我的剑？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0093",
+      "text": "周魁眼神闪烁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0094",
+      "text": "陆沉渊抬眼看向旁边一名倒地头目，“你说。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0095",
+      "text": "那头目脸色惨白，立刻道：“赵岳身边的人传话，说你进了杂役院，身上所有东西都可以拿，尤其是今日从库房带出的剑。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0096",
+      "text": "周魁怒道：“闭嘴！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0097",
+      "text": "陆沉渊一脚踩在周魁肩头，周魁另一边膝盖也被压得跪下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0098",
+      "text": "此刻，杂役院众人看着这一幕，心中某根绷了许久的弦，忽然断了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0099",
+      "text": "周魁跪了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0100",
+      "text": "那个压了他们几年的周魁，跪在了新来的陆沉渊面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0101",
+      "text": "陆沉渊取过麻袋，将月供一包包倒在地上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0102",
+      "text": "“被扣的，自己来拿。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0103",
+      "text": "无人敢动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0104",
+      "text": "“我只说一次。今日不拿，以后也不用拿。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0105",
+      "text": "终于，一个瘦小杂役从屋檐下走出。他脸上还有旧伤，走到麻袋前时手都在抖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0106",
+      "text": "周魁瞪着他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0107",
+      "text": "陆沉渊的残剑轻轻一敲青石。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0108",
+      "text": "咚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0109",
+      "text": "周魁脸色一白，立刻低下头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0110",
+      "text": "瘦小杂役咬牙抓起属于自己的灵谷饼，又拿回半瓶洗脉散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0111",
+      "text": "第二个，第三个，第四个。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0112",
+      "text": "越来越多人走出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0113",
+      "text": "他们不敢欢呼，甚至不敢大声喘气，可眼睛都亮了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0114",
+      "text": "半个时辰后，西库暗格被打开。里面堆着被克扣的月供、贡献牌和杂物，还有几块低等灵石。陆沉渊让人搬到院中，一件件按名册核对。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0115",
+      "text": "有人少拿，有人多拿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0116",
+      "text": "多拿者，陆沉渊当场点出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0117",
+      "text": "“宗规不是只管周魁。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0118",
+      "text": "一句话，让那些刚生出贪心的人立刻缩手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0119",
+      "text": "到后半夜，杂役院所有人都站在院中。周魁和十几个头目跪在最前面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0120",
+      "text": "陆沉渊将一块旧木板立在井边，用残剑在上面刻下三条字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0121",
+      "text": "一，月供按名册领，私扣者十倍偿还。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0122",
+      "text": "二，贡献按任务石壁结算，任何人不得代收。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0123",
+      "text": "三，杂役分工每三日轮换，脏险之活按贡献补偿，谁擅改，谁补偿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0124",
+      "text": "字迹入木三分。最后一笔落下时，木板裂开淡淡焦痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0125",
+      "text": "陆沉渊转身，“从今夜起，杂役院只有宗规，没有周规。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0126",
+      "text": "片刻后，那个瘦小杂役忽然跪下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0127",
+      "text": "“我服陆师兄！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0128",
+      "text": "第二个人跟着跪下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0129",
+      "text": "“我也服！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0130",
+      "text": "一声声低喊在夜色中响起，不高，却压过了风声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0131",
+      "text": "陆沉渊取出贡献牌，冷声道：“明早，周魁等人随我去执事堂自报。该罚贡献，罚贡献；该降职，降职。谁敢逃，按畏罪论。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0132",
+      "text": "周魁抬头，眼中闪过怨毒，“陆沉渊，你以为这样就赢了？踩我的人，你惹不起。外门挑战榜前三，沈惊鸿师兄的人。赵岳能使唤我，是因为赵岳背后也挂着沈师兄的名。还有叶寒师兄，他一句话，外门谁敢不给面子？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0133",
+      "text": "院中众人脸色骤变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0134",
+      "text": "外门前三。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0135",
+      "text": "叶寒外围势力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0136",
+      "text": "这两个名字压下来，比周魁更重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0137",
+      "text": "陆沉渊神情没有丝毫变化。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0138",
+      "text": "“他们若来，账就往上清。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0139",
+      "text": "脑海中，系统声再次响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0140",
+      "text": "【临时任务完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0141",
+      "text": "【宿主一夜掌控杂役院基础秩序，瓦解私设压迫链。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0142",
+      "text": "【奖励：统御值一百，因果点二十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0143",
+      "text": "【当前杂役院众望雏形形成。统御值可激活低阶号令效果：令行。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0144",
+      "text": "陆沉渊望向东方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0145",
+      "text": "天边泛起一线灰白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0146",
+      "text": "杂役院众人还站在院中，没人敢睡，也没人愿意回屋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0147",
+      "text": "他们看着陆沉渊的背影，像看见一道从泥里立起的影子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0148",
+      "text": "而陆沉渊只是在心里记下一笔新账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0021_b0149",
+      "text": "周魁，不是源头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0150",
+      "text": "赵岳，也不是源头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0151",
+      "text": "叶寒和外门前三，才是下一层账册的封皮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0021_b0152",
+      "text": "天亮之后，该翻页了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    }
+  ]
+}

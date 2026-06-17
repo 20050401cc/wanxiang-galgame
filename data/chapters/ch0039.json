@@ -1,0 +1,1624 @@
+{
+  "id": "ch0039",
+  "index": 39,
+  "title": "第三十九章 以阵开天",
+  "beatCount": 191,
+  "beats": [
+    {
+      "id": "ch0039_b0001",
+      "text": "赤月核心之后的门，没有门框。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0002",
+      "text": "那只是一道立在虚空中的黑色裂痕，像有人用剑在天地间划开一笔，又没有让伤口完全愈合。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0003",
+      "text": "陆沉渊靠近时，玄烬残剑在他掌中低鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0004",
+      "text": "门后没有光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0005",
+      "text": "只有阵纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0006",
+      "text": "一层又一层，密密麻麻，像无数张被烧焦的账页贴在虚空里。每一道阵纹上都挂着残缺名字，有外宗弟子，有青岚宗弟子，也有看不出身份的古旧烙印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0007",
+      "text": "这些名字并非全是死者。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0008",
+      "text": "有些还在秘境里逃窜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0009",
+      "text": "有些正躲在赤雾外，等着出口重开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0010",
+      "text": "可他们的名字已经被秘境旧阵捕捉，像被线拴住的虫，只要阵势合拢，便会被拖入赤月核心的崩塌之中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0011",
+      "text": "陆沉渊眉头微皱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0012",
+      "text": "“这不是秦无极布的阵。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0013",
+      "text": "系统提示浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0014",
+      "text": "【检测到赤月秘境原生封门大阵。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0015",
+      "text": "【状态：核心本源被取，封门阵失衡。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0016",
+      "text": "【后果：秘境将提前排斥外来者；未能抵达出口者将被赤月裂隙吞噬。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0017",
+      "text": "【可借势对象：赤月核心本源、玄烬残剑、镇命钉、被清算者残留因果、幸存者求生势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0018",
+      "text": "【建议：建立临时出口阵，将崩塌压力转移至秦氏暗阵残盘。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0019",
+      "text": "陆沉渊低头看向储物戒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0020",
+      "text": "秦氏阵盘残片、子令碎片、血纹短刃、赤月罪锁残屑、镇命钉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0021",
+      "text": "这些东西原本都是别人用来杀他的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0022",
+      "text": "如今，倒正好用来开路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0023",
+      "text": "“以阵开天，需要多少代价？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0024",
+      "text": "【常规推演：因果点三百，显圣值一千五。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0025",
+      "text": "【若以敌方残阵为阵骨，可降低消耗，并保留追责物证。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0026",
+      "text": "【风险：阵开时将暴露宿主位置，秘境内幸存者与敌方残余会全部看到出口。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0027",
+      "text": "陆沉渊笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0028",
+      "text": "“让他们看到。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0029",
+      "text": "他要的就是看见。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0030",
+      "text": "秦无极想让秘境里的真相死在赤雾中，那他就把所有活口都推到同一个出口，让他们亲眼看看是谁在开门，谁在救人，谁的阵盘被用作封门阵骨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0031",
+      "text": "只有活着出去的人足够多，秦无极的倒打一耙才不会只是一场上层叙事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0032",
+      "text": "陆沉渊将赤月核心本源悬在掌心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0033",
+      "text": "晶珠离手，黑红光焰照亮虚空阵纹。那些挂在阵纹上的名字顿时颤动，像被惊醒的人在噩梦中挣扎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0034",
+      "text": "远处传来第一声惨叫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0035",
+      "text": "秘境崩塌开始了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0036",
+      "text": "赤月穹顶裂开一道道暗纹，山脉塌陷，林海燃烧，干涸河道中赤雾倒灌。那些还在争夺边缘机缘的弟子终于意识到大事不妙，纷纷朝入口方向逃去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0037",
+      "text": "可原本的入口已经不稳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0038",
+      "text": "乱流像刀海一样翻涌，许多人刚靠近，就被震得吐血倒飞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0039",
+      "text": "“出口封了！”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0040",
+      "text": "“赤月秘境要塌了！”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0041",
+      "text": "“长老呢？外面的长老为什么不开门？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0042",
+      "text": "回答他们的只有赤月裂隙的轰鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0043",
+      "text": "陆沉渊站在黑色裂痕前，抬手将秦氏阵盘残片按入第一道阵纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0044",
+      "text": "嗡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0045",
+      "text": "阵纹亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0046",
+      "text": "紧接着，子令碎片落入第二道阵纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0047",
+      "text": "血纹短刃碎片落入第三道阵纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0048",
+      "text": "赤月罪锁残屑化作赤线，沿着裂痕边缘缠绕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0049",
+      "text": "最后，镇命钉悬在阵心上方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0050",
+      "text": "所有残物都在颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0051",
+      "text": "它们原本各自属于不同杀局，如今却被陆沉渊强行拼成一座临时开门阵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0052",
+      "text": "系统提示快速闪烁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0053",
+      "text": "【阵骨建立。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0054",
+      "text": "【敌方残阵因果识别中。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0055",
+      "text": "【秦氏暗纹：成立。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0056",
+      "text": "【外宗献祭纹：成立。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0057",
+      "text": "【赤月旧阵残契：成立。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0058",
+      "text": "【是否启动临时出口阵？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0059",
+      "text": "陆沉渊握住玄烬残剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0060",
+      "text": "“启动。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0061",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0062",
+      "text": "黑色裂痕骤然扩张，像一扇被强行撬开的门。门后不再是无光阵纹，而是一片翻涌的云海。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0063",
+      "text": "那是秘境外的青岚宗山门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0064",
+      "text": "可通道只开了一线，很快又被赤月裂隙压回。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0065",
+      "text": "陆沉渊胸口一闷，体内逆命一剑留下的反噬同时爆发，喉间涌上一口血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0066",
+      "text": "他咽了回去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0067",
+      "text": "现在不能倒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0068",
+      "text": "“玄烬。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0069",
+      "text": "残剑剑魂低哑开口：“小子，你这是要拿本剑当门栓？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0070",
+      "text": "“暂时。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0071",
+      "text": "“暂时也疼。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0072",
+      "text": "“记账。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0073",
+      "text": "剑魂沉默一瞬，忽然笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0074",
+      "text": "“好。记在秦无极头上。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0075",
+      "text": "玄烬残剑插入阵心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0076",
+      "text": "黑金剑光如柱，硬生生顶住封门大阵的回压。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0077",
+      "text": "出口在赤雾中亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0078",
+      "text": "一道声音随之传遍秘境。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0079",
+      "text": "“想活命的，往光处走。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0080",
+      "text": "声音不大，却借着赤月核心本源传遍四方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0081",
+      "text": "正在逃命的弟子们猛地抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0082",
+      "text": "他们看见一束黑金光柱从秘境深处升起，光柱尽头，一道临时出口正在打开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0083",
+      "text": "“是陆沉渊！”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0084",
+      "text": "“他在开出口！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0085",
+      "text": "“可那里是核心区，过去会不会被他杀？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0086",
+      "text": "“不去现在就死！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0087",
+      "text": "恐惧很快压过犹豫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0088",
+      "text": "第一批赶到的是先前得过灵泉细雨的青岚宗弟子。他们看见陆沉渊站在阵心前，身上血迹未干，脚下却用秦氏残盘撑起出口，一个个脸色都变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0089",
+      "text": "“陆师兄！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0090",
+      "text": "陆沉渊没有回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0091",
+      "text": "“先走。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0092",
+      "text": "“可你……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0093",
+      "text": "“出去后，按我先前说的做。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0094",
+      "text": "那弟子咬牙，拱手一礼，带着身后几人冲入通道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0095",
+      "text": "通道一震，将他们送出秘境。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0096",
+      "text": "第二批是百川谷弟子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0097",
+      "text": "他们原本与青岚宗不熟，甚至有人在核心外围跟着外宗执阵者起哄。此刻见陆沉渊竟没有拦他们，不由满脸羞愧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0098",
+      "text": "一名百川谷女弟子低声道：“陆公子，我们曾误信谣言，方才……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0099",
+      "text": "陆沉渊道：“出去后说实话。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0100",
+      "text": "女弟子一怔，随即郑重道：“我百川谷弟子愿作证。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0101",
+      "text": "她冲入通道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0102",
+      "text": "第三批是金锋楼弟子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0103",
+      "text": "第四批是散落的青岚宗外门弟子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0104",
+      "text": "人越来越多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0105",
+      "text": "每送走一批，出口阵便震一次。玄烬残剑上的黑金光芒被赤月裂隙不断消磨，陆沉渊的脸色也越来越白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0106",
+      "text": "但他没有停。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0107",
+      "text": "因为还有人没到。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0108",
+      "text": "林清雪带着十几名伤者从赤雾中冲出时，身后正追着一道裂隙。那裂隙像活物，沿着地面吞噬草木岩石，所过之处一切化作黑灰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0109",
+      "text": "她看见陆沉渊，眼神一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0110",
+      "text": "“你还没走？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0111",
+      "text": "陆沉渊扫了一眼她身后的伤者，“带他们出去。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0112",
+      "text": "林清雪握紧剑柄。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0113",
+      "text": "“你呢？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0114",
+      "text": "“账没封。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0115",
+      "text": "她想说什么，却看见陆沉渊脚下阵纹中那几枚秦氏残片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0116",
+      "text": "那是证据。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0117",
+      "text": "也是开门的代价。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0118",
+      "text": "林清雪终于明白，他不是不能走，而是不愿让秦无极把所有活口埋在这里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0119",
+      "text": "她低声道：“我会作证。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0120",
+      "text": "陆沉渊没有回答。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0121",
+      "text": "林清雪带着伤者冲入通道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0122",
+      "text": "就在她即将离开时，袖中那封旧信忽然飞出，被陆沉渊抬手摄住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0123",
+      "text": "林清雪回头，脸色苍白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0124",
+      "text": "陆沉渊看着信封上的半枚雷纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0125",
+      "text": "“这也是证据？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0126",
+      "text": "林清雪沉默片刻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0127",
+      "text": "“是。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0128",
+      "text": "陆沉渊将信收起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0129",
+      "text": "“出去再说。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0130",
+      "text": "林清雪眼中复杂之色更深，最终点头，消失在通道里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0131",
+      "text": "秘境深处的崩塌越来越快。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0132",
+      "text": "陆沉渊以阵开门的消息，也传到了秦无极耳中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0133",
+      "text": "白玉阵台上，秦无极眉心的逆命剑痕尚未完全消退。他看着传讯符上的黑金光柱影像，脸色阴沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0134",
+      "text": "“他在救人？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0135",
+      "text": "随从低头道：“是。各宗弟子都往他那边去了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0136",
+      "text": "秦无极沉默片刻，忽然笑了一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0137",
+      "text": "“救得越多，越好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0138",
+      "text": "随从一愣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0139",
+      "text": "秦无极道：“秘境核心被取，外宗执阵者死绝，秦氏暗阵残盘在他脚下，所有人又都由他送出秘境。出去之后，谁会相信这是救人，而不是他借禁区邪阵操控众人？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0140",
+      "text": "随从眼睛一亮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0141",
+      "text": "“秦师兄的意思是……”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0142",
+      "text": "“准备问罪。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0143",
+      "text": "秦无极抬手，擦去眉心血迹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0144",
+      "text": "“我要让他把救人的功，变成勾结禁区的罪。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0145",
+      "text": "随从躬身退下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0146",
+      "text": "秦无极看向远处黑金光柱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0147",
+      "text": "“陆沉渊，你越会借势，越该知道，势可以成你，也可以压死你。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0148",
+      "text": "秘境深处，陆沉渊像是听见了什么，忽然抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0149",
+      "text": "他看向白玉阵台方向，嘴角微微一扬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0150",
+      "text": "“想倒打一耙？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0151",
+      "text": "“我等你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0152",
+      "text": "最后一批幸存者冲入通道后，秘境内只剩下零散逃不及的人影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0153",
+      "text": "陆沉渊扫过系统光幕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0154",
+      "text": "【已送出幸存者：八十三人。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0155",
+      "text": "【证据气息已分散：秦氏子令残息、外宗献祭纹、赤月罪锁残片、林清雪旧信、百川谷目击证词、金锋楼目击证词。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0039_b0156",
+      "text": "【临时出口阵稳定度：二成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0157",
+      "text": "【警告：封门大阵即将反噬。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0158",
+      "text": "莫老的声音忽然从通道外传来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0159",
+      "text": "“小子，还不出来？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0160",
+      "text": "陆沉渊抬眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0161",
+      "text": "通道另一端，莫老正站在山门广场上，手中拄着一把破剑，脸色难得严肃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0162",
+      "text": "“再拖下去，老头子也拉不住你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0163",
+      "text": "陆沉渊拔出玄烬残剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0164",
+      "text": "出口阵瞬间开始崩散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0165",
+      "text": "黑色裂痕从脚下蔓延，赤月核心本源也被一股反噬之力拖向秘境深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0166",
+      "text": "陆沉渊抬手一抓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0167",
+      "text": "“我的东西，也敢抢回去？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0168",
+      "text": "玄烬残剑斩出一道黑金剑光，斩断核心本源与秘境的最后牵连。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0169",
+      "text": "赤月秘境发出一声像怒吼般的轰鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0170",
+      "text": "陆沉渊脚下地面塌陷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0171",
+      "text": "他没有迟疑，纵身冲向通道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0172",
+      "text": "身后，赤色裂隙化作一张巨口，咬向他的后背。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0173",
+      "text": "莫老怒骂一声，手中破剑飞出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0174",
+      "text": "“接剑！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0175",
+      "text": "破剑穿过通道，化作一道灰光，钉在陆沉渊身后。赤色裂隙咬在破剑上，剑身瞬间崩碎，却给陆沉渊争来半息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0176",
+      "text": "半息足够。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0177",
+      "text": "陆沉渊冲出通道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0178",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0179",
+      "text": "赤月秘境入口在他身后炸开，黑金光柱骤然熄灭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0180",
+      "text": "山门广场上，所有幸存者都回头看去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0181",
+      "text": "陆沉渊落地时，单膝跪在青石板上，玄烬残剑拄地，衣袍染血，手中却牢牢握着赤月核心本源与秦氏阵盘残片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0182",
+      "text": "他抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0183",
+      "text": "广场四周，长老、执事、各宗使者、内门弟子已经全部围了上来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0184",
+      "text": "秦无极站在高台之上，眉心剑痕被灵符遮住，神色平静如常。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0185",
+      "text": "他看着陆沉渊，声音传遍广场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0186",
+      "text": "“陆沉渊，你可知罪？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0187",
+      "text": "山门广场瞬间死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0188",
+      "text": "陆沉渊缓缓站起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0039_b0189",
+      "text": "嘴角还有血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0190",
+      "text": "眼神却冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0039_b0191",
+      "text": "“终于开始了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    }
+  ]
+}

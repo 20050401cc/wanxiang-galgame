@@ -1,0 +1,1102 @@
+{
+  "id": "ch0015",
+  "index": 15,
+  "title": "第十五章 玄骨灵髓",
+  "beatCount": 128,
+  "beats": [
+    {
+      "id": "ch0015_b0001",
+      "text": "寒鸦岭废矿深处，血腥味尚未散尽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0002",
+      "text": "陆沉渊站在裂开的矿道口，袖口微垂，指尖还残着一抹未干的血。身后几具追兵尸体横在碎石之间，青岚宗外门印记被他一一割下，收进袖中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0003",
+      "text": "“宗门印记在身，却半夜入岭截杀陆家少主。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0004",
+      "text": "他低声道：“这笔账，记得够清楚了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0005",
+      "text": "万象借势系统的光幕在眼前一闪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0006",
+      "text": "【已收集震惊值：二百七十六点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0007",
+      "text": "【已记录因果凭证：青岚宗外门追杀印记。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0008",
+      "text": "【天命债印共鸣增强。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0009",
+      "text": "陆沉渊没有立刻离开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0010",
+      "text": "云纹半印合成的天命债印此刻贴在他掌心，微微发烫，印纹如活物般向矿脉深处延伸。废矿本该枯竭多年，可此时矿道尽头却有一缕淡白色灵雾溢出，像骨中髓液被火烤开，清冷、沉厚，又带着一种难以言喻的古老压迫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0011",
+      "text": "寒鸦岭废矿，不是废矿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0012",
+      "text": "至少在陆沉渊眼里，从来没有真正废弃的东西，只有被天命遮住的账本。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0013",
+      "text": "他迈步入内。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0014",
+      "text": "越往里走，矿道越窄，石壁上旧日采凿痕迹纵横交错。那些痕迹并不全是矿工留下的，有些深得离奇，像被指骨硬生生划开。陆沉渊停在一面石壁前，掌心天命债印贴了上去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0015",
+      "text": "嗡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0016",
+      "text": "整座矿脉轻轻一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0017",
+      "text": "石壁里传出低沉的回响，仿佛某种沉睡极久的东西，被人从债契里叫醒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0018",
+      "text": "一条细线般的裂缝沿石壁蔓延，白光从裂缝中透出。陆沉渊抬手一推，石壁崩落，露出后方一处天然骨窟。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0019",
+      "text": "骨窟不大，四面岩层泛着灰白色纹理，像一根根巨大骨骼交错盘结。中央有一汪拳头大小的乳白灵液，静静悬在半空，不落地，不蒸散。灵液周围，则有无数细小符纹浮沉，像是在守着它，也像是在封着它。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0020",
+      "text": "陆沉渊眼底冷意微凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0021",
+      "text": "“玄骨灵髓。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0022",
+      "text": "前世，他曾在一本残卷中见过这种东西。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0023",
+      "text": "开脉、凝脉之初，武者最重经脉根基。寻常灵药补气血，灵矿养筋骨，但玄骨灵髓不同，它不是补，而是改。能在骨中点醒一缕先天玄性，让凡骨开窍，承天地势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0024",
+      "text": "可这种东西早该只存在于上古矿脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0025",
+      "text": "寒鸦岭这种地方，凭什么藏着玄骨灵髓？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0026",
+      "text": "天命债印给出的答案很简单。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0027",
+      "text": "这是别人欠他的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0028",
+      "text": "陆沉渊盘膝坐下，抬手一引，玄骨灵髓化作一缕白线，落入掌心，顺着开脉后的经脉缓缓流入体内。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0029",
+      "text": "第一息，清凉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0030",
+      "text": "第二息，剧痛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0031",
+      "text": "像有万千细针从骨缝里钻出，沿着脊椎一路刺向头顶。陆沉渊肩背猛地绷紧，额角青筋浮起，却没有发出半点声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0032",
+      "text": "玄骨灵髓入体，不走血肉，只入骨髓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0033",
+      "text": "他的骨骼深处传来细密碎响，仿佛有一层旧壳正在被剥开。开脉之后尚未彻底稳固的经脉，被灵髓外溢的寒意反复冲刷，几处脉门几乎被撕裂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0034",
+      "text": "系统光幕骤然亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0035",
+      "text": "【检测到高阶借势资源：玄骨灵髓。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0036",
+      "text": "【当前境界承载不足。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0037",
+      "text": "【借势反噬即将爆发。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0038",
+      "text": "【临时任务触发：承受借势反噬。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0039",
+      "text": "【任务要求：三十息内不退、不散、不昏厥。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0040",
+      "text": "【任务奖励：道心刻印。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0041",
+      "text": "陆沉渊嘴角溢出一线血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0042",
+      "text": "“不退？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0043",
+      "text": "他低笑一声，声音沙哑：“我重活一次，不是为了退的。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0044",
+      "text": "灵髓猛然爆开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0045",
+      "text": "白光沿他骨骼蔓延，胸骨、肋骨、臂骨、脊骨，一寸寸被照亮。骨窟中灵压暴涨，碎石倒悬，地面旧灰被无形气浪卷起。陆沉渊体内，经脉与骨骼同时承压，像一座刚开渠的小城，忽然被万丈洪流灌入。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0046",
+      "text": "第一波反噬，是寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0047",
+      "text": "寒意直入骨髓，连神魂都似要冻结。陆沉渊闭目，脑海中浮现的不是恐惧，而是账目。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0048",
+      "text": "林清雪退婚之辱，林家吞印之债，陆承远夺权之谋，青岚宗暗手之局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lin_qingxue",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0049",
+      "text": "一笔一笔，清清楚楚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0050",
+      "text": "寒意冻结不了债。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0051",
+      "text": "第二波反噬，是痛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0052",
+      "text": "骨中似有旧纹被强行剜开。每一道白光落下，都像刀尖刻在骨髓里。陆沉渊双手按膝，指骨发白，身形却稳得像石。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0053",
+      "text": "【十息。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0054",
+      "text": "【十五息。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0055",
+      "text": "【承载濒临临界。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0056",
+      "text": "陆沉渊睁开眼，瞳孔深处有一线白芒闪过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0057",
+      "text": "他没有强行镇压灵髓，反而调动万象借势系统，将刚收来的震惊值投入其中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0058",
+      "text": "【消耗震惊值：一百点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0059",
+      "text": "【临时借势：寒鸦岭废矿残脉。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0060",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0061",
+      "text": "整座废矿的残余地势，像一口破旧大钟被敲响。那些散在矿脉深处的枯竭灵痕，竟被系统强行牵引，化作一层薄薄势场，压在陆沉渊体外。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0062",
+      "text": "不是帮他挡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0063",
+      "text": "是帮他借。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0064",
+      "text": "陆沉渊借废矿之势承灵髓，以残脉压玄骨。玄骨灵髓本欲冲碎他的经脉，此刻却像被一座山按住，只能一寸寸渗入骨中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0065",
+      "text": "他的脊椎深处，忽然亮起一粒极小的白点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0066",
+      "text": "那白点如星火。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0067",
+      "text": "下一刻，星火沿脊骨向上蔓延，只有一线，却足以让骨窟中的符纹齐齐震颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0068",
+      "text": "玄骨觉醒一线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0069",
+      "text": "陆沉渊周身气息骤然拔高，开脉后的脉门齐齐轰鸣，血肉之中生出一种从未有过的沉稳力量。他甚至能听见石壁深处残脉流动的声音，听见碎石内部细微裂纹，听见天地之势压在万物表面时那种无形震动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0070",
+      "text": "可就在这一线玄骨亮起的瞬间，骨窟四壁的符纹突然变色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0071",
+      "text": "原本守护灵髓的白纹化作暗青。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0072",
+      "text": "一枚隐藏极深的印记，从灵髓底部浮出，像某个道人以指尖按下的旧痕。它不属于矿脉，也不属于灵髓，而像是许多年前有人故意种在这里，等着某一天被人触动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0073",
+      "text": "陆沉渊眼神一冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0074",
+      "text": "“果然不是无主之物。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0075",
+      "text": "暗青印记一现，玄骨灵髓的反噬骤然翻倍。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0076",
+      "text": "第三波反噬，是夺。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0077",
+      "text": "那印记竟沿着灵髓，反向探入陆沉渊体内，想要在他刚觉醒的一线玄骨上烙下控制之痕。仿佛这玄骨不是赐予他的机缘，而是某个幕后存在早已标价的货物。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0078",
+      "text": "陆沉渊胸口一震，吐出一口血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0079",
+      "text": "但他笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0080",
+      "text": "“想在我的骨头上记你的账？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0081",
+      "text": "他抬起染血的手，按住心口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0082",
+      "text": "“你配吗？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0083",
+      "text": "【检测到外来因果标记。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0084",
+      "text": "【可消耗因果点进行清算。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0085",
+      "text": "【当前因果点：三点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0086",
+      "text": "陆沉渊毫不犹豫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0087",
+      "text": "“清。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0088",
+      "text": "【消耗因果点：一点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0089",
+      "text": "【清算目标：未知暗青标记。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0090",
+      "text": "系统光幕化作一道无形冷光，顺着天命债印斩入骨髓。那暗青印记似乎察觉到危险，猛地收缩，却已迟了半步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0091",
+      "text": "咔嚓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0092",
+      "text": "骨窟中传来清脆裂声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0093",
+      "text": "暗青印记被斩掉一角。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0094",
+      "text": "那一角碎裂时，陆沉渊脑海里忽然闪过一道残影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0095",
+      "text": "云雾缭绕的高台，白袍道人俯身而立，指尖落在一块古骨之上。道人声音温和，却带着不容置疑的掌控。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0096",
+      "text": "“此骨不该落凡尘。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0097",
+      "text": "“留一记，待天命归位。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0098",
+      "text": "画面一闪即逝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0099",
+      "text": "陆沉渊眉心微沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0100",
+      "text": "云衡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "yunheng_zhenren"
+      ]
+    },
+    {
+      "id": "ch0015_b0101",
+      "text": "不是全名，却足够清楚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0102",
+      "text": "前世传闻中，青岚宗背后曾有一位云衡真人，来历极深，不入俗世，却能左右数郡宗门格局。陆沉渊那时只当是高人传说，如今看来，这位真人的手，早在寒鸦岭就埋下了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan",
+        "yunheng_zhenren"
+      ]
+    },
+    {
+      "id": "ch0015_b0103",
+      "text": "【三十息完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0104",
+      "text": "【临时任务完成：承受借势反噬。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0105",
+      "text": "【奖励发放：道心刻印。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0106",
+      "text": "一道无形刻印落入陆沉渊识海。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0107",
+      "text": "那不是功法，也不是灵术，而是一枚极冷的心印。心印成形的刹那，陆沉渊体内躁动的灵髓反噬被压下一截，痛楚仍在，却不再能动摇他的心神。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0108",
+      "text": "道心刻印：遇借势反噬、外来威压、心神诱导时，稳固本心，减少动摇。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0109",
+      "text": "陆沉渊缓缓吐出一口浊气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0110",
+      "text": "玄骨灵髓已被他吸收大半，剩余一缕被天命债印封住，化作一枚乳白光点，沉入掌心印纹。骨中那一线玄光虽弱，却真实存在。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0111",
+      "text": "他起身时，脚下碎石无声裂开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0112",
+      "text": "不是他用力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0113",
+      "text": "而是骨中玄性初醒，他对地势的感知比先前锋利太多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0114",
+      "text": "陆沉渊回头，看向骨窟中央残留的暗青印记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0115",
+      "text": "被斩掉一角后，那印记终于显出原形。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0116",
+      "text": "暗青符痕盘成一个极小的“衡”字，旁边还有半枚云纹道印，和天命债印中的云纹半印隐隐同源，却又明显更高一层。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0117",
+      "text": "云衡真人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "yunheng_zhenren"
+      ]
+    },
+    {
+      "id": "ch0015_b0118",
+      "text": "云纹半印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0119",
+      "text": "玄骨灵髓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0120",
+      "text": "寒鸦岭废矿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0121",
+      "text": "这几件事连在一起，已不是林家那点浅薄算计能解释的了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0122",
+      "text": "陆沉渊抬手，将残印拓入系统。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0123",
+      "text": "【因果凭证已记录：云衡残标。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "yunheng_zhenren"
+      ]
+    },
+    {
+      "id": "ch0015_b0124",
+      "text": "【幕后因果链条扩展。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0125",
+      "text": "【提示：当前实力不足，不建议主动追索。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0126",
+      "text": "陆沉渊淡淡道：“我不追。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0015_b0127",
+      "text": "他走出骨窟，背影被矿道尽头的夜色吞没。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0015_b0128",
+      "text": "“我让他们自己来还。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    }
+  ]
+}

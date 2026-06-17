@@ -1,0 +1,1370 @@
+{
+  "id": "ch0014",
+  "index": 14,
+  "title": "第十四章 夜杀追兵",
+  "beatCount": 161,
+  "beats": [
+    {
+      "id": "ch0014_b0001",
+      "text": "入夜后的鸦口矿，比传闻中更冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0002",
+      "text": "山风穿过废弃木架，吹得铁链轻轻碰撞，叮当声在空旷矿场里回荡，像有人拖着镣铐在黑暗中行走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0003",
+      "text": "陆沉渊没有急着入矿深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0004",
+      "text": "他先绕着外围走了一圈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0005",
+      "text": "旧矿棚三座，塌了两座。矿车轨道半埋在碎石里，向内延伸数十丈后断在一处斜坡前。矿口左侧有一条窄道，通向半坍的通风井。右侧则堆着废弃石料，石料之后藏着一处能容一人侧身通过的裂缝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0006",
+      "text": "这些地方，与前世那张残图能对上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0007",
+      "text": "也与系统的地势标记能对上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0008",
+      "text": "陆沉渊把几枚碎灵玉埋在矿口附近，又拆下旧矿棚里尚能承重的木梁，重新支在内道两侧。他动作不快，却极稳。每一块石头，每一根木梁，都像落在棋盘上的子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0009",
+      "text": "【地势标记完成：鸦口外矿道】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0010",
+      "text": "【可借势范围：三十七丈】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0011",
+      "text": "【当前可用借势：落石、回声、毒瘴、断轨、暗坡】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0012",
+      "text": "【提示：禁地气息微弱，可消耗显圣值临时牵引】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0013",
+      "text": "陆沉渊抬眼，看向矿洞深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0014",
+      "text": "所谓禁地，并非一定是世人立碑封锁之处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0015",
+      "text": "凡天机沉埋、因果积压、死气不散之地，皆可称禁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0016",
+      "text": "鸦口矿死过太多人，又压着天命债印指向的旧账，正是万象借势系统最喜欢的地方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0017",
+      "text": "不过，这份“势”还太野，像一匹没驯服的烈马。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0018",
+      "text": "陆沉渊现在能借，却不能久借。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0019",
+      "text": "亥时刚过，山下传来第一声夜枭啼鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0020",
+      "text": "陆沉渊停下手中动作，熄了矿棚里最后一点火。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0021",
+      "text": "黑暗立刻吞没整个矿场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0022",
+      "text": "半炷香后，七道身影沿着山路摸上来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0023",
+      "text": "为首之人穿着黑衣，腰间挂短刀，脚步压得极轻。其余六人分成两侧，显然不是临时凑来的地痞，而是受过训练的家族死士。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0024",
+      "text": "“确定他进了这里？”有人低声问。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0025",
+      "text": "“白日有人亲眼看见他买下鸦口矿，车夫也说他在岭外下车。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0026",
+      "text": "“一个人？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0027",
+      "text": "“一个人。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0028",
+      "text": "黑衣首领冷笑：“陆家少主真是命大。白天刚在林家脸上写休书，晚上就敢独自跑到废矿来。陆镇南那老东西若知道儿子死在这里，不知还能不能撑住。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0029",
+      "text": "旁边一人道：“二房那边说了，最好别留全尸。矿洞塌方，妖物撕咬，都比刀伤干净。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0030",
+      "text": "另一人压低声音：“林家也派了人？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0031",
+      "text": "黑衣首领瞥他一眼：“不该问的别问。今晚只办一件事，杀陆沉渊。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0032",
+      "text": "他们说话极轻，却不知每一个字都被矿洞内的回声送到了陆沉渊耳中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0033",
+      "text": "陆沉渊站在断轨阴影里，眼神冷得像井底寒铁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0034",
+      "text": "二房的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0035",
+      "text": "林家的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0036",
+      "text": "果然都来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0037",
+      "text": "他没有动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0038",
+      "text": "黑衣首领打了个手势，七人散开，三人守外口，四人入矿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0039",
+      "text": "刚踏进矿道，最前面那名死士就皱眉：“有血味。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0040",
+      "text": "下一息，脚下碎石忽然下陷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0041",
+      "text": "咔！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0042",
+      "text": "一截废弃轨木弹起，正中他的膝骨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0043",
+      "text": "那死士闷哼一声，还未来得及示警，头顶木梁轰然断裂，半车碎石顺着斜坡滚下，直接将他砸进石堆。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0044",
+      "text": "“有埋伏！”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0045",
+      "text": "黑衣首领低喝，身上开脉气劲爆发，一掌震开滚石。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0046",
+      "text": "可矿道狭窄，他这一掌震碎了前方石块，却也带起大片灰尘。灰尘中夹着多年沉积的毒瘴粉末，吸入口鼻，喉咙立刻像被火灼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0047",
+      "text": "“闭气！”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0048",
+      "text": "他们反应极快，纷纷封住口鼻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0049",
+      "text": "陆沉渊等的就是这一刻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0050",
+      "text": "闭气，气息便乱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0051",
+      "text": "气息一乱，开脉之力就无法长久外放。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0052",
+      "text": "黑暗里，陆沉渊一步踏出，手中短刀无声划过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0053",
+      "text": "一名死士刚转身，颈侧便喷出热血。他瞪大眼睛，想要喊，却只发出嗬嗬声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0054",
+      "text": "【震惊值增加】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0055",
+      "text": "【击杀敌意目标，因果点微量凝聚】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0056",
+      "text": "“他在左边！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0057",
+      "text": "黑衣首领刀光暴起，横斩而来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0058",
+      "text": "陆沉渊不硬接，脚尖一点，身形贴着矿壁滑入阴影。刀锋斩在石壁上，火星四溅，照亮了他一瞬间的侧脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0059",
+      "text": "“陆沉渊！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0060",
+      "text": "黑衣首领眼中杀意大盛：“你果然早有准备！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0061",
+      "text": "陆沉渊淡淡道：“你们来得比我想得慢。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0062",
+      "text": "这句话像一巴掌抽在众人脸上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0063",
+      "text": "他们是来猎杀的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0064",
+      "text": "可现在，猎物站在黑暗里，平静得像早已替他们挖好了坟。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0065",
+      "text": "黑衣首领怒喝：“一起上！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0066",
+      "text": "剩下几人同时扑来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0067",
+      "text": "矿道中刀风交错，开脉气劲震得碎石乱飞。陆沉渊现在仍是开脉境，若在平地被七名死士围杀，纵然能赢，也要付出代价。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0068",
+      "text": "但这里不是平地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0069",
+      "text": "这里是鸦口矿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0070",
+      "text": "他的脚下，是前世记忆、矿道残图与系统地势共同织成的杀局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0071",
+      "text": "陆沉渊后退三步，故意卖出破绽。一名死士果然抢攻，短刀刺向他心口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0072",
+      "text": "陆沉渊侧身避开半寸，肩头衣衫被划破，却没有伤到皮肉。他抬手扣住对方手腕，顺势一拧，将人撞向旁边木柱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0073",
+      "text": "那死士狞笑：“就这点力气？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0074",
+      "text": "陆沉渊眼神平静：“够了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0075",
+      "text": "木柱背后，一枚碎灵玉被气劲激活。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0076",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0077",
+      "text": "整根腐朽木柱炸裂，上方本就松动的支撑瞬间垮塌。死士被塌下的矿石压住半身，惨叫声刚起，陆沉渊一脚踏碎他的喉骨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0078",
+      "text": "“第二个。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0079",
+      "text": "黑衣首领脸色终于变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0080",
+      "text": "这不是临时埋伏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0081",
+      "text": "这是把整座废矿都变成了杀阵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0082",
+      "text": "“退到外面！”他立刻下令。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0083",
+      "text": "可他们想退，陆沉渊却不让。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0084",
+      "text": "【显圣值消耗】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0085",
+      "text": "【禁地借势：回声迷踪】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0086",
+      "text": "矿洞深处忽然传来脚步声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0087",
+      "text": "一声，两声，三声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0088",
+      "text": "像有十几个人正从不同岔道靠近。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0089",
+      "text": "剩下死士神色一紧，本能地转头去看。黑衣首领怒道：“别被声音骗了！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0090",
+      "text": "话音刚落，外口方向传来一声惨叫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0091",
+      "text": "原本守在矿口的三人也遭了袭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0092",
+      "text": "不是陆沉渊亲自动手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0093",
+      "text": "是他提前松开的废矿车。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0094",
+      "text": "矿车沿断轨滑下，撞翻石料堆，石料堆坍落后正好封住矿口，顺带砸断一名守卫的脊骨。另两人仓促躲避，被逼入通风井附近。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0095",
+      "text": "那里，毒瘴最重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0096",
+      "text": "陆沉渊的身影在黑暗中一闪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0097",
+      "text": "刀光落下，又是一人倒地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0098",
+      "text": "【震惊值增加】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0099",
+      "text": "【当前敌方心神动摇，可继续借势】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0100",
+      "text": "黑衣首领意识到不对，猛然咬破舌尖，强行提起气血。他的气息比其他死士更强，竟已接近开脉圆满，短刀上浮现一层淡淡寒芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0101",
+      "text": "“陆沉渊，你以为靠这些小把戏就能活？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0102",
+      "text": "他一步踏裂地面，整个人如离弦之箭冲来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0103",
+      "text": "这一刀又快又狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0104",
+      "text": "陆沉渊避开要害，仍被刀风扫中胸口，后退数步，撞在石壁上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0105",
+      "text": "黑衣首领眼中露出喜色：“你终究只是开脉境！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0106",
+      "text": "陆沉渊低头看了一眼胸前裂开的衣衫，里面只有一道浅浅血痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0107",
+      "text": "他抬起头：“你不也是？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0108",
+      "text": "黑衣首领脸色骤沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0109",
+      "text": "陆沉渊伸手按住身后石壁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0110",
+      "text": "那一瞬，天命债印微微发热，矿洞深处像有某种冰冷目光睁开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0111",
+      "text": "【禁地借势：寒骨压脉】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0112",
+      "text": "【警告：当前借势超出稳定范围，持续时间极短】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0113",
+      "text": "一股阴寒气息沿矿壁涌出，瞬间压在黑衣首领身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0114",
+      "text": "黑衣首领只觉体内脉络一滞，原本流畅的开脉之力像被冰针钉住，动作顿时慢了半拍。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0115",
+      "text": "高手相杀，半拍足够。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0116",
+      "text": "陆沉渊欺身而上，手中短刀反握，先斩其持刀腕，再肘击胸口，最后一掌按在黑衣首领心脉处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0117",
+      "text": "“这是替我父亲收的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0118",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0119",
+      "text": "开脉气劲透体而入。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0120",
+      "text": "黑衣首领倒飞出去，重重撞在石壁上，口中喷出鲜血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0121",
+      "text": "他挣扎着想起身，陆沉渊已走到面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0122",
+      "text": "“谁让你来的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0123",
+      "text": "黑衣首领咳血冷笑：“你心里不是清楚？二房不会放过你，林家也不会放过你。你废了他们的棋，坏了他们的局，真以为一纸休书就能翻天？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0124",
+      "text": "陆沉渊蹲下，目光冷漠：“林家为什么盯着鸦口矿？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0125",
+      "text": "黑衣首领瞳孔微缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0126",
+      "text": "这个反应，比回答更有用。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0127",
+      "text": "陆沉渊继续问：“青岚宗的名额，和寒鸦岭到底做了什么交易？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0128",
+      "text": "黑衣首领脸色彻底变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0129",
+      "text": "“你怎么会知道……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0130",
+      "text": "话音未落，他忽然咬碎藏在牙后的毒囊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0131",
+      "text": "陆沉渊抬手卸他下颌，仍慢了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0132",
+      "text": "黑血从黑衣首领唇角流出，他死死盯着陆沉渊，喉间发出破碎笑声：“你查下去，也会死……陆沉渊，你娘当年……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0133",
+      "text": "后面的话断在喉咙里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0134",
+      "text": "黑衣首领眼神涣散，气息全无。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0135",
+      "text": "矿洞内重新安静下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0136",
+      "text": "只剩毒瘴缓缓流动，血腥味顺着冷风往深处飘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0137",
+      "text": "陆沉渊站起身，胸口起伏比平时重了几分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0138",
+      "text": "禁地借势的反噬不算轻，刚才那一瞬阴寒入脉，若不是他及时切断，自己的开脉之力也会被压住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0139",
+      "text": "但效果足够。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0140",
+      "text": "七名死士，全灭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0141",
+      "text": "他走到矿口，移开石堆，检查外面几具尸体。每个人身上都有二房死士常用的短刃，有两人怀中还藏着林家暗记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0142",
+      "text": "直到他翻开黑衣首领内衫时，手指忽然停住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0143",
+      "text": "那人肩胛处烙着一枚极浅的印记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0144",
+      "text": "印记像一片斜落青叶，外围有三道细纹，若不细看，只会以为是旧伤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0145",
+      "text": "陆沉渊认得。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0146",
+      "text": "前世林清雪入宗那日，青岚宗外门弟子的腰牌背面，刻的就是这道纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0014_b0147",
+      "text": "青岚宗印记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0148",
+      "text": "陆沉渊眼底寒意一点点沉下去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0149",
+      "text": "二房的死士身上，怎么会有青岚宗的暗印？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0150",
+      "text": "林家退婚、母亲信物、青岚宗名额、寒鸦岭废矿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0151",
+      "text": "原本散落的线，终于开始扣成一张网。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0152",
+      "text": "就在这时，天命债印再次发烫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0153",
+      "text": "矿洞深处传来极轻的一声裂响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0154",
+      "text": "像有什么东西，被今夜的血唤醒了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0155",
+      "text": "【任务进度更新：守住鸦口矿第一夜】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0156",
+      "text": "【发现关键因果：青岚宗暗印】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0157",
+      "text": "【警告：债源波动增强】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0158",
+      "text": "陆沉渊望向漆黑矿道，缓缓握紧手中短刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0014_b0159",
+      "text": "“青岚宗。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0160",
+      "text": "他轻声念出这三个字，声音里没有愤怒，只有冰冷的清算意味。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0014_b0161",
+      "text": "“原来你们也欠债。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

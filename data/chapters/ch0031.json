@@ -1,0 +1,2159 @@
+{
+  "id": "ch0031",
+  "index": 31,
+  "title": "第三十一章 赤月妖潮",
+  "beatCount": 252,
+  "beats": [
+    {
+      "id": "ch0031_b0001",
+      "text": "赤月秘境的天，始终像被鲜血浸过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0002",
+      "text": "灵药坡上，赵砚等人的尸身已被秘境雾气吞没，只剩破碎兵刃斜插在泥里。陆沉渊立在坡顶，掌心那枚秦氏令牌正微微发烫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0003",
+      "text": "令牌正面刻着古篆“秦”字，背面却不是族徽，而是一道被封住的赤色月纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0004",
+      "text": "他方才催动灵力探入，令牌中只浮出八个字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0005",
+      "text": "河枯月满，禁区门开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0006",
+      "text": "地图残页上，干涸河道与赤月禁区之间有一道细线，像血管，也像路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0007",
+      "text": "陆沉渊收起令牌，眼底没有半分迟疑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0008",
+      "text": "前世，他直到秘境结束才听说赤月禁区开启过一次。那一次，进去的人不足二十，活着出来的只有三人。叶寒便是其中之一。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0009",
+      "text": "也是那一次后，叶寒一夜凝脉，夺走外门所有光芒，连内门执事都亲自下山迎他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0010",
+      "text": "陆沉渊当年只以为那是天命眷顾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0011",
+      "text": "如今再看，哪里是什么眷顾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0012",
+      "text": "不过是有人提前铺好了路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0013",
+      "text": "“秦无极，你这盘棋，倒是下得够早。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0014",
+      "text": "系统提示音响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0015",
+      "text": "【检测到秦氏暗令残息。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0016",
+      "text": "【因果线索更新：秦无极曾以赤月秘境为局，埋下三重布置。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0017",
+      "text": "【第一重：灵药坡夺牌。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0018",
+      "text": "【第二重：赤月妖潮引路。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0019",
+      "text": "【第三重：禁区血契开门。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0020",
+      "text": "【当前可清算对象：秦氏暗子、叶寒残党、赤云门猎杀队。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0021",
+      "text": "陆沉渊眸光微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0022",
+      "text": "赤云门猎杀队。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0023",
+      "text": "韩烈果然进来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0024",
+      "text": "赤云门与青岚宗弟子入境本该分属不同区域，若没有人动手脚，韩烈绝不可能这么快靠近干涸河道。秦无极不止给叶寒留了后手，还把外部势力也牵了进来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0025",
+      "text": "借赤云门之手，杀掉不稳定的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0026",
+      "text": "借叶寒残党之手，筛掉碍眼的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0027",
+      "text": "最后把所有活下来的棋子赶去禁区，以血开门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0028",
+      "text": "只是这一次，棋子会吃掉棋手的手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0029",
+      "text": "陆沉渊抬步下坡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0030",
+      "text": "坡下，几名先前被赵砚逼迫的外门弟子仍惊魂未定，看向他的目光里满是敬畏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0031",
+      "text": "有人忍不住问：“陆师兄，你要去干涸河道？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0032",
+      "text": "“嗯。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0033",
+      "text": "“那里不能去。”那人脸色发白，“我们刚从北面退回来，河道里全是妖兽足迹，而且赤月雾气比别处浓十倍。听说已有好几队人折在那边。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0034",
+      "text": "另一个弟子压低声音：“我还听见兽吼，像是妖潮。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0035",
+      "text": "妖潮二字一出，众人都沉默了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0036",
+      "text": "赤月秘境中的妖兽受月华侵染，性情暴烈，单只已不好对付。若成潮而来，就算凝脉境弟子也未必能全身而退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0037",
+      "text": "陆沉渊只是看了一眼赤色天穹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0038",
+      "text": "“妖潮若来，说明路对了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0039",
+      "text": "众人怔住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0040",
+      "text": "还不等他们反应，陆沉渊已纵身掠下灵药坡，身形没入红雾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0041",
+      "text": "半刻钟后，干涸河道的轮廓出现在前方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0042",
+      "text": "那是一条横贯秘境腹地的巨大裂谷，河床早已无水，只有黑红色泥沙与森白枯骨。河道两侧峭壁如刀，缝隙里长着暗红藤蔓，藤蔓末端垂下细小花苞，像闭合的眼睛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0043",
+      "text": "陆沉渊刚踏入河床，秦氏令牌便剧烈一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0044",
+      "text": "系统提示跳出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0045",
+      "text": "【地势识别：赤月旧河道。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0046",
+      "text": "【可借势目标：干涸血脉地势、妖潮冲锋势、众修恐慌势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0047",
+      "text": "【是否消耗三百震惊值推演妖潮路径？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0048",
+      "text": "“推演。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0049",
+      "text": "刹那间，陆沉渊眼前浮现出一张虚幻地形图。河道蜿蜒向北，三条支流早已断裂，其中两处标红，代表妖兽聚集。最深处，一道月牙形断崖下有灵气喷涌，却被赤雾遮掩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0050",
+      "text": "更醒目的是河道东侧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0051",
+      "text": "那里有十几个光点正快速移动，追杀另外四个光点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0052",
+      "text": "其中一个光点，被系统标注为：林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0053",
+      "text": "陆沉渊眉梢微挑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0054",
+      "text": "林清雪也被赶到这里了？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0055",
+      "text": "前世的林清雪在赤月秘境中一直行踪成谜，秘境结束后，她修为没有暴涨，却带回了一份残缺禁制图。后来陆沉渊才知道，那份禁制图与秦氏旧藏有关。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0056",
+      "text": "她不是误入，而是来查秦无极的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0057",
+      "text": "只是眼下追杀她的人，显然不想让她活到禁区。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0058",
+      "text": "陆沉渊脚下一点，身形贴着河道阴影疾掠而去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0059",
+      "text": "东侧支流内，赤雾翻滚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0060",
+      "text": "四名外门弟子狼狈奔逃，林清雪居中，白衣已沾血，手中长剑仍稳。她一剑挑飞袭来的暗箭，反手将旁边一名弟子推开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0061",
+      "text": "“别回头，往河道主脉跑！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0062",
+      "text": "那弟子慌声道：“林师姐，他们是赤云门的人！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0063",
+      "text": "“我知道。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0064",
+      "text": "林清雪脸色很冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0065",
+      "text": "她当然知道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0066",
+      "text": "追兵衣袍上没有门派标识，但出手路数骗不了人。赤云门以火系掌法闻名，尤其是韩烈一脉，掌劲未至，热浪先行。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0067",
+      "text": "只是她想不明白，赤云门的人为何会精准找到她。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0068",
+      "text": "除非有人早就在她身上做了标记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0069",
+      "text": "她想起入境前内门执事递来的那枚护身玉，心中寒意更深。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0070",
+      "text": "秦无极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0071",
+      "text": "他连她也算进去了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0072",
+      "text": "身后赤雾炸开，一道火掌横空压下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0073",
+      "text": "“还跑？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0074",
+      "text": "粗犷笑声响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0075",
+      "text": "十余名赤云门弟子从雾中逼近，为首之人身材高大，赤发披肩，眉心有一道火纹，正是韩烈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0076",
+      "text": "他手中拎着一柄宽背刀，刀尖拖地，溅起火星。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0077",
+      "text": "“林清雪，把你手里的禁制残图交出来，我可以让你死得痛快些。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0078",
+      "text": "林清雪持剑而立，眸中没有惧色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0079",
+      "text": "“韩烈，你越界入秘境，就不怕事后被追查？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0080",
+      "text": "韩烈像听见笑话般大笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0081",
+      "text": "“追查？等赤月禁区开了，谁还管几个外门弟子的死活？再说了，我赤云门既敢进来，自然有人擦干净痕迹。”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0082",
+      "text": "他抬起刀，指向林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0083",
+      "text": "“你以为自己查到秦氏暗线，就能翻盘？小姑娘，聪明过头，死得更快。”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0084",
+      "text": "林清雪心头一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0085",
+      "text": "对方连这件事都知道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0086",
+      "text": "她手中残图藏得极深，只有一次在内门藏书阁旁与师尊密谈时提过半句。秦无极的人，已经伸到她身边了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "yunheng_zhenren"
+      ]
+    },
+    {
+      "id": "ch0031_b0087",
+      "text": "韩烈不再废话，挥刀落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0088",
+      "text": "“杀。”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0089",
+      "text": "赤云门众人同时扑出，火掌、刀芒、暗器交错而来。林清雪身后三名弟子早已绝望，其中一人咬牙想挡，却被热浪震得吐血倒飞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0090",
+      "text": "林清雪剑光连闪，强行斩开两道火掌，可韩烈的刀已经到了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0091",
+      "text": "刀势沉重，如烈焰压城。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0092",
+      "text": "她抬剑硬接。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0093",
+      "text": "铛！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0094",
+      "text": "长剑震颤，虎口裂开，整个人倒退三步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0095",
+      "text": "韩烈冷笑：“凝脉未成，也敢挡我？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0096",
+      "text": "他一步踏前，第二刀更狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0097",
+      "text": "林清雪眸光一厉，正要燃血催动秘法，身前却忽然多了一道黑影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0098",
+      "text": "那人抬手，两指夹住刀锋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0099",
+      "text": "刀上火光炸开，却被一层淡金色灵光压得寸寸熄灭。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0100",
+      "text": "韩烈瞳孔骤缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0101",
+      "text": "“谁？”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0102",
+      "text": "陆沉渊侧身而立，指间夹着刀锋，语气平淡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0103",
+      "text": "“你们找的人。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0104",
+      "text": "林清雪看见他的背影，心口猛地一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0105",
+      "text": "“陆沉渊？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0106",
+      "text": "韩烈盯着陆沉渊，脸上先是错愕，随后露出狞笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0107",
+      "text": "“外门第一？正好，省得我去找你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0108",
+      "text": "他双臂用力，宽背刀火纹亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0109",
+      "text": "可刀锋仍被陆沉渊两指夹着，纹丝不动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0110",
+      "text": "韩烈脸色一变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0111",
+      "text": "陆沉渊松指，屈指一弹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0112",
+      "text": "嗡！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0113",
+      "text": "宽背刀剧烈弯折，韩烈整个人被震退五步，掌心裂开血痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0114",
+      "text": "周围赤云门弟子一片死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0115",
+      "text": "【检测到赤云门弟子震惊。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0116",
+      "text": "【震惊值+420。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0117",
+      "text": "【检测到林清雪心绪波动。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0118",
+      "text": "【震惊值+180。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0119",
+      "text": "【显圣值+60。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0120",
+      "text": "陆沉渊没有看提示，只看向韩烈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0121",
+      "text": "“谁让你进来的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0122",
+      "text": "韩烈咬牙冷笑：“你算什么东西，也配问我？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0123",
+      "text": "话音未落，陆沉渊消失在原地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0124",
+      "text": "韩烈只觉眼前一花，胸口便被一掌按住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0125",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0126",
+      "text": "他整个人倒飞而出，撞碎河道石壁，大片碎石滚落。赤云门众人刚要救援，陆沉渊抬脚一踏，河床上的枯骨与砂砾同时震起，化作一道环形气浪，将他们全部逼退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0127",
+      "text": "“我问，你答。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0128",
+      "text": "陆沉渊走向韩烈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0129",
+      "text": "韩烈从碎石里爬出，胸前衣衫尽裂，眼中终于多了一丝惊怒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0130",
+      "text": "“你隐藏修为？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0131",
+      "text": "“答错了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0132",
+      "text": "陆沉渊掌心一翻，赤月雾气被他牵引，凝成一道细线，瞬间缠上韩烈右臂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0133",
+      "text": "咔嚓！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0134",
+      "text": "骨裂声清脆。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0135",
+      "text": "韩烈惨叫一声，右臂无力垂下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0136",
+      "text": "“下一次，是左臂。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0137",
+      "text": "韩烈额头冷汗直冒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0138",
+      "text": "他从未见过这种手段。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0139",
+      "text": "这不是单纯的修为压制，而像是整个河道都在帮陆沉渊出手。脚下砂砾、四周赤雾、甚至枯骨阴风，全成了他的兵器。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0140",
+      "text": "“秦氏令牌。”韩烈咬牙道，“有人给了我一枚子令，让我入境后按标记清人。目标名单里有林清雪，也有你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0141",
+      "text": "“子令在哪？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0142",
+      "text": "韩烈迟疑一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0143",
+      "text": "陆沉渊抬手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0144",
+      "text": "“在储物袋！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0145",
+      "text": "一枚赤纹子令从储物袋飞出，落入陆沉渊掌心。与秦氏主令相触的刹那，两枚令牌同时震动，竟有一缕血色光线指向河道深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0146",
+      "text": "赤云门弟子见韩烈受制，互相对视一眼，忽然有人暴喝：“一起上！他再强也只是一个人！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0147",
+      "text": "十余人同时催动秘法，火光连成一片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0148",
+      "text": "韩烈眼中也闪过狠色，左手猛地捏碎一枚黑色珠子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0149",
+      "text": "吼！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0150",
+      "text": "河道深处传来震天兽吼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0151",
+      "text": "林清雪脸色骤变：“引妖珠！他要引妖潮！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0152",
+      "text": "韩烈满脸狰狞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0153",
+      "text": "“陆沉渊，你不是能借势吗？我倒要看看，赤月妖潮来了，你借不借得动！”",
+      "kind": "dialogue",
+      "speaker": "林清雪",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0154",
+      "text": "远处河道轰鸣，像千军万马踩碎大地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0155",
+      "text": "红雾中，一双双兽瞳亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0156",
+      "text": "赤鳞狼、血角犀、铁背蜥、月影豹，密密麻麻的妖兽从支流涌来，全部被引妖珠的气息激得狂暴，沿着河道朝众人冲锋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0157",
+      "text": "三名外门弟子瞬间面无人色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0158",
+      "text": "“完了……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0159",
+      "text": "林清雪握紧长剑，目光却落在陆沉渊身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0160",
+      "text": "他没有退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0161",
+      "text": "甚至连表情都没有变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0162",
+      "text": "陆沉渊看着滚滚而来的妖潮，嘴角反而微微扬起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0163",
+      "text": "系统提示几乎同时响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0164",
+      "text": "【妖潮冲锋势已成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0165",
+      "text": "【众修恐慌势已成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0166",
+      "text": "【赤月旧河道地势已成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0167",
+      "text": "【是否消耗五百震惊值，开启万象借势：河道镇潮？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0168",
+      "text": "“开启。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0169",
+      "text": "刹那间，陆沉渊脚下金纹蔓延。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0170",
+      "text": "干涸河道像被唤醒的古老脉络，沉寂多年的河床发出低沉轰鸣。两侧峭壁赤藤摇曳，枯骨震颤，黑红泥沙向中央汇聚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0171",
+      "text": "陆沉渊一步踏出，衣袍猎猎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0172",
+      "text": "“潮来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0173",
+      "text": "妖潮冲至百丈。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0174",
+      "text": "他抬手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0175",
+      "text": "“潮止。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0176",
+      "text": "轰隆！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0177",
+      "text": "河床两侧骤然升起数十道砂石巨墙，妖兽前锋狠狠撞上，血肉横飞。后方妖兽来不及停下，层层叠叠撞在一起，凶戾兽吼瞬间化为混乱哀鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0178",
+      "text": "赤云门弟子全都看傻了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0179",
+      "text": "“他拦住妖潮了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0180",
+      "text": "韩烈脸色惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0181",
+      "text": "他引来妖潮，是为了同归于尽般逼陆沉渊退让。可现在，他亲眼看见陆沉渊站在河道中央，像一尊掌控山河的少年神祇。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0182",
+      "text": "陆沉渊指尖下压。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0183",
+      "text": "砂墙崩散，却不是溃散，而是化作万千砂刃倒卷而出。前排妖兽被瞬间贯穿，血雾冲天，赤月雾气都被染得更深。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0184",
+      "text": "【显圣值+500。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0185",
+      "text": "【震惊值+1200。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0186",
+      "text": "【检测到赤月妖潮受控，借势完成度提升。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0187",
+      "text": "陆沉渊目光扫过韩烈等人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0188",
+      "text": "“你们不是喜欢借妖杀人么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0189",
+      "text": "他掌心一翻，韩烈捏碎的引妖珠碎片被砂砾卷起，重新凝成一道气息印记，落在赤云门众人身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0190",
+      "text": "下一瞬，妖潮残余齐齐转头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0191",
+      "text": "韩烈头皮发麻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0192",
+      "text": "“不！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0193",
+      "text": "妖兽扑来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0194",
+      "text": "赤云门弟子阵形瞬间崩溃，惨叫声接连响起。有人试图逃上峭壁，却被赤藤缠住脚踝，拖回兽群。有人燃起火掌拼死搏杀，却被铁背蜥一尾抽碎胸骨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0195",
+      "text": "韩烈左手持刀，强行斩杀一头赤鳞狼，刚要冲出包围，陆沉渊已站在他前方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0196",
+      "text": "“秦无极给你的名单，还有谁？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0197",
+      "text": "韩烈满脸血污，眼神疯狂，“你杀我，赤云门不会放过你！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0198",
+      "text": "陆沉渊淡淡道：“你越界入境，身上带秦氏子令，引妖珠残息还在。你死在妖潮里，很合理。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0199",
+      "text": "韩烈一滞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0200",
+      "text": "他终于明白，陆沉渊不是一时冲动出手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0201",
+      "text": "从接过子令那一刻起，他的死法就已经被安排好了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0202",
+      "text": "只是安排他的人，换成了陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0203",
+      "text": "“我说！”韩烈嘶声道，“名单还有几个内门暗线，我只见过代号。黑鸦、白烛、山鬼。秦无极要我们把林清雪赶到禁区，把你杀在河道，把叶寒的人留到最后开门！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0204",
+      "text": "陆沉渊眼神微冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0205",
+      "text": "叶寒虽已被他压下，可其身后布置仍在运行。秦无极显然早就准备了不止一个承载气运的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0206",
+      "text": "“血契开门是什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0207",
+      "text": "韩烈嘴唇发抖，“我不知道全部，只知道禁区门前要凑齐三种血，秦氏令血、外门首席血、赤月妖兽王血。凑齐后，禁区核心会出现灵泉。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0208",
+      "text": "灵泉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0209",
+      "text": "陆沉渊眼底终于有了一丝波澜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0210",
+      "text": "前世叶寒凝脉暴涨，根源果然在灵泉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0211",
+      "text": "韩烈见他沉默，急忙道：“我知道的都说了，放我一条路，我可以告诉你赤云门……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0212",
+      "text": "话未说完，一头月影豹从背后扑来，将韩烈压倒在地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0213",
+      "text": "陆沉渊没有回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0214",
+      "text": "惨叫声很快被妖潮吞没。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0215",
+      "text": "【清算赤云门猎杀队。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0216",
+      "text": "【获得震惊值+2600。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0217",
+      "text": "【获得显圣值+900。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0218",
+      "text": "【获得因果点+2。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0219",
+      "text": "【秦无极布置第二重被反向夺取。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0220",
+      "text": "【额外奖励：赤月妖潮路径图。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0221",
+      "text": "河道渐渐安静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0222",
+      "text": "幸存的外门弟子早已瘫坐在地，望向陆沉渊的眼神近乎敬畏。林清雪收剑入鞘，走到他身旁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0223",
+      "text": "“你早知道这里有问题？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0224",
+      "text": "陆沉渊看了她一眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0225",
+      "text": "“现在知道也不晚。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0226",
+      "text": "林清雪沉默片刻，从袖中取出半张禁制残图。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0227",
+      "text": "“秦无极在秘境里布了阵。不是临时布置，是很多年前就开始了。赤月禁区下方，有一口灵泉，泉眼能洗脉拓窍，但开启代价极大。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0228",
+      "text": "陆沉渊接过残图，与地图残页一合。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0229",
+      "text": "两张残图边缘严丝合缝，显出一道完整路线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0230",
+      "text": "干涸河道尽头，月牙断崖之下，有一处标记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0231",
+      "text": "赤月灵泉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0232",
+      "text": "同时，秦氏主令与子令一同亮起，指向北方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0233",
+      "text": "林清雪看着那光线，低声道：“禁区快开了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0234",
+      "text": "陆沉渊点头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0235",
+      "text": "远处赤月忽然变得更圆，血光从天幕垂落，照亮河道尽头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0236",
+      "text": "那里传来一声低沉咆哮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0237",
+      "text": "不是普通妖兽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0238",
+      "text": "妖兽王。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0239",
+      "text": "【赤月妖兽王苏醒。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0240",
+      "text": "【灵泉争夺即将开启。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0241",
+      "text": "【检测到多方势力汇聚：秦氏暗子、叶寒残党、赤云门残余、未知观测者。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0242",
+      "text": "【当前建议：以外门第一之势入局，反夺天命机缘。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0243",
+      "text": "陆沉渊抬头，看向那轮赤月。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0244",
+      "text": "他前世失去的，不止修为，不止尊严，还有本该属于陆镇南之子的那条路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0245",
+      "text": "这一世，谁借他的血铺路，他便让谁先付账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0246",
+      "text": "“走。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0247",
+      "text": "陆沉渊迈向河道深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0031_b0248",
+      "text": "林清雪跟在他身侧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0031_b0249",
+      "text": "身后幸存弟子看着两人背影，终于有人低声道：“陆师兄这是要去争灵泉？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0250",
+      "text": "另一人喉结滚动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0251",
+      "text": "“不。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0031_b0252",
+      "text": "“他是去收账。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    }
+  ]
+}

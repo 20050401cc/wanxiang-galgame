@@ -1,0 +1,1769 @@
+{
+  "id": "ch0005",
+  "index": 5,
+  "title": "第五章 祖祠反审",
+  "beatCount": 200,
+  "beats": [
+    {
+      "id": "ch0005_b0001",
+      "text": "祠堂外，火把照得青石阶一片惨红。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0002",
+      "text": "陆承远站在人群最前，腰间长剑半出鞘，眼里却压不住兴奋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0003",
+      "text": "“陆沉渊，滚出来！”",
+      "kind": "dialogue",
+      "speaker": "陆承远",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0004",
+      "text": "“私杀三族老，盗取祖祠秘物，按族规，当废脉逐族！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0005",
+      "text": "他这一声落下，祠堂外数十名族卫齐齐上前半步，刀锋映火，杀意森然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0006",
+      "text": "祠堂内，陆沉渊将玉簪与云纹半印收入怀中，掌心还残留骨镜冰冷的触感。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0007",
+      "text": "三族老陆明岳的尸体倒在供案前，喉间黑烟已散，只剩一枚极细的黑钉嵌在颈骨下方。若不是骨镜照过，常人只会以为他被人震碎心脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0008",
+      "text": "“想让我背锅？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0009",
+      "text": "陆沉渊低笑一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0010",
+      "text": "前世他见过太多这种局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0011",
+      "text": "死人不会说话，活人被堵在现场，门外再来一个“刚好赶到”的指控者。只要他慌，只要他逃，罪名便坐实了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0012",
+      "text": "可惜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0013",
+      "text": "这一世，他不逃。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0014",
+      "text": "陆沉渊抬手，推开祖祠大门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0015",
+      "text": "吱呀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0016",
+      "text": "厚重木门缓缓打开，门外火光倾泻而入。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0017",
+      "text": "众人本以为会看见一个惊惶失措、浑身染血的少年。可出现在他们眼前的陆沉渊，衣衫虽旧，神色却冷得像祠堂里供奉了百年的铁牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0018",
+      "text": "他一步跨出门槛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0019",
+      "text": "不低头，不辩解，不退后。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0020",
+      "text": "陆承远眼皮一跳，随即冷笑：“还敢出来？来人，拿下！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0021",
+      "text": "两名族卫立刻冲上来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0022",
+      "text": "陆沉渊没有动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0023",
+      "text": "他只是把骨镜举起，镜面朝向祖祠牌位。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0024",
+      "text": "嗡！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0025",
+      "text": "祠堂深处，供奉的主脉祖牌忽然齐齐震颤。灰尘簌簌落下，一缕缕沉寂多年的青金残光自梁柱、地砖、香案中浮起，像是古老血脉被唤醒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0026",
+      "text": "那两名族卫刚踏上门槛，膝盖猛地一软，竟当场跪了下去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0027",
+      "text": "咚！咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0028",
+      "text": "额头磕在青石上，声音清脆。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0029",
+      "text": "全场一寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0030",
+      "text": "陆承远脸色微变：“你做了什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0031",
+      "text": "陆沉渊淡淡道：“祖祠主脉残势。族规第三卷，第七条，祖祠内有主脉血案，未审先拿人者，视同压案。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0032",
+      "text": "他说着，视线扫过众人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0033",
+      "text": "“陆承远，你是要在列祖列宗面前，先斩后审？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0034",
+      "text": "这句话像一根刺，扎进所有族卫耳中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0035",
+      "text": "陆家虽已不如当年，可祖祠规矩仍是根。尤其主脉旧规，平日没人提，一旦拿出来，谁也不敢当着祖牌硬踩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0036",
+      "text": "陆承远咬牙：“少拿族规吓人！三族老死在祠堂，你在里面，秘物也在你手上，不是你杀的还能是谁？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0037",
+      "text": "“是啊，三族老刚才还好好的。”",
+      "kind": "dialogue",
+      "speaker": "陆承远",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0038",
+      "text": "“陆沉渊以前被废，如今忽然有了手段，谁知道是不是用了邪法？”",
+      "kind": "dialogue",
+      "speaker": "陆承远",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0039",
+      "text": "“祖祠秘物若被盗，事情可就大了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0040",
+      "text": "人群里立刻有人附和。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0041",
+      "text": "陆沉渊看都没看那些人，只盯着陆承远。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0042",
+      "text": "“你说我私杀族老。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0043",
+      "text": "“证据呢？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0044",
+      "text": "陆承远冷哼：“尸体就是证据！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0045",
+      "text": "“尸体能证明他死了，不能证明是我杀的。”陆沉渊迈下一级台阶，骨镜残光在他掌中微闪，“况且，三族老入祠堂，是来杀我的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0046",
+      "text": "此言一出，众人哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0047",
+      "text": "陆承远大笑：“荒唐！三族老德高望重，会杀你一个废脉？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0048",
+      "text": "陆沉渊抬眸：“你这么急着替死人说话，是因为你知道死人不会反驳？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0049",
+      "text": "陆承远眼神一寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0050",
+      "text": "陆沉渊不再废话，将骨镜一转。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0051",
+      "text": "镜面上灰光浮动，祠堂内刚才的一幕开始扭曲显现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0052",
+      "text": "那不是完整影像，而是骨镜残留的因果碎影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0053",
+      "text": "众人只见灰雾之中，三族老陆明岳站在供案前，手里捏着一封旧信，声音断断续续传出：",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0054",
+      "text": "“陆镇南……血脉印……遮蔽镇天玄骨……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0055",
+      "text": "紧接着，黑烟从他喉间钻出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0056",
+      "text": "陆明岳双目凸起，身体僵硬，像被一只看不见的手掐住。随后，他喉下黑芒一闪，整个人轰然倒地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0057",
+      "text": "残影散去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0058",
+      "text": "祠堂外的风似乎都停了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0059",
+      "text": "不少族卫脸色发白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0060",
+      "text": "他们看清了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0061",
+      "text": "陆沉渊没有出手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0062",
+      "text": "三族老是被某种黑烟灭口！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0063",
+      "text": "陆承远瞳孔骤缩，随即怒喝：“假的！这骨镜本就是祖祠秘物，你偷拿秘物，自然能动手脚！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0064",
+      "text": "陆沉渊冷声道：“族规第一卷，第十九条，祖祠秘物可由主脉血亲临危请用，用于验血、照骨、存影，不算盗取。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0065",
+      "text": "他掌心一翻，指尖被镜边划出一道血痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0066",
+      "text": "血落镜面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0067",
+      "text": "骨镜立刻泛起青金色光纹，与祖祠主脉残势相连，形成一道淡淡光环，悬在他身后。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0068",
+      "text": "“我陆沉渊，陆镇南之子，主脉嫡血。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0069",
+      "text": "“我用骨镜验祠堂血案，合不合规？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0070",
+      "text": "声音落下，祖祠内所有祖牌同时一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0071",
+      "text": "像是回应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0072",
+      "text": "族卫中有人下意识后退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0073",
+      "text": "陆承远脸色难看至极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0074",
+      "text": "他没想到，陆沉渊竟然能借祖祠残势。更没想到，这个以往沉默任踩的废脉，竟把族规背得这样熟。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0075",
+      "text": "“就算三族老不是你杀的，也不能证明你无罪！”陆承远强行稳住声音，“三族老为何会来找你？你又为何深夜入祖祠？还有，那些东西是什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0076",
+      "text": "他的目光落在陆沉渊怀中隐约露出的玉簪一角。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0077",
+      "text": "贪意一闪而逝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0078",
+      "text": "陆沉渊看见了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0079",
+      "text": "他也笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0080",
+      "text": "“你终于问到重点了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0081",
+      "text": "陆承远心头一紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0082",
+      "text": "陆沉渊举起骨镜，镜面转向众人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0083",
+      "text": "“我入祖祠，是因为有人借三族老之手，想逼我交出主脉旧物。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0084",
+      "text": "“而三族老死前，留下了一个名字。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0085",
+      "text": "他停顿半息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0086",
+      "text": "陆承远本能皱眉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0087",
+      "text": "陆沉渊却没有说出任何名字，而是忽然问道：“陆承远，你怎么知道祖祠里有秘物？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0088",
+      "text": "陆承远一愣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0089",
+      "text": "陆沉渊步步逼近。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0090",
+      "text": "“我入祖祠之前，没有对外说过半句。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0091",
+      "text": "“三族老来找我，也没有带族卫。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0092",
+      "text": "“祠堂门关闭，你人在外面，却一开口便说我盗取祖祠秘物。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0093",
+      "text": "他声音越来越冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0094",
+      "text": "“谁告诉你的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0095",
+      "text": "众人眼神变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0096",
+      "text": "是啊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0097",
+      "text": "他们刚才被“杀族老”几个字震住，没有细想。陆承远为什么来得这么快？为什么一口咬定有秘物？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0098",
+      "text": "陆承远脸色阴沉：“我自然是收到消息。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0099",
+      "text": "“谁的消息？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0100",
+      "text": "“族中耳目众多，何须向你交代？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0101",
+      "text": "“耳目众多？”陆沉渊笑意更冷，“那就请你的耳目出来，说清楚他何时看见我盗取秘物，何时看见我杀三族老。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0102",
+      "text": "陆承远沉默。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0103",
+      "text": "他当然叫不出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0104",
+      "text": "安排的人只负责守外围，真正的局在三族老身上。他本以为陆沉渊会被尸体吓住，或者被族卫强拿，没想到对方直接把局翻成了审案。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0105",
+      "text": "陆沉渊转身面向众人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0106",
+      "text": "“族规第二卷，血案有三审。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0107",
+      "text": "“先审现场，再审证物，最后审动机。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0108",
+      "text": "“现在，现场残影证明三族老死于黑烟灭口。证物骨镜由主脉嫡血临危启用。至于动机……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0109",
+      "text": "他目光钉住陆承远。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0110",
+      "text": "“最急着定我罪的人，最怕三族老开口。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0111",
+      "text": "陆承远大怒：“陆沉渊！你敢污蔑我？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0112",
+      "text": "“污蔑？”陆沉渊抬手一指祠堂内尸体，“那你敢不敢让人验尸？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0113",
+      "text": "陆承远冷笑：“验就验！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0114",
+      "text": "话出口，他才意识到不妙。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0115",
+      "text": "陆沉渊立刻接上：“好。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0116",
+      "text": "他看向族卫后方几个年长执事：“请执事验尸。按族规，族老死于祖祠，验尸须由三方见证。主脉、二房、旁支各一人。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0117",
+      "text": "几名执事互相看了看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0118",
+      "text": "事情已经闹到祖牌前，他们不敢不应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0119",
+      "text": "很快，一名白须执事、一名二房管事、一名旁支老者进入祠堂。陆承远也想跟进去，却被陆沉渊横身拦住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0120",
+      "text": "“你嫌疑未清，站外面。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0121",
+      "text": "陆承远气笑：“你说我有嫌疑我就有？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0122",
+      "text": "“我没说你有罪。”陆沉渊道，“我只说你急。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0123",
+      "text": "这句话不重，却让不少人低声议论起来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0124",
+      "text": "片刻后，白须执事从祠堂内出来，手里用白布托着一枚细如发簪的黑钉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0125",
+      "text": "钉身乌黑，表面有一圈圈药蚀纹路，散发着淡淡腥甜气味。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0126",
+      "text": "白须执事脸色难看：“三族老颈骨下有此物，入骨三分，心脉被毒息封断。不是掌力，也不是剑伤。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0127",
+      "text": "旁支老者补充道：“黑钉藏得极深，若非骨镜残影指向喉下，寻常验尸很难发现。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0128",
+      "text": "二房管事张了张嘴，没敢说话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0129",
+      "text": "陆沉渊问：“能否证明三族老死于外物灭口？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0130",
+      "text": "白须执事点头：“能。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0131",
+      "text": "众人再度哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0132",
+      "text": "陆承远脸色铁青，却仍硬撑：“就算如此，也可能是你提前布下黑钉！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0133",
+      "text": "陆沉渊看他一眼：“你知道这钉叫什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0134",
+      "text": "陆承远冷笑：“邪门毒钉罢了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0135",
+      "text": "“看来你不知道。”陆沉渊伸手从白布边缘轻轻一拈，没有碰钉身，只嗅了嗅那股腥甜味，“钉身有爆血丹残味，钉尾有寒铁药蚀纹。此物不是普通毒钉，需以药阁火炉温养，至少七日。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0136",
+      "text": "白须执事惊讶：“你识得？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0137",
+      "text": "陆沉渊淡淡道：“略懂。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0138",
+      "text": "前世他被人追杀三万里，见过的毒器比陆家库房里的药材还多。这种黑钉手法粗糙，但对青岚城这种地方已算阴狠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0139",
+      "text": "系统光幕也在他眼底浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0140",
+      "text": "【检测到残缺因果物：蚀脉黑钉】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0141",
+      "text": "【来源：药毒混炼，账册可追溯】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0142",
+      "text": "【可借势：祖祠血案、主脉残势、族规审断】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0143",
+      "text": "【建议消耗显圣值：10，强化证物威慑】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0144",
+      "text": "陆沉渊没有立刻使用。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0145",
+      "text": "显圣值珍贵，要用在刀刃上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0146",
+      "text": "他先问：“药阁近日可有寒铁药蚀炉启用记录？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0147",
+      "text": "白须执事皱眉：“药阁火炉启用，按例需入账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0148",
+      "text": "陆沉渊转向陆承远：“听见了？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0149",
+      "text": "陆承远眼中闪过一抹慌乱，但很快压下：“药阁账册岂是你想查就查？你一个被废之人，有什么资格？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0150",
+      "text": "陆沉渊举起骨镜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0151",
+      "text": "“祖祠血案未结，主脉嫡血有权查三日内相关账册。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0152",
+      "text": "“族规第三卷，第十一条。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0153",
+      "text": "他每说一条，祖祠残势便微微一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0154",
+      "text": "不是他声音大，而是祖祠在给他撑腰。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0155",
+      "text": "陆承远终于忍不住，掌中长剑彻底出鞘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0156",
+      "text": "“够了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0157",
+      "text": "剑光一闪，直逼陆沉渊肩头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0158",
+      "text": "这一剑不为杀人，只为打断祖祠残势。只要陆沉渊被迫退回祠堂，局面就能重新乱起来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0159",
+      "text": "可陆沉渊早等着他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0160",
+      "text": "“动手了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0161",
+      "text": "他低喝一声，掌心骨镜朝地面一按。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0162",
+      "text": "【消耗显圣值10】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0163",
+      "text": "【借祖祠主脉残势，显化族规威压】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0164",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0165",
+      "text": "青金光纹自祠堂门槛爆开，像一道无形墙壁横推而出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0166",
+      "text": "陆承远剑尖还没碰到陆沉渊，整个人就被震得连退七步，胸口一闷，差点喷出血来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0167",
+      "text": "他手中剑嗡嗡乱颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0168",
+      "text": "陆沉渊站在原地，纹丝不动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0169",
+      "text": "系统提示随之跳出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0170",
+      "text": "【族卫震惊，震惊值+32】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0171",
+      "text": "【旁支执事震惊，震惊值+18】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0172",
+      "text": "【陆承远心神失衡，震惊值+25】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0173",
+      "text": "【当前震惊值：314】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0174",
+      "text": "陆沉渊眼底无波。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0175",
+      "text": "爽是爽，但还不够。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0176",
+      "text": "他看向陆承远，声音传遍祖祠外院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0177",
+      "text": "“陆承远，祖祠门前拔剑袭主脉嫡血，按族规，可杖三十，禁足一月。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0178",
+      "text": "“今日三族老尸骨未寒，我不与你计较。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "burial_emperor_plain",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0179",
+      "text": "“但从现在起，谁再阻我查药阁账册，便是阻查族老血案。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0180",
+      "text": "陆承远握剑的手指发白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0181",
+      "text": "他想反驳，却发现周围族卫已经不敢再上前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0182",
+      "text": "人心散了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0183",
+      "text": "刚才那一幕太清楚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0184",
+      "text": "陆沉渊不是在逃罪，而是在审案；陆承远不是来拿人，而是急着封口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0185",
+      "text": "白须执事沉声道：“此案牵涉祖祠，确该查账。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0186",
+      "text": "旁支老者也道：“三族老死得蹊跷，总要给族里一个交代。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0187",
+      "text": "二房管事脸色发苦，不敢看陆承远。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0188",
+      "text": "陆沉渊收起骨镜，走到白布前，隔着布端详那枚黑钉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0189",
+      "text": "钉尾内侧，有一道极细的划痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0190",
+      "text": "不是炼制痕，是编号。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0191",
+      "text": "陆沉渊眯眼：“这不是一次性毒器。药阁出入库会记编号，对吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0192",
+      "text": "白须执事道：“高危药器必须记。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0193",
+      "text": "“那就更简单了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0194",
+      "text": "陆沉渊抬头，看向青岚城陆家深处药阁方向。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0195",
+      "text": "夜风吹过，祠堂外火把忽明忽暗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0196",
+      "text": "黑钉尾端那道编号，在骨镜残光下浮出半行小字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0197",
+      "text": "“药阁外账，丙炉，十七号。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0005_b0198",
+      "text": "陆沉渊唇角微扬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0199",
+      "text": "“陆承远。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0005_b0200",
+      "text": "“你堵错门了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    }
+  ]
+}

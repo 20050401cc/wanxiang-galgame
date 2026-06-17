@@ -1,0 +1,1718 @@
+{
+  "id": "ch0022",
+  "index": 22,
+  "title": "第二十二章 外门挑战榜",
+  "beatCount": 200,
+  "beats": [
+    {
+      "id": "ch0022_b0001",
+      "text": "天刚亮，执事堂前便围满了人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0002",
+      "text": "杂役院几十名杂役站成两排，手里捧着被扣押的月供、贡献牌和账册。周魁等人跪在最前面，脸色一个比一个难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0003",
+      "text": "轮值执事原本睡眼惺忪，看到这阵仗，茶盏差点没端稳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0004",
+      "text": "“陆沉渊，你又闹什么？”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0005",
+      "text": "陆沉渊将账册放在案上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0006",
+      "text": "“不是闹，是报案。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0007",
+      "text": "执事眉头一皱，“杂役院内部小事，何必闹到执事堂？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0008",
+      "text": "“宗规第三卷第四十一款，私扣月供，按夺供论。第六十三款，擅改杂役分工，致弟子伤残者，按害同门论。第九十七款，贡献牌私收私换，按侵吞宗门公账论。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0009",
+      "text": "陆沉渊每说一款，执事脸色就沉一分。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0010",
+      "text": "旁边围观弟子越来越多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0011",
+      "text": "“陆沉渊不是昨天才被压成杂役？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0012",
+      "text": "“听说他一天完成三百六十贡献。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0013",
+      "text": "“今日又把周魁押到执事堂？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0014",
+      "text": "执事知道周魁背后有人，所以更不想管。可陆沉渊把宗规、账册、人证、物证全摆在案上，几十名杂役亲自到场，执事若还想压下去，压的就不是一件小事，而是整个执事堂的脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0015",
+      "text": "最关键的是，陆沉渊昨日刚在任务石壁上留下三百六十贡献的记录。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0016",
+      "text": "这件事还热着。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0017",
+      "text": "执事沉默片刻，冷声道：“周魁，账册属实？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0018",
+      "text": "周魁咬牙，“属实。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0019",
+      "text": "执事拍案，“周魁私扣月供，侵吞贡献，罚贡献八百，革去杂役头目职，押去矿洞半年。其余涉事者，按轻重罚贡献二百至五百，三月内不得担任管事。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0020",
+      "text": "周魁脸色惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0021",
+      "text": "矿洞半年，等于脱一层皮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0022",
+      "text": "执事挥手让人把他们带下去，随后盯着陆沉渊，“你还有事？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0023",
+      "text": "陆沉渊取出自己的贡献牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0024",
+      "text": "“申请外门挑战榜。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0025",
+      "text": "执事一愣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0026",
+      "text": "周围议论声瞬间炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0027",
+      "text": "“什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0028",
+      "text": "“杂役申请外门挑战榜？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0029",
+      "text": "“他疯了吧？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0030",
+      "text": "外门挑战榜，是外门弟子排位之地。榜上百名，皆是外门中有名有姓的人物。只要登榜，就能获得外门资源倾斜；若能进前五十，月供翻倍，还有一次进入破脉泉的资格。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0031",
+      "text": "但挑战榜有门槛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0032",
+      "text": "第一，身份必须是外门弟子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0033",
+      "text": "第二，贡献不得低于一百。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0034",
+      "text": "第三，每次挑战需缴纳十点贡献，胜者保留，败者扣除。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0035",
+      "text": "陆沉渊如今是杂役，按常理连碰榜的资格都没有。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0036",
+      "text": "执事眯起眼，“你现在不是外门弟子。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0037",
+      "text": "陆沉渊道：“宗规第二卷，外门条，第二十九款：被临时降役者，若三日内贡献满三百，且无宗门处分，可申请恢复外门考核。考核方式，可由执事堂安排，也可选择挑战榜公开试炼。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0038",
+      "text": "执事脸皮一抽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0039",
+      "text": "又是宗规。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0040",
+      "text": "陆沉渊继续道：“我昨日完成三百六十贡献，执事堂已录入。今日周魁一案，我是报案者，不是受处分者。按规矩，我有资格申请公开试炼。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0041",
+      "text": "围观弟子中有人惊呼：“还真有这一条？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0042",
+      "text": "执事盯着陆沉渊，心中暗骂。这条规矩确实存在，而且陆沉渊选择公开试炼，他不能私下做手脚。只要挑战榜石开启，所有人都能看到结果。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0043",
+      "text": "“准。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0044",
+      "text": "半个时辰后，外门演武场人满为患。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0045",
+      "text": "挑战榜石立在演武场北侧，高三丈，黑底金字，从第一名到第一百名依次排列。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0046",
+      "text": "榜尾第一百名，马晋，开脉九重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0047",
+      "text": "这个境界放在外门不算强，可放在刚从杂役院出来的陆沉渊面前，已经足够让人觉得荒唐。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0048",
+      "text": "赵岳也来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0049",
+      "text": "他站在人群后方，脸色阴沉。昨晚周魁被押去执事堂的消息传来时，他还以为听错了。等赶到时，周魁已经被判去矿洞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0050",
+      "text": "赵岳最不能忍的，不是周魁被废。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0051",
+      "text": "而是陆沉渊借周魁，把杂役院从他手里撕走了一块。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0052",
+      "text": "“他真敢挑战榜？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0053",
+      "text": "“已经缴贡献了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0054",
+      "text": "赵岳冷笑，“马晋虽然是榜尾，但一手裂石掌专打骨节。让他废陆沉渊一条胳膊。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0055",
+      "text": "演武场上，马晋听到传话，眼中闪过狠色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0056",
+      "text": "他本来只把这场挑战当笑话。一个杂役，哪怕昨日做了三百六十贡献，也不过是耐力惊人。挑战榜拼的是战力，是根基，是生死间磨出来的狠劲。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0057",
+      "text": "铜钟一响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0058",
+      "text": "马晋率先动手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0059",
+      "text": "裂石掌带着厚重脉力，直拍陆沉渊肩头。他这一掌若拍实，肩骨必裂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0060",
+      "text": "陆沉渊没有拔剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0061",
+      "text": "面对马晋的掌势，他只是踏前半步，右手扣住对方腕脉，左拳如短锤般击在肘下气门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0062",
+      "text": "马晋掌力瞬间散了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0063",
+      "text": "陆沉渊转身借势一拉，膝撞腹部，掌拍背脊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0064",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0065",
+      "text": "马晋整个人砸在台面上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0066",
+      "text": "一招。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0067",
+      "text": "演武场静了一瞬，随后哗然声四起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0068",
+      "text": "“马晋败了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0069",
+      "text": "“他连剑都没拔！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0070",
+      "text": "陆沉渊看向执事，“下一位。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0071",
+      "text": "执事眼角跳了跳，在榜石上划下马晋名字，将陆沉渊临时挂入第一百名。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0072",
+      "text": "按规矩，新登榜者可继续挑战，直到败下或主动停止。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0073",
+      "text": "陆沉渊抬头看向榜石。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0074",
+      "text": "“第九十名。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0075",
+      "text": "第九十名许昆上台时脸色轻松，“你能一招胜马晋，是因为他太笨。碰到我，你连衣角都摸不到。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0076",
+      "text": "铜钟再响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0077",
+      "text": "许昆身形一晃，绕至陆沉渊侧后，短刃直刺腰肋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0078",
+      "text": "陆沉渊站在原地不动。短刃即将刺中时，玄烬残剑忽然出鞘半寸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0079",
+      "text": "不是斩人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0080",
+      "text": "是斩风。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0081",
+      "text": "暗红剑痕贴着许昆的步伐切入，精准截在他下一步落点前。许昆若继续冲，脚筋就会撞上剑锋。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0082",
+      "text": "他急忙收步，身形一滞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0083",
+      "text": "这一滞，足够了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0084",
+      "text": "陆沉渊回身，一掌落在许昆胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0085",
+      "text": "许昆倒飞出擂台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0086",
+      "text": "第二胜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0087",
+      "text": "系统声在陆沉渊脑海中响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0088",
+      "text": "【检测到宿主开启外门挑战榜连续清算。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0089",
+      "text": "【主线支任务：登上外门前五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0090",
+      "text": "【任务要求：以公开挑战方式进入外门挑战榜前五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0091",
+      "text": "【任务奖励：凝脉提升一次，破脉资源一份，显圣值五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0092",
+      "text": "【提示：连胜将大幅提升震惊值获取。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0093",
+      "text": "陆沉渊眼中没有波动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0094",
+      "text": "“第八十名。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0095",
+      "text": "第八十名是个持枪弟子，枪势大开大合，开场便用长枪封住陆沉渊近身路线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0096",
+      "text": "陆沉渊终于拔出了玄烬残剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0097",
+      "text": "残剑出鞘时，台下不少人皱眉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0098",
+      "text": "“这什么剑？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0099",
+      "text": "“像断了的废铁。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0100",
+      "text": "持枪弟子不敢大意，长枪一抖，枪花直逼陆沉渊咽喉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0101",
+      "text": "陆沉渊提剑上压。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0102",
+      "text": "断剑对长枪，看似吃亏。可玄烬残剑每一次落点，都压在枪势最难发力的位置。三剑之后，长枪偏移；五剑之后，持枪弟子步伐混乱；第七剑，陆沉渊剑脊拍在枪杆中段。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0103",
+      "text": "长枪脱手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0104",
+      "text": "第八十名败。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0105",
+      "text": "“第七十名。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0106",
+      "text": "陆沉渊的声音传遍演武场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0107",
+      "text": "此时再无人笑他杂役身份。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0108",
+      "text": "第七十名，是一名凝脉半步弟子。那弟子上台前，赵岳亲自过去说了几句。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0109",
+      "text": "陆沉渊看在眼里，却没有阻止。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0110",
+      "text": "对方登台后第一句话便道：“陆沉渊，你今日走到这里够了。再往上，不是你能碰的。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0111",
+      "text": "陆沉渊道：“榜在这里，不是你嘴里。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0112",
+      "text": "对方脸色一沉，双掌合拢，脉力如潮涌起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0113",
+      "text": "“镇脉掌！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0114",
+      "text": "掌势压来，台下不少外门弟子神色一变。镇脉掌专压气血脉力，若境界不稳，很容易被一掌震乱脉络。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0115",
+      "text": "陆沉渊只是抬起玄烬残剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0116",
+      "text": "剑魂低语：“这掌法，空有皮相。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0117",
+      "text": "残剑剑尖轻轻一点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0118",
+      "text": "点在掌势最中心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0119",
+      "text": "所有压迫感瞬间像被刺破的水囊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0120",
+      "text": "对方瞳孔骤缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0121",
+      "text": "陆沉渊顺势前踏，剑柄撞在其胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0122",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0123",
+      "text": "那名半步凝脉弟子连退七步，跌坐在台边，嘴角溢血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0124",
+      "text": "第七十名败。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0125",
+      "text": "演武场彻底沸腾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0126",
+      "text": "赵岳的脸已经黑如锅底。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0127",
+      "text": "他忽然发现，自己每派出一个人，都像是在给陆沉渊垫脚。陆沉渊越赢，围观者越多。围观者越多，叶寒那边越难遮掩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0128",
+      "text": "原本一句“废物被贬杂役”，如今变成了“被压入杂役仍一日三百六十贡献，一夜清杂役院，半日闯挑战榜”。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0129",
+      "text": "陆沉渊抬头看向榜石。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0130",
+      "text": "前五十的名字，已经近了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0131",
+      "text": "执事沉声道：“陆沉渊，连续挑战消耗极大，你可以明日再战。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0132",
+      "text": "陆沉渊明白这话背后的压力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0133",
+      "text": "他若今日停下，赵岳和叶寒就有一夜时间安排更狠的手段。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0134",
+      "text": "所以他不会停。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0135",
+      "text": "“第五十名。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0136",
+      "text": "简单三个字，让演武场的喧闹再次炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0137",
+      "text": "第五十名，韩宽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0138",
+      "text": "真正的凝脉一重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0139",
+      "text": "韩宽走上台时，整座演武场的气氛都变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0140",
+      "text": "开脉和凝脉，不是一个层次。开脉只是打通脉络，让脉力流转；凝脉则是将脉力凝聚成势，举手投足都带着压迫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0141",
+      "text": "韩宽看着陆沉渊，神情复杂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0142",
+      "text": "“有人让我废你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0143",
+      "text": "陆沉渊道：“你可以拒绝。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0144",
+      "text": "韩宽摇头，“我收了资源。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0145",
+      "text": "“那就还债。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0146",
+      "text": "铜钟落响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0147",
+      "text": "韩宽的气势瞬间爆发，凝脉一重的脉力如重锤压下。他没有使用花哨招式，而是一步步逼近，要以境界硬压陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0148",
+      "text": "韩宽一掌轰出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0149",
+      "text": "掌风未至，陆沉渊胸口衣襟已被压得贴紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0150",
+      "text": "陆沉渊左脚后撤半寸，玄烬残剑低垂。韩宽掌势压至，他没有硬挡，而是在掌力最盛时，残剑忽然向下斩去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0151",
+      "text": "斩的不是韩宽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0152",
+      "text": "是他脚下的台面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0153",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0154",
+      "text": "青石裂开，碎石飞溅。韩宽踏出的那一步被裂缝阻断，重心微偏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0155",
+      "text": "仅仅一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0156",
+      "text": "陆沉渊已从掌势侧面切入。玄烬残剑的剑脊拖出暗红火痕，拍在韩宽腕上，紧接着肩撞胸口，脉力在近身处爆开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0157",
+      "text": "韩宽闷哼，却没有倒下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0158",
+      "text": "凝脉一重到底不是前面那些人。他反手扣住陆沉渊肩膀，另一掌直拍其脉门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0159",
+      "text": "剑魂忽然发出低笑：“要不要借火？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0160",
+      "text": "“借一寸。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0161",
+      "text": "玄烬残剑微微一震，一缕灰烬般的热意顺着剑柄涌入掌心。陆沉渊反腕斜削，韩宽只觉掌心一烫，像按在燃尽的炭火上，本能收手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0162",
+      "text": "陆沉渊抓住这一瞬，剑柄重重砸在韩宽肋下，随后一掌按在其胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0163",
+      "text": "“下去。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0164",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0165",
+      "text": "韩宽倒飞出擂台，落地连退数步，最终单膝跪地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0166",
+      "text": "全场死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0167",
+      "text": "榜石上，金字微微闪烁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0168",
+      "text": "第五十名，韩宽，名字褪去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0169",
+      "text": "陆沉渊，登榜第五十。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0170",
+      "text": "片刻后，演武场爆发出惊天喧哗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0171",
+      "text": "执事脸色复杂地走上台，将外门弟子令牌递给陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0172",
+      "text": "“按宗规，陆沉渊完成公开试炼，恢复外门身份。并以挑战榜第五十名身份，享外门前五十月供，获破脉泉候选资格。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0173",
+      "text": "陆沉渊接过令牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0174",
+      "text": "昨日，他被赵岳等人压进杂役院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0175",
+      "text": "今日，他从杂役院踩着挑战榜回到外门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0176",
+      "text": "不是求回来的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0177",
+      "text": "是打回来的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0178",
+      "text": "脑海中，系统声响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0179",
+      "text": "【主线支任务完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0180",
+      "text": "【宿主登上外门挑战榜前五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0181",
+      "text": "【奖励：凝脉提升一次，破脉资源一份，显圣值五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0182",
+      "text": "【当前震惊值增长异常，外门舆论节点形成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0183",
+      "text": "【提示：宿主已触发叶寒势力二次镇压线。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0184",
+      "text": "陆沉渊看向人群。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0022_b0185",
+      "text": "赵岳已经转身离去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0186",
+      "text": "同一时间，外门深处，一处独立小院内。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0187",
+      "text": "叶寒坐在石亭中，手边茶盏尚温。赵岳跪在亭外，头低得几乎贴到地面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0188",
+      "text": "“叶师兄，是我办事不利。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0189",
+      "text": "叶寒没有立刻说话。他看着池中游鱼，神色淡漠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0190",
+      "text": "“他进前五十了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0191",
+      "text": "赵岳咬牙，“是。韩宽也败了。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0192",
+      "text": "叶寒指尖轻轻敲着茶盏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0193",
+      "text": "一下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0194",
+      "text": "两下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0195",
+      "text": "第三下落下时，茶盏裂开一道细纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0196",
+      "text": "“第一次，是让他明白身份。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0197",
+      "text": "叶寒缓缓起身，“他没明白。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0198",
+      "text": "赵岳额头冒汗。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0199",
+      "text": "叶寒看向远处演武场方向，眼底没有怒火，只有一种高高在上的冷意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0022_b0200",
+      "text": "“那就废第二次。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    }
+  ]
+}

@@ -1,0 +1,1720 @@
+{
+  "id": "ch0027",
+  "index": 27,
+  "title": "第二十七章 外门第一战",
+  "beatCount": 202,
+  "beats": [
+    {
+      "id": "ch0027_b0001",
+      "text": "外门演武台前，钟声未歇。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0002",
+      "text": "叶寒的战帖被挂在榜石最上方，墨迹未干，却已经引来上千弟子围观。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0003",
+      "text": "战帖只有三行。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0004",
+      "text": "陆沉渊借宗规搅乱外门，构陷执事，损宗门声名。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0005",
+      "text": "叶寒愿以外门榜首身份公开问剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0006",
+      "text": "败者，交出青岚旧脉钥印相关名额与外门榜位。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0007",
+      "text": "这三行字看似堂正，实则把所有节奏都压在陆沉渊身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0008",
+      "text": "若他不来，便是心虚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0009",
+      "text": "若他来了，便要面对真正的外门第一。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0010",
+      "text": "叶寒已在青岚宗外门第一位置坐了近一年。他不是许青锋，也不是赵岳能随意调动的榜尾弟子。他的战绩、声望、资源和背后师承，都足以让许多人默认他代表外门秩序。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0011",
+      "text": "可今日，这份秩序被陆沉渊一寸寸撕开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0012",
+      "text": "所以叶寒必须出手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0013",
+      "text": "演武台中央，叶寒负手而立，白衣如雪，神色淡漠。哪怕赵岳刚被押入戒律堂，哪怕贡献殿与剑台连番失利，他脸上仍没有太多怒意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0014",
+      "text": "他更像是在处理一件偏离轨迹的小事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0015",
+      "text": "台下有人低声道：“陆沉渊会来吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0016",
+      "text": "“他刚从戒律堂出来，若聪明些，就该先避开。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0017",
+      "text": "“避？叶寒把战帖挂到榜石上，他若避了，前面赢下的声势就散一半。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0018",
+      "text": "“可叶寒是外门第一，听说已经半只脚踏入凝脉中期。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0019",
+      "text": "议论声中，远处人群忽然分开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0020",
+      "text": "陆沉渊来了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0021",
+      "text": "他背着玄烬残剑，手中拿着戒律堂清白印，身后没有长老护送，也没有藏剑峰弟子壮声势，只有莫老远远靠在一棵老松下看热闹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0022",
+      "text": "陆沉渊走到榜石前，抬眼扫过战帖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0023",
+      "text": "“构陷执事？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0024",
+      "text": "他笑了一声，将清白印按在榜石下方。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0025",
+      "text": "戒律堂清白印一亮，自动浮出刚才审判结果。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0026",
+      "text": "赵岳滥用职权，私取封存物，构陷同门，革职候审。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0027",
+      "text": "赵平参与伪证与压价，罚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0028",
+      "text": "刘显作伪证，罚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0029",
+      "text": "三堂见证，印记确凿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0030",
+      "text": "围观弟子瞬间哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0031",
+      "text": "叶寒的战帖第一句，当场被清白印抽碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0032",
+      "text": "叶寒看着那枚印，眼神终于微冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0033",
+      "text": "陆沉渊走上演武台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0034",
+      "text": "“你若只是想替赵岳翻案，先去戒律堂。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0035",
+      "text": "叶寒道：“赵岳之事，我不知情。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0036",
+      "text": "陆沉渊点头，“那便是为了钥印名额。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacred_judgement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0037",
+      "text": "叶寒眸光冷淡，“青岚旧脉钥印事关宗门，不该由你这种刚入外门的人拿着话语权。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0038",
+      "text": "“谁该拿？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0039",
+      "text": "“有能力者。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0040",
+      "text": "“比如你？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0041",
+      "text": "叶寒没有否认。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0042",
+      "text": "台下有人倒吸一口气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0043",
+      "text": "这就是叶寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0044",
+      "text": "他不需要说太多，因为长期以来，外门弟子已经习惯了他站在第一位。资源该由他先拿，名额该由他先挑，危险该由别人先挡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0045",
+      "text": "陆沉渊道：“你若想要名额，可以按规矩争。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0046",
+      "text": "叶寒淡淡道：“所以我下战帖。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0047",
+      "text": "“那就把账写清楚。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0048",
+      "text": "陆沉渊看向演武台执事，“今日一战，胜者为外门第一，享赤月秘境外门首席候选权。败者不得再以青岚旧脉钥印、赤月秘境资格之事施压。此条写入演武台战契。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0049",
+      "text": "叶寒眉头微皱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0050",
+      "text": "他原本想用外门第一的声势压陆沉渊，却不想被陆沉渊反手将战局锁成战契。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0051",
+      "text": "演武台执事看向叶寒，“叶师弟，是否同意？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0052",
+      "text": "叶寒沉默一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0053",
+      "text": "台下无数双眼睛盯着他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0054",
+      "text": "若他不同意，便显得战帖只是嘴上施压，不敢真按规矩争。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0055",
+      "text": "“同意。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0056",
+      "text": "战契立下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0057",
+      "text": "系统提示随之响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0058",
+      "text": "【检测到外门第一战开启。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0059",
+      "text": "【任务：击败叶寒但不杀。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0060",
+      "text": "【任务奖励：灵台引子、震惊值按影响结算、因果点一百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0061",
+      "text": "【提示：叶寒身上存在外来气运加持，击杀将提前惊动上层因果。建议公开击败，保留清算链。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0062",
+      "text": "陆沉渊眼底微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0063",
+      "text": "不杀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0064",
+      "text": "这与他判断一致。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0065",
+      "text": "叶寒不能死得太早。赵岳已经说过，叶寒只是传话人。若现在杀了叶寒，真正的手会缩回去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0066",
+      "text": "要让那只手继续伸，就要让叶寒败而不死，丢尽声势，却还能回去报信。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0067",
+      "text": "铜钟响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0068",
+      "text": "叶寒先动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0069",
+      "text": "他一步踏出，整座演武台的空气都像冷了几分。白衣翻动，掌中凝出一道寒色脉光。与许青锋的锋利不同，叶寒的气势是压迫，是一种理所当然的高位。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0070",
+      "text": "“寒脉掌。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0071",
+      "text": "掌势落下，台面迅速结出薄霜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0072",
+      "text": "陆沉渊拔剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0073",
+      "text": "玄烬残剑与寒脉掌相撞，赤黑剑气与寒光同时爆开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0074",
+      "text": "叶寒没有退，第二掌紧随而至，左手虚握，冰霜化成一道短刃，绕过残剑直刺陆沉渊肩脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0075",
+      "text": "动作干净。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0076",
+      "text": "比许青锋更狠，也更稳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0077",
+      "text": "陆沉渊侧身避开，残剑反压，剑背砸向叶寒腕骨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0078",
+      "text": "叶寒手腕一转，寒刃消散，竟借势绕到陆沉渊侧后，一掌拍向脊心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0079",
+      "text": "台下弟子惊呼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0080",
+      "text": "“叶寒的身法这么快？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0081",
+      "text": "“他以前根本没用全力！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0082",
+      "text": "陆沉渊脚下踏风步一动，身形斜掠半寸。掌风贴背而过，冻裂衣袍。玄烬残剑回旋，锋口擦过叶寒衣袖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0083",
+      "text": "一缕白布落地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0084",
+      "text": "叶寒低头看了一眼，神色更冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0085",
+      "text": "“你确实比我想的强。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0086",
+      "text": "陆沉渊道：“你比我想的弱。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0087",
+      "text": "台下轰然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0088",
+      "text": "叶寒眼底寒意暴涨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0089",
+      "text": "他双手结印，周身脉力骤然拔高。凝脉初期巅峰的气息彻底爆发，寒意沿着演武台边缘向外扩散，连台下弟子都忍不住后退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0090",
+      "text": "“寒星落。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0091",
+      "text": "数十道冰晶在半空凝成，像坠落的星子，密密麻麻压向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0092",
+      "text": "这不是普通招式，而是叶寒压箱底的外门成名技。当初他就是靠这一招，连败三名凝脉弟子，坐稳外门第一。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0093",
+      "text": "陆沉渊立在冰星之下，没有闪避。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0094",
+      "text": "他把玄烬残剑横在身前，左手按住剑脊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0095",
+      "text": "剑魂低声道：“这招不错，至少有点样子。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0096",
+      "text": "陆沉渊道：“借火。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0097",
+      "text": "“借多少？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0098",
+      "text": "“够破局。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0099",
+      "text": "玄烬残剑裂纹中赤光一亮，像有火从灰里钻出。陆沉渊一剑斩出，剑光不是直上，而是横扫台面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0100",
+      "text": "众人一开始没看懂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0101",
+      "text": "直到冰星落下前一瞬，演武台上所有寒霜都被剑光斩裂。霜纹一断，寒星之间的脉力联系也随之出现缝隙。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0102",
+      "text": "陆沉渊第二剑才真正上挑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0103",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0104",
+      "text": "数十道冰星同时炸开，化作漫天碎光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0105",
+      "text": "叶寒瞳孔一缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0106",
+      "text": "陆沉渊已经从碎光中杀至他面前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0107",
+      "text": "残剑直指胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0108",
+      "text": "叶寒强行后撤，袖中忽然滑出一枚玉符。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0109",
+      "text": "玉符刚亮，台下莫老眼神一冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0110",
+      "text": "黑袍戒律长老也站起身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0111",
+      "text": "叶寒手指一僵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0112",
+      "text": "那是内门护身符，若在演武台使用，就等于承认他借外力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0113",
+      "text": "陆沉渊看见了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0114",
+      "text": "也等的就是这一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0115",
+      "text": "他没有揭穿，而是借叶寒犹豫的一息，残剑剑柄重重砸在对方胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0116",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0117",
+      "text": "叶寒倒退七步，嘴角溢血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0118",
+      "text": "陆沉渊冷声道：“外门第一，就靠袖里的符？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0119",
+      "text": "台下哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0120",
+      "text": "叶寒脸色骤白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0121",
+      "text": "“我没有用！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0122",
+      "text": "“所以你还站着。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0123",
+      "text": "陆沉渊道，“若你用了，今日就不是战败，是作弊。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0124",
+      "text": "这句话比一剑更重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0125",
+      "text": "它让叶寒进退两难。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0126",
+      "text": "承认玉符，声名尽毁。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0127",
+      "text": "不承认，便只能继续凭自己打。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0128",
+      "text": "叶寒咬牙，终于收起玉符。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0129",
+      "text": "“陆沉渊，你真以为我只有这些？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0130",
+      "text": "他双掌合拢，眉心浮现一点冰蓝光芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0131",
+      "text": "台上寒气骤然凝成一条细线，直刺陆沉渊眉心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0132",
+      "text": "这不是伤身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0133",
+      "text": "是攻心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0134",
+      "text": "叶寒的真正底牌，是以寒脉之力扰乱对手灵台，让人一瞬失神。只要陆沉渊停顿半息，他便能反杀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0135",
+      "text": "可寒光刺入陆沉渊眼前时，系统提示同时响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0136",
+      "text": "【检测到灵台压迫。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0137",
+      "text": "【是否提前领取任务预支：灵台引子雏形？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0138",
+      "text": "【预支后若任务失败，灵台反噬加倍。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0139",
+      "text": "陆沉渊心中平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0140",
+      "text": "“领取。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0141",
+      "text": "一粒淡金色光点在识海深处亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0142",
+      "text": "叶寒的寒光刺入，像刺进了一片深潭，掀不起半点波澜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0143",
+      "text": "陆沉渊抬眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0144",
+      "text": "叶寒心口一寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0145",
+      "text": "那一瞬，他仿佛看见陆沉渊不是站在演武台上，而是站在一座巨大的账册前，翻页，落笔，判人因果。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0146",
+      "text": "“你……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0147",
+      "text": "陆沉渊第三剑落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0148",
+      "text": "不是斩喉，不是断脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0149",
+      "text": "斩在叶寒脚下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0150",
+      "text": "演武台青石裂开，叶寒重心失守。陆沉渊贴身而上，一掌按在他胸口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0151",
+      "text": "“下去。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0152",
+      "text": "砰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0153",
+      "text": "叶寒倒飞出擂台，撞在榜石前，整个人跪倒在地。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0154",
+      "text": "榜石上，第一名叶寒的名字光芒黯淡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0155",
+      "text": "下一息，陆沉渊三字缓缓上浮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0156",
+      "text": "外门第一，陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0157",
+      "text": "全场死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0158",
+      "text": "随后喧哗如山崩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0159",
+      "text": "“叶寒败了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0160",
+      "text": "“陆沉渊成外门第一了！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0161",
+      "text": "“三日前他还是杂役！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0162",
+      "text": "叶寒跪在榜石前，手指嵌入地面，眼中满是屈辱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0163",
+      "text": "陆沉渊走到台边，没有追击。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0164",
+      "text": "他记得任务要求。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0165",
+      "text": "击败，但不杀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0166",
+      "text": "叶寒抬起头，嘴角带血，声音沙哑，“你以为赢了我，就能拿到秘境名额？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0167",
+      "text": "陆沉渊道：“战契写着。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0168",
+      "text": "叶寒忽然冷笑，“战契只管外门。真正决定名额的人，在内门。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0169",
+      "text": "陆沉渊眼神微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0170",
+      "text": "叶寒压低声音，只有两人听见。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0171",
+      "text": "“秦无极师兄已经盯上你了。赵岳、许青锋、钥印，都不过是小事。你今日赢得越风光，死得越快。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0172",
+      "text": "陆沉渊低头看着他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0173",
+      "text": "“秦无极？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0174",
+      "text": "叶寒眼中闪过一丝快意，“你终于听见这个名字了。陆沉渊，有些人不是你能清算的。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0175",
+      "text": "陆沉渊淡淡道：“能不能清算，要等账到了我手里才知道。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0176",
+      "text": "系统声在脑海中响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0177",
+      "text": "【外门第一战完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0178",
+      "text": "【宿主击败叶寒，未击杀。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0179",
+      "text": "【获得灵台引子。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0180",
+      "text": "【获得因果点一百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0181",
+      "text": "【震惊值大幅结算中。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0182",
+      "text": "【新增因果目标：秦无极。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0183",
+      "text": "【提示：内门圣子线已开启。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0184",
+      "text": "观战台上，韩长老脸色沉如水。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0185",
+      "text": "更远处，内门方向有一名墨袍青年静静站在山道尽头。他没有靠近演武台，却从头到尾看完了这一战。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0186",
+      "text": "那人身旁跟着几名内门弟子，个个神色恭敬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0187",
+      "text": "秦无极。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0188",
+      "text": "他看着榜石上陆沉渊的名字，嘴角微微一扬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0189",
+      "text": "“倒是比叶寒有趣。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0190",
+      "text": "身旁弟子低声道：“秦师兄，要不要现在处理？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0191",
+      "text": "秦无极摇头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0192",
+      "text": "“不急。外门第一，正好能替我们进赤月秘境。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0193",
+      "text": "“可他未必听话。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0194",
+      "text": "秦无极淡淡道：“秘境会教他听话。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0195",
+      "text": "山风吹过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0196",
+      "text": "陆沉渊在演武台上抬头，目光正好越过人群，与秦无极遥遥相对。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0197",
+      "text": "两人隔着一座外门广场，一个刚从泥里杀上榜首，一个早已坐在内门高处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0198",
+      "text": "秦无极无声开口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0199",
+      "text": "“等你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0200",
+      "text": "陆沉渊看懂了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0027_b0201",
+      "text": "他也笑了笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0027_b0202",
+      "text": "“账开了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    }
+  ]
+}

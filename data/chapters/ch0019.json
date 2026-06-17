@@ -1,0 +1,1758 @@
+{
+  "id": "ch0019",
+  "index": 19,
+  "title": "第十九章 外门杂役",
+  "beatCount": 206,
+  "beats": [
+    {
+      "id": "ch0019_b0001",
+      "text": "入门三关的余波还未散尽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0002",
+      "text": "测脉石上的“超限”判定、战力关三息碎傀儡、心魔关三息破阵，像三记重锤砸在青岚宗外门广场上。直到高台长老宣布陆沉渊三关综合第一，许多新弟子仍没从震惊里回过神来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0003",
+      "text": "“陆沉渊，三关综合第一。按青岚宗规矩，可入外门甲等名册，另赐入门资源三倍。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0004",
+      "text": "长老的话刚落，人群便炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0005",
+      "text": "外门甲等名册。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0006",
+      "text": "这不是普通外门正籍，而是最靠近内门视线的位置。每年招新，能列入甲等名册者寥寥无几，能以三关第一入册者，更足以让外门长老亲自关注。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0007",
+      "text": "陆沉渊站在人群中央，衣袍上还沾着寒鸦岭的尘土，神色却淡得像刚从集市买完东西回来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0008",
+      "text": "有人羡慕，有人嫉恨，也有人低声议论。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0009",
+      "text": "“这等成绩，至少外门核心吧？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0010",
+      "text": "“说不定直接被内门长老收走。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0011",
+      "text": "“别忘了，叶寒师兄的人刚才一直盯着他。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0012",
+      "text": "话音刚落，长老席侧方，一名身穿执事袍的中年人缓缓起身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0013",
+      "text": "赵岳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0014",
+      "text": "外门执事，掌管新入弟子分配。也是叶寒在外门里最顺手的一把刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0015",
+      "text": "他扫了一眼石碑，又扫了一眼陆沉渊，嘴角带着一丝几乎看不见的冷意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0016",
+      "text": "“陆沉渊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0017",
+      "text": "“在。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0018",
+      "text": "“你三关成绩确实不差。”赵岳故意停顿了一下，“不过，测脉结果显示，你脉象未知，判定超限。超限不等于稳固，异常也不等于天资。青岚宗收弟子，不只看一时锋芒，更看根基长远。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0019",
+      "text": "周围顿时安静下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0020",
+      "text": "异常？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0021",
+      "text": "不稳？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0022",
+      "text": "刚才测脉石、黑铁傀儡、心魔幻阵全被他压过，这叫不稳？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0023",
+      "text": "陆沉渊眼底掠过一抹冷光，却没有开口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0024",
+      "text": "赵岳继续道：“按宗规，根基存疑者，不可直接列入外门正籍。需入杂役院观察，待表现合格，再行晋升。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0025",
+      "text": "这句话落下，像一盆冷水浇在人群头顶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0026",
+      "text": "杂役院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0027",
+      "text": "青岚宗最底层。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0028",
+      "text": "说是弟子，其实连外门门槛都没摸到。打柴、挑水、清扫、搬运、喂兽、看炉，什么脏活累活都归杂役院。许多人进了那里，一辈子都没机会摸到真正的修行资源。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0029",
+      "text": "一个三关第一的甲等天才，被压成杂役？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0030",
+      "text": "有人脸色变了，却没人敢说话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0031",
+      "text": "叶寒的名字，在新弟子里已经不是秘密。内门天才，凝脉巅峰，长老看重，身后还有一批追随者。谁会为了一个刚入宗的陆沉渊得罪他？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0032",
+      "text": "赵岳居高临下地看着陆沉渊，语气平淡：“你可有异议？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0033",
+      "text": "这不是询问。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0034",
+      "text": "这是逼他低头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0035",
+      "text": "陆沉渊抬头，看向赵岳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0036",
+      "text": "前世，他见过太多这样的嘴脸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0037",
+      "text": "明明手里拿着规矩，却把规矩折成刀。明明暗中受人指使，却要摆出一副公正模样。若换作旁人，此刻或许会愤怒争辩，或许会跪求重判。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0038",
+      "text": "但陆沉渊只是笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0039",
+      "text": "“宗规既然如此，我入杂役院。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0040",
+      "text": "赵岳眉头微皱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0041",
+      "text": "他原以为陆沉渊会闹。只要陆沉渊闹，他便能扣上一顶不敬执事、不服宗规的帽子，轻则废掉成绩，重则逐出山门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0042",
+      "text": "可这少年竟然忍了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0043",
+      "text": "不，是顺势接了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0044",
+      "text": "陆沉渊又道：“不过赵执事方才说，表现合格即可晋升外门。敢问，何为合格？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0045",
+      "text": "赵岳眼神一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0046",
+      "text": "“杂役弟子七日考核一次。修为、任务、贡献三项达标，可申请外门考核。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0047",
+      "text": "“达标之后，是否有人能再以根基存疑为由阻拦？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0048",
+      "text": "赵岳冷笑：“宗规明文，达标者皆可申考。你若真有本事，没人拦你。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0049",
+      "text": "“好。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0050",
+      "text": "陆沉渊拱手，声音不大，却足以让周围所有新弟子听见。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0051",
+      "text": "“七日后，我取外门正籍。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0052",
+      "text": "人群再次哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0053",
+      "text": "赵岳脸上的冷笑更深：“年轻人，话别说太满。杂役院不是考核广场，那里不看你一时风光，只看你能不能熬。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0054",
+      "text": "陆沉渊淡淡道：“赵执事放心，我最擅长的，就是把别人给的烂牌打成杀局。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0055",
+      "text": "赵岳眼角一跳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0056",
+      "text": "就在这时，陆沉渊脑海中响起熟悉的冰冷提示。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0057",
+      "text": "【检测到宿主遭遇宗门规则压制。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0058",
+      "text": "【万象借势系统判定：可借势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0059",
+      "text": "【任务触发：七日之内，由杂役弟子晋升外门弟子。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0060",
+      "text": "【任务奖励：贡献值翻倍卡一张。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0061",
+      "text": "【附加借势条件：宿主每次借宗规反制压迫者，可额外获得显圣值。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0062",
+      "text": "陆沉渊眼中笑意更浓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0063",
+      "text": "叶寒想把他压进泥里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0064",
+      "text": "可他需要的，正是泥里的规则。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0065",
+      "text": "只要规则还在，他就能借势。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0066",
+      "text": "只要有人想用规则踩他，他就能把那只脚剁下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0067",
+      "text": "分配结束后，一名灰衣弟子领着陆沉渊往山脚走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0068",
+      "text": "青岚宗依山而建，内门在云雾之上，外门在半山，杂役院则在最下方，靠近兽栏、柴场、废库和丹炉杂房。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "pill_pavilion",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0069",
+      "text": "越往下走，灵气越薄，路也越破。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "pill_pavilion",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0070",
+      "text": "灰衣弟子一路冷着脸，显然早得了吩咐。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "pill_pavilion",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0071",
+      "text": "“到了杂役院，别摆你三关第一的架子。”他斜眼道，“那里不认成绩，只认活。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "pill_pavilion",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0072",
+      "text": "陆沉渊问：“杂役任务在哪领？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0073",
+      "text": "灰衣弟子愣了一下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0074",
+      "text": "他本想看陆沉渊失落、愤怒、难堪，没想到对方开口就是任务。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0075",
+      "text": "“院中任务墙。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0076",
+      "text": "“贡献怎么算？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0077",
+      "text": "“打柴一捆一点，挑水十缸一点，清扫兽栏三点，搬运矿石五点。七日考核最低要五十贡献。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0078",
+      "text": "“外门考核还需什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0079",
+      "text": "“开脉后期以上，任务无误，贡献足额。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0080",
+      "text": "陆沉渊点头：“多谢。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0081",
+      "text": "灰衣弟子脸色难看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0082",
+      "text": "他故意把最粗陋的任务说出来，就是想让陆沉渊心生厌恶，结果对方像在听账房报价。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0083",
+      "text": "杂役院大门低矮，门匾歪斜，上面写着三个褪色大字：杂役院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0084",
+      "text": "院里一股混杂气味扑面而来，有草木灰，有兽粪，有药渣，也有汗味。几十名杂役弟子穿着灰衣，或挑水，或劈柴，或推着沉重石车，看到陆沉渊进来，皆抬头打量。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0085",
+      "text": "“新来的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0086",
+      "text": "“看衣服不像穷地方出来的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0087",
+      "text": "“听说三关第一，被赵执事压下来了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0088",
+      "text": "“第一又如何？进了杂役院，三天就知道什么叫现实。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0089",
+      "text": "院角，一个胖管事坐在竹椅上嗑瓜子，见灰衣弟子把人带来，懒洋洋道：“名字。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0090",
+      "text": "“陆沉渊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0091",
+      "text": "胖管事手指一顿，抬头看了他一眼，嘴角露出幸灾乐祸的笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0092",
+      "text": "“你就是那个得罪叶寒师兄的人？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0093",
+      "text": "陆沉渊平静道：“我只知道，我是青岚宗新入杂役弟子。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0094",
+      "text": "胖管事笑意更浓：“行，嘴硬。既然来了，就按规矩办。今日新入院，先领三日基础活，打柴三百捆，挑水三百缸，兽栏清扫十间。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0095",
+      "text": "旁边杂役弟子倒吸一口冷气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0096",
+      "text": "这哪里是基础活？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0097",
+      "text": "寻常杂役三日合起来也不过打柴五十捆、挑水百缸。三百捆柴、三百缸水，再加十间兽栏，分明是要把人活活压垮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0098",
+      "text": "陆沉渊看向胖管事：“贡献怎么算？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0099",
+      "text": "胖管事一愣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0100",
+      "text": "“打柴三百捆三百点，挑水三百缸三十点，兽栏十间三十点，共三百六十点。”陆沉渊替他算完，“按你刚才派活，这些都记我名下？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0101",
+      "text": "胖管事脸色一僵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0102",
+      "text": "他只想刁难，没想送贡献。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0103",
+      "text": "杂役院有账册，任务若派下去，完成了就必须记贡献。否则被查出来，管事也要吃责罚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0104",
+      "text": "胖管事眯起眼：“你完得成再说。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0105",
+      "text": "陆沉渊淡淡道：“给账册盖印。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0106",
+      "text": "胖管事脸色一沉：“你在教我做事？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0107",
+      "text": "“宗规规定，杂役任务派发需先登记，防止冒领冒记。”陆沉渊目光落在他桌上的旧册子上，“管事若不盖印，我如何证明这些活是你派给我的？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0108",
+      "text": "院中杂役弟子都看愣了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0109",
+      "text": "刚入院第一刻，就拿宗规压管事？",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0110",
+      "text": "胖管事被噎得胸口发闷。他本想不认账，可周围这么多人看着，真闹上去，他未必占理。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0111",
+      "text": "“盖！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0112",
+      "text": "他重重拿起印章，啪地盖在任务册上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0113",
+      "text": "陆沉渊接过木牌，看了一眼任务栏，转身就走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0114",
+      "text": "“他真去做？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0115",
+      "text": "“疯了吧？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0116",
+      "text": "“这活就算三个人做三天也未必完得成。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0117",
+      "text": "陆沉渊没有理会。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0118",
+      "text": "他先去了柴场。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0119",
+      "text": "柴场堆满铁木，质地沉硬，寻常开脉弟子劈一根都要费不少力。看守柴场的老杂役懒得抬头，只指了指斧头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0120",
+      "text": "“劈够了自己捆。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0121",
+      "text": "陆沉渊拿起斧头，手腕一沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0122",
+      "text": "好斧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0123",
+      "text": "不是锋利，而是重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0124",
+      "text": "他体内玄骨轻震，先前服下玄骨灵髓后留下的底蕴在骨节间缓缓流转。开脉之力沿臂而上，沉入斧柄。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0125",
+      "text": "第一斧落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0126",
+      "text": "咔！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0127",
+      "text": "铁木应声裂成两半。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0128",
+      "text": "第二斧，第三斧，第四斧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0129",
+      "text": "他没有盲目挥砍，而是观察木纹、借力、顺势。每一斧都落在最该落的位置。斧头看似粗笨，在他手中却像一柄厚背刀，劈、压、挑、震，动作干净到令人发寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0130",
+      "text": "【借势成功：借铁木纹理之势，效率提升。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0131",
+      "text": "【获得震惊值+18。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0132",
+      "text": "一旁偷看的杂役弟子张大嘴。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0133",
+      "text": "半个时辰后，一百捆柴整齐堆起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0134",
+      "text": "一个时辰后，三百捆柴全部完成。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0135",
+      "text": "陆沉渊放下斧头，指尖微麻，气息却稳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0136",
+      "text": "他提牌去水井。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0137",
+      "text": "杂役院用的是寒泉水，井深二十丈，水桶入井后沉得像石头。寻常弟子挑十缸就腰酸背痛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0138",
+      "text": "陆沉渊却没有硬拉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0139",
+      "text": "他观察井绳、滑轮、井壁湿痕，发现旧滑轮阻滞，便拆下木楔，把旁边废油抹上，再用碎石垫正轴心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0140",
+      "text": "旁人嗤笑：“挑水还修井？真当自己是匠人？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0141",
+      "text": "下一刻，水桶轻快上升。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0142",
+      "text": "陆沉渊一手提桶，一手控绳，步伐如尺。两桶水悬在扁担两端，不晃不溅，力量顺肩入脊，再由玄骨卸到足底。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0143",
+      "text": "挑水三百缸，天色未暗便完成。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0144",
+      "text": "胖管事坐不住了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0145",
+      "text": "等陆沉渊走向兽栏时，他已经从竹椅上站起，脸色阴沉得能滴水。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0146",
+      "text": "兽栏最脏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0147",
+      "text": "里面关着低阶灵兽，脾气躁，粪污重，还有残留的药渣毒气。别说清扫，靠近久了都容易头晕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0148",
+      "text": "胖管事故意把最难的十间派给他，其中两间关着暴躁的赤角兽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0149",
+      "text": "陆沉渊站在兽栏前，看着那头赤角兽撞得木栏砰砰作响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0150",
+      "text": "“怕了？”胖管事冷笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0151",
+      "text": "陆沉渊没有说话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0152",
+      "text": "他从旁边取来干草、盐石，又把药渣分成三份。前世他走过无数险地，见过比赤角兽凶上百倍的妖物。兽性再烈，也有饥渴、畏惧、领地和伤痛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0153",
+      "text": "他把盐石抛到角落，又将带苦味的药渣撒在栏口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0154",
+      "text": "赤角兽先是暴怒，随后嗅了嗅，竟慢慢退到角落啃盐石去了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0155",
+      "text": "陆沉渊提起长柄铲，入栏清扫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0156",
+      "text": "【借势成功：借兽性趋避之势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0157",
+      "text": "【获得显圣值+22。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0158",
+      "text": "十间兽栏，黄昏前清完。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0159",
+      "text": "当陆沉渊带着木牌回到任务墙前时，杂役院已经没人说话了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0160",
+      "text": "三百六十贡献。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0161",
+      "text": "一天。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0162",
+      "text": "不，半天多一点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0163",
+      "text": "胖管事盯着木牌，手指发抖：“你作弊。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0164",
+      "text": "陆沉渊抬眼：“哪条宗规说，做得快就是作弊？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0165",
+      "text": "胖管事噎住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0166",
+      "text": "“任务你派的，印你盖的，活我做完了。”陆沉渊声音平静，“记账。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0167",
+      "text": "院中所有杂役都看向胖管事。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0168",
+      "text": "胖管事脸色青白，最后只能在账册上写下陆沉渊三个字，又狠狠添上贡献数。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0169",
+      "text": "三百六十。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0170",
+      "text": "这个数字落在账册上，比巴掌扇在他脸上还响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0171",
+      "text": "陆沉渊收回木牌，脑海中系统声响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0172",
+      "text": "【宿主借宗规反制压迫，获得显圣值+50。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0173",
+      "text": "【当前七日任务进度：贡献条件已超额完成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0174",
+      "text": "陆沉渊嘴角微扬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0175",
+      "text": "叶寒要他当杂役。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0176",
+      "text": "赵岳要他熬死在杂役院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0177",
+      "text": "可他们忘了，杂役院虽然低贱，却是宗门规则最密集的地方。任务有账，贡献有册，晋升有条文。只要他把每一条都踩准，谁压他，谁就会替他铺路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0178",
+      "text": "夜色降下，杂役院众人陆续散去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0179",
+      "text": "陆沉渊刚准备回住处，院角一间破屋里传出沙哑声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0180",
+      "text": "“小子，过来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0181",
+      "text": "他转头看去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0182",
+      "text": "那破屋门口坐着一个老头，头发花白，衣衫洗得发灰，手里拄着一根断木棍。白日里陆沉渊做任务时，他一直在看，却从未开口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0183",
+      "text": "“前辈有事？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0184",
+      "text": "老头咧嘴，露出几颗残牙：“别叫前辈，我就是个快入土的看库老杂役。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0185",
+      "text": "陆沉渊走过去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0186",
+      "text": "老头上下打量他，浑浊眼里闪过一丝难以察觉的亮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0187",
+      "text": "“你会借力。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0188",
+      "text": "“做杂活而已。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0189",
+      "text": "“放屁。”老头哼了一声，“劈柴借木纹，挑水借井轮，扫兽栏借兽性。杂活人人会做，借势不是人人会。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0190",
+      "text": "陆沉渊眼神微动，却仍然不动声色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0191",
+      "text": "老头从屋里拖出一个长条破布包，丢到他脚边。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0192",
+      "text": "“拿着。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0193",
+      "text": "陆沉渊打开布包。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0194",
+      "text": "里面是一把断剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0195",
+      "text": "剑身只剩半截，锈迹斑斑，剑脊上有一道深黑裂痕，像被雷火劈过。剑柄缠布腐烂，护手也缺了一角。若丢在废铁堆里，怕是连铁匠都懒得多看。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0196",
+      "text": "可陆沉渊握住剑柄的瞬间，玄骨忽然轻轻一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0197",
+      "text": "很轻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0198",
+      "text": "却真实存在。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0199",
+      "text": "老头盯着他的手，低声道：“这剑在杂役院废库里躺了很多年，没人拔得动，也没人修得好。今日它动了一下。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0200",
+      "text": "陆沉渊抬眸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0019_b0201",
+      "text": "“为什么给我？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0202",
+      "text": "老头笑了笑，声音低哑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0203",
+      "text": "“因为你今天被人压成杂役，却不像来受苦的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0204",
+      "text": "“那像什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0205",
+      "text": "老头看着夜色里的青岚宗山门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0019_b0206",
+      "text": "“像来清账的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

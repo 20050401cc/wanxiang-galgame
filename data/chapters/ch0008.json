@@ -1,0 +1,1353 @@
+{
+  "id": "ch0008",
+  "index": 8,
+  "title": "第八章 三日破境",
+  "beatCount": 155,
+  "beats": [
+    {
+      "id": "ch0008_b0001",
+      "text": "陆沉渊回到东院时，夜色已深。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0002",
+      "text": "院中老槐树下，影子被月光拉得很长。原本属于大房的府邸荒了数年，墙角青苔未除，廊柱旧漆斑驳，像极了陆家对他父母的态度。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0003",
+      "text": "表面还在，内里早被蛀空。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0004",
+      "text": "福伯捧着钥印和清单，手都在抖。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0005",
+      "text": "“少主，二房送来的第一批资源已经入库。五千灵石，开脉丹一百枚，淬体药材三百斤，一样不少。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0006",
+      "text": "陆沉渊点头：“药材分类，烈性淬体的留下，温养的给院中护卫。开脉丹取三十枚，其余封存。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0007",
+      "text": "福伯一惊：“少主，三十枚开脉丹一次用？丹力太冲，会伤脉的！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0008",
+      "text": "“普通人会。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0009",
+      "text": "陆沉渊走入静室，“我不会。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0010",
+      "text": "静室门合上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0011",
+      "text": "陆沉渊取出母亲留下的玉簪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0012",
+      "text": "玉簪温润如水，簪尾云纹与祖祠中那枚半印相合后，纹路已经变了。原本细密如装饰的云线，在月光下缓缓浮起，竟化作一幅残缺地图。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0013",
+      "text": "地图上标着陆家祖祠、东院、药阁，以及城北一处被涂黑的山坳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0014",
+      "text": "更诡异的是，东院静室下方，有一枚极小的云纹标记。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0015",
+      "text": "陆沉渊按图所示，在石床下摸索片刻，指尖忽然触到一道凹槽。他将云纹半印嵌入，石床底部传来轻微机括声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0016",
+      "text": "咔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0017",
+      "text": "一方暗格打开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0018",
+      "text": "里面没有金银，只有一本薄册和一只灰玉小瓶。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0019",
+      "text": "薄册封面写着四字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0020",
+      "text": "《镇脉残篇》。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0021",
+      "text": "陆沉渊翻开第一页，瞳孔微缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0022",
+      "text": "这不是寻常功法，而是一门以肉身承载脉力、以痛苦锻开极限的古法。寻常开脉修士求稳，逐条开脉，温养气血；此法却反其道而行，以外药逼骨，以内息撞脉，再借天地之势镇住反噬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0023",
+      "text": "若成，同境无敌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0024",
+      "text": "若败，经脉尽断。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0025",
+      "text": "灰玉小瓶中，则是三滴暗金色药液。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0026",
+      "text": "瓶塞一开，整间静室都被厚重药香填满。陆沉渊体内镇天玄骨微微发烫，像沉睡的兽被唤醒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0027",
+      "text": "系统声随之响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0028",
+      "text": "【检测到古法残篇与镇天玄骨适配。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0029",
+      "text": "【可开启极限借势修炼。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0030",
+      "text": "【消耗：震惊值五百、显圣值一百、因果点一点。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0031",
+      "text": "【风险：脉损、骨裂、神魂反噬。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0032",
+      "text": "陆沉渊看着“因果点一点”几个字，神情微沉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0033",
+      "text": "因果点来得最难。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0034",
+      "text": "重生至今，他只在祖祠认骨时得过两点。系统所谓借势，借的不是凭空之力，而是天地、人心、旧因、未来果。每用一次，都会把命运推向更险处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0035",
+      "text": "但三日后是生死台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0036",
+      "text": "陆峥不会给他稳妥成长的时间。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0037",
+      "text": "“开启。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0038",
+      "text": "【极限借势修炼已开启。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0039",
+      "text": "【当前借势对象：镇天玄骨、母族云纹残印、陆家祖祠余威、二房反噬因果。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0040",
+      "text": "刹那间，静室内风声骤起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0041",
+      "text": "陆沉渊将三十枚开脉丹碾碎，混入烈性淬体药中，又倒入一滴暗金药液。药鼎之内，黑红色药汤翻滚如沸血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0042",
+      "text": "他脱去外袍，踏入鼎中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0043",
+      "text": "痛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0044",
+      "text": "第一瞬间，陆沉渊几乎听见皮肉被撕开的声音。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0045",
+      "text": "药力像无数细针钻入毛孔，又在骨缝中爆开。镇天玄骨被激发，胸口深处浮现出一缕玄黑光芒，沿着脊柱寸寸蔓延。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0046",
+      "text": "开脉八重的八条主脉同时震动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0047",
+      "text": "第九条主脉，却像一扇被铁锁封住的门。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0048",
+      "text": "陆沉渊咬住牙关，引药力冲击。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0049",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0050",
+      "text": "第一次冲击，血从他鼻间涌出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0051",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0052",
+      "text": "第二次冲击，肩骨裂出细纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0053",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0054",
+      "text": "第三次冲击，静室石壁浮现霜白裂痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0055",
+      "text": "系统疯狂提示。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0056",
+      "text": "【警告：脉压过载。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0057",
+      "text": "【警告：肉身承载接近极限。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0058",
+      "text": "【是否终止借势？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0059",
+      "text": "陆沉渊双目猩红：“不终止。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0060",
+      "text": "前世他就是终止得太多。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0061",
+      "text": "退一步，忍一时，等一个机会，盼一个公道。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0062",
+      "text": "最后等来的，是母亲遗物被夺，父亲旧部被清洗，他自己被林清雪踩着名声送入死局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0008_b0063",
+      "text": "这一世，他不等。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0064",
+      "text": "他要三日后所有人看见，陆家少主不是被族老会施舍出来的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0065",
+      "text": "是杀出来的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0066",
+      "text": "药鼎轰然炸裂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0067",
+      "text": "陆沉渊跌坐在地，浑身血雾蒸腾。第九条主脉终于被撕开一道细缝，狂暴药力涌入其中，却也带来撕心裂肺的反噬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0068",
+      "text": "就在此时，玉簪忽然亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0069",
+      "text": "静室中的月光扭曲，一道模糊身影从云纹中浮现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0070",
+      "text": "那是一个白发道人，眉目清癯，衣袍上绣着流云古纹。他站在陆沉渊面前，像隔着万年风霜看他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0071",
+      "text": "“镇天玄骨，不该落在陆家。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0072",
+      "text": "声音入耳，陆沉渊神魂一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0073",
+      "text": "“云衡真人？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": [
+        "yunheng_zhenren"
+      ]
+    },
+    {
+      "id": "ch0008_b0074",
+      "text": "这个名字不是他今生听来的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0075",
+      "text": "而是前世临死前，林清雪与天玄书院长老谈话时提过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0008_b0076",
+      "text": "云衡真人，三百年前云氏最后一位大修，传闻死于镇天之乱。他留下的云纹印，能开启一处连天玄书院都觊觎的秘藏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "yunheng_zhenren"
+      ]
+    },
+    {
+      "id": "ch0008_b0077",
+      "text": "白发道人没有回答，只抬手点向陆沉渊眉心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0078",
+      "text": "一瞬间，陆沉渊看见无数破碎画面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0079",
+      "text": "云海崩塌，黑塔镇天。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0080",
+      "text": "一个女子抱着婴孩逃入青岚城，发间玉簪染血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0081",
+      "text": "陆镇南持剑断后，对她说：“若渊儿活着，陆家可弃，命不可弃。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0082",
+      "text": "下一幕，是前世的自己跪在雨中，林清雪撑伞而立。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0008_b0083",
+      "text": "她声音淡漠：“陆沉渊，你的骨，本就不是你的。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0084",
+      "text": "画面轰然破碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0085",
+      "text": "陆沉渊猛地睁眼，眉心却多了一道云纹灼痕。系统声变得断续刺耳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0086",
+      "text": "【检测到前世因果介入。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0087",
+      "text": "【万象借势系统出现反噬。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0088",
+      "text": "【因果点不足，无法完全镇压。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0089",
+      "text": "【当前选择：一，终止突破，保留肉身；二，透支显圣值，强行凝门；三，燃烧震惊值，借未来杀势。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0090",
+      "text": "陆沉渊喘息沉重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0091",
+      "text": "显圣值是他对外显威的根基，透支之后，三日后未必能压住场面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0092",
+      "text": "借未来杀势，则意味着把生死台上的杀机提前引入体内。若他三日后杀不了陆峥，这股杀势就会反噬自身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0093",
+      "text": "陆沉渊低笑一声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0094",
+      "text": "“系统，你怕什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0095",
+      "text": "【系统无惧。提示：宿主死亡，系统归寂。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0096",
+      "text": "“那就借未来杀势。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0097",
+      "text": "【消耗震惊值一千二百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0098",
+      "text": "【未来杀势借入。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0099",
+      "text": "静室温度骤降。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0100",
+      "text": "陆沉渊仿佛听见三日后的钟声，听见人群惊呼，听见陆峥长枪破空，也听见自己骨中玄力苏醒时的低鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0101",
+      "text": "一缕看不见的杀意从虚无中落下，贯入第九条主脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0102",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0103",
+      "text": "第九脉开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0104",
+      "text": "陆沉渊体内九条主脉同时亮起，玄黑色骨光与云纹月华交织，竟在脉络尽头凝成一座模糊的门户。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0105",
+      "text": "凝脉门槛。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0106",
+      "text": "只差一步，便可越过开脉，踏入更高境界。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0107",
+      "text": "但这一步不能现在踏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0108",
+      "text": "陆沉渊强行压住体内奔涌之力，掌心按地，指缝间渗出血来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0109",
+      "text": "太快了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0110",
+      "text": "若此刻强入凝脉，根基必裂。三日后他要的是赢，不是燃尽自己给陆承远看一场烟火。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0111",
+      "text": "他闭目调息，按《镇脉残篇》运转九脉。每一息，都像用刀在体内刻阵。每一轮周天，都有碎骨般的痛楚传来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0112",
+      "text": "第一日，陆沉渊将烈性药力尽数炼入骨中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0113",
+      "text": "第二日，他以玉簪地图中的云纹法门，修补第九脉裂痕，并从灰玉瓶中取第二滴药液，洗去爆冲留下的暗伤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0114",
+      "text": "第三日黎明前，他站在院中，朝祖祠方向一拜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0115",
+      "text": "不是拜族老。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0116",
+      "text": "是拜父母旧因，拜镇天玄骨给他的这一线生机。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0117",
+      "text": "福伯守在院外三日未眠，见静室门开，急忙上前，却在看清陆沉渊的一瞬间怔住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0118",
+      "text": "少主变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0119",
+      "text": "仍是那张年轻面容，可眉眼间的稚气彻底褪去。九脉气息被他压得极深，不外露一丝，却让人只觉面前站着的不是少年，而是一柄未出鞘的重剑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0120",
+      "text": "“少主，你……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0121",
+      "text": "陆沉渊抬手，止住他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0122",
+      "text": "“二房动静如何？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0123",
+      "text": "福伯压低声音：“陆峥这三日一直在二房武院闭关。陆承远请了林家的人入府，据说还送来一枚破脉丹。族中许多人已经押陆峥胜，连几位族老都说，少主若不去，也算识时务。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0124",
+      "text": "“破脉丹。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0125",
+      "text": "陆沉渊笑了笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0126",
+      "text": "难怪陆承远敢开生死台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0127",
+      "text": "破脉丹不是助人突破，而是强行撕开对手脉门。若陆峥本就开脉九重，再借此丹，短时间内能触到凝脉边缘。以此杀一个刚入开脉八重的少主，足够稳妥。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0128",
+      "text": "可惜。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0129",
+      "text": "他们算的是昨日的陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0130",
+      "text": "福伯犹豫道：“少主，生死台不同大比。上台之后，除非一方认输且对方愿停，否则旁人不得插手。陆承远摆明要你的命。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0131",
+      "text": "陆沉渊系上少主令，又将母亲玉簪收入怀中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0132",
+      "text": "“他要我的命，我要他的根。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0133",
+      "text": "福伯一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0134",
+      "text": "远处，陆家生死台方向忽然传来沉重钟声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0135",
+      "text": "咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0136",
+      "text": "第一声，惊起满城晨雾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0137",
+      "text": "咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0138",
+      "text": "第二声，陆家各院门扉大开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0139",
+      "text": "咚！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0140",
+      "text": "第三声，青岚城中不少势力都抬头望向陆府。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0141",
+      "text": "生死台钟响，陆家少主赴约。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0142",
+      "text": "陆沉渊走出东院，晨光落在他肩头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0143",
+      "text": "系统声低低响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0144",
+      "text": "【当前境界：开脉九重。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0145",
+      "text": "【凝脉门槛：已触及。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0146",
+      "text": "【未来杀势剩余：三成。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0147",
+      "text": "【提示：若三日借势无法闭环，反噬将在日落后降临。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0148",
+      "text": "陆沉渊没有停步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0149",
+      "text": "长街尽头，生死台上，陆峥已持枪而立。陆承远坐在高台，林清雪白衣胜雪，族老们神情各异。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lin_qingxue",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0150",
+      "text": "无数目光汇聚而来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0151",
+      "text": "陆峥长枪一顿，台面裂纹蔓延。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0152",
+      "text": "“陆沉渊，上来受死！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0153",
+      "text": "陆沉渊抬眸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0008_b0154",
+      "text": "下一刻，他一步踏上生死台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0008_b0155",
+      "text": "九脉无声齐鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    }
+  ]
+}

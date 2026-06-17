@@ -1,0 +1,1276 @@
+{
+  "id": "ch0023",
+  "index": 23,
+  "title": "第二十三章 贡献殿打脸",
+  "beatCount": 150,
+  "beats": [
+    {
+      "id": "ch0023_b0001",
+      "text": "贡献殿前，人声比往日更密。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0002",
+      "text": "陆沉渊踏上石阶时，殿内原本嘈杂的议论声忽然低了半截。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0003",
+      "text": "昨日外门挑战榜上，他从杂役身份杀进前五十，名字挂在榜石之上。这个位置并不算高，可他从杂役院走出来的方式太刺眼，足以让很多人睡不安稳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0004",
+      "text": "有人不服，有人忌惮，也有人等着看他什么时候被踩回泥里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0005",
+      "text": "陆沉渊神色平静，肩上扛着一只灰布包裹。包裹不大，却沉得石阶都被压出轻响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0006",
+      "text": "“他来交任务？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0007",
+      "text": "“一个刚恢复外门身份的人，能交什么高阶任务？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0008",
+      "text": "“听说他这两日一直在废矿区搬石。莫不是搬了几块烂矿来换贡献？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0009",
+      "text": "议论声里，贡献殿执事台后，一名青衣弟子抬起头，眼底闪过冷意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0010",
+      "text": "赵平。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0011",
+      "text": "赵岳族弟，也是贡献殿负责核验材料的外门管事之一。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0012",
+      "text": "昨夜赵岳已来过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0013",
+      "text": "叶寒的意思很简单：废不了陆沉渊，也要让他寸步难行。挑战榜可以靠剑赢，宗门资源却要靠贡献换。只要贡献殿压住他，丹药、功法、修补兵器的资格，他一样拿不到。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0014",
+      "text": "陆沉渊走到柜台前，将包裹放下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0015",
+      "text": "“交任务。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0016",
+      "text": "赵平慢条斯理地翻开任务册：“姓名。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0017",
+      "text": "“陆沉渊。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0018",
+      "text": "殿内又静了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0019",
+      "text": "赵平嘴角微挑，“原来是陆师弟。昨日刚上榜，今日就急着来换贡献，倒是勤勉。任务牌拿来。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0020",
+      "text": "陆沉渊递出一枚木牌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0021",
+      "text": "赵平扫了一眼，眉头立刻皱起，“废矿区清理任务？搬运坍塌矿石三百斤，基础贡献二十。你拿这个来交？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0022",
+      "text": "“任务牌只是一项。我另有材料上缴。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0023",
+      "text": "“材料？”赵平笑了，“废矿区早被掏空几十年，连碎灵砂都淘不出半两。陆师弟，挑战榜上赢了几场，莫不是以为自己眼力也能压过贡献殿？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0024",
+      "text": "陆沉渊没有争辩，只抬手解开灰布。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0025",
+      "text": "包裹里滚出几块乌黑矿石，表面粗糙，看上去与废矿区随处可见的焦石没有区别。唯独其中一块石心裂开半寸，隐隐透出暗金色纹路，像沉睡在灰烬里的火线。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0026",
+      "text": "旁边几个弟子看了一眼，嗤笑出声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0027",
+      "text": "“这不就是烂玄铁渣？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0028",
+      "text": "“废矿搬来的东西，也敢说高阶？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0029",
+      "text": "赵平用铁尺敲了敲矿石，发出沉闷声响。他甚至没有拿起细看，便在册上写下一行字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0030",
+      "text": "“废矿残渣，杂质过重，可按玄铁下品碎料计。五块，共计三点贡献。加上清理任务二十点，总计二十三点。”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0031",
+      "text": "他说完，将一枚贡献玉牌随手推来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0032",
+      "text": "陆沉渊没有接。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0033",
+      "text": "“宗规第七卷，贡献核验篇第三条。凡弟子上缴疑似高阶材料，核验人必须以三步法鉴定：观纹、试性、验灵。若未经三步定品便压级入库，按侵吞宗门资源论处。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0034",
+      "text": "赵平手中铁尺一顿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0035",
+      "text": "殿内众人也安静下来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0036",
+      "text": "宗规这种东西，大多数弟子只背处罚条款，没人会闲到去翻贡献核验篇。可陆沉渊从杂役院起家，靠的就是宗规两字把人一寸寸压回去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0037",
+      "text": "赵平脸色微沉，“陆师弟，你这是在教我做事？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0038",
+      "text": "“不是教你。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0039",
+      "text": "陆沉渊抬眼，“是在提醒你别把手伸进不该伸的账里。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0040",
+      "text": "赵平冷笑，“好，那我便按规矩验给你看。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0041",
+      "text": "他取出测灵针，随手扎入第一块矿石。测灵针微微一亮，旋即黯淡。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0042",
+      "text": "赵平立刻道：“灵性微弱，下品。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0043",
+      "text": "“你验的是外层焦壳。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0044",
+      "text": "“矿石外层也是矿石的一部分。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0045",
+      "text": "陆沉渊伸手，从台上取过小锤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0046",
+      "text": "赵平喝道：“谁准你动贡献殿器具？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0047",
+      "text": "“宗规第七卷第四条，上缴者若对核验结果有异，可请求公开复验，并可自行剖开样材，但不得损毁核心。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0048",
+      "text": "陆沉渊看着他，“我请求公开复验。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0049",
+      "text": "殿内不少弟子倒吸一口冷气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0050",
+      "text": "公开复验不是小事。一旦闹开，若赵平真压了材料，不但要赔贡献，还要记过。若陆沉渊胡搅蛮缠，也会被扣恶意扰殿之罪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0051",
+      "text": "赵平眼神发寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0052",
+      "text": "他本想随便压价，将东西收走。赵岳说过，陆沉渊最近在废矿区似乎发现了什么，不管是什么，先扣下来再说。可他没想到陆沉渊一上来就掀宗规。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0053",
+      "text": "“复验便复验。”赵平咬牙，“若验不出高阶材料，你今日扰乱贡献殿，当场扣一百贡献。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0054",
+      "text": "“可以。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0055",
+      "text": "陆沉渊举锤落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0056",
+      "text": "咔。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0057",
+      "text": "焦黑矿壳裂开，一道暗金色脉络骤然亮起，殿内温度仿佛瞬间升高。那纹路不是普通矿纹，而像雷火烧过后的细小符线，彼此交错，在石心深处凝成天然印痕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0058",
+      "text": "测灵针尚未靠近，便嗡地一声弹起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0059",
+      "text": "赵平脸色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0060",
+      "text": "旁边一名老执役原本半闭着眼，此时猛地睁开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0061",
+      "text": "“拿鉴灵盘来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0062",
+      "text": "赵平手指一僵，“王执役，不过是些矿渣……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0063",
+      "text": "“拿来。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0064",
+      "text": "老执役声音不高，却压得全殿一静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0065",
+      "text": "鉴灵盘取来，矿心放上去的一瞬，三圈纹路同时亮起，最外圈呈赤色，中圈呈金色，内圈则闪过一缕黑雷般的幽光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0066",
+      "text": "王执役站起身，神色凝重，“雷火玄金？不对，外壳焦死，内蕴雷纹，这是雷烬玄金。此物可修补受损剑器，也可炼制破脉阵钉。按宗门旧价，一两三百贡献。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0067",
+      "text": "殿内一片哗然。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0068",
+      "text": "三百贡献一两。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0069",
+      "text": "陆沉渊包裹里少说有数斤，就算扣去废壳，也不是二十三点能打发的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0070",
+      "text": "赵平额角渗出冷汗，“王执役，此物尚需复核，不能立刻定价。况且废矿区本属宗门旧产，弟子搬运所得是否可独占贡献，还需另议。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0071",
+      "text": "陆沉渊淡淡道：“宗规第五卷，任务归属篇第十一条。宗门废弃区域内，弟子执行清理任务时发现可用材料，若非任务指定回收物，按发现上缴计贡献，宗门保留优先收购权。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0072",
+      "text": "他又取出一张拓印纸，放在台面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0073",
+      "text": "“这是废矿区第七坑的搬运记录。今日卯时，杂役院三名监工签了石车数目。此矿出自我负责的第三车，第七坑封条未破，任务牌在此。若有人想说我私带外物入宗，可以查守山登记。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0074",
+      "text": "证据一层压一层。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0075",
+      "text": "赵平想压价，陆沉渊便把账铺开；赵平想扣归属，陆沉渊便拿宗规封口；赵平想拖延，陆沉渊便把任务记录和封条摆上台面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0076",
+      "text": "这不是来交任务。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0077",
+      "text": "这是来清账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0078",
+      "text": "王执役看了赵平一眼，神情里已有不满，“公开复验成立。陆沉渊上缴雷烬玄金，先称重。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0079",
+      "text": "称重结果很快出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0080",
+      "text": "可用矿心共一斤六两，按旧价折算四千八百贡献。因雷烬玄金多年未见，另加稀缺材料补偿一千贡献。清理任务二十贡献照计。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0081",
+      "text": "合计五千八百二十贡献。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0082",
+      "text": "数字报出，贡献殿内所有弟子都沉默了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0083",
+      "text": "一个刚从杂役院升回来的外门弟子，一次上缴，抵得上许多外门弟子苦熬一年。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0084",
+      "text": "赵平手指发抖，将贡献录入玉牌时，脸上的笑已挂不住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0085",
+      "text": "陆沉渊接过玉牌，却没有离开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0086",
+      "text": "“还有一件。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0087",
+      "text": "赵平瞳孔一缩，“你还要交什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0088",
+      "text": "陆沉渊从包裹最底下取出一块巴掌大的黑色石片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0089",
+      "text": "石片形似断碑，边缘残缺，表面覆盖厚厚石垢。方才雷烬玄金光芒太盛，众人都没注意到它。此刻单独取出，反倒显得平平无奇。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0090",
+      "text": "可陆沉渊眼中，系统界面已浮现一行冷光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0091",
+      "text": "【鉴宝术触发。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0092",
+      "text": "【物品：尘封秘境钥印残片。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0093",
+      "text": "【状态：被雷烬玄金外壳遮蔽，需以开脉气血激活。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0094",
+      "text": "【用途：可开启青岚旧脉封存小秘境之一。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0095",
+      "text": "【清算提示：此物涉及外门资源暗账，若公开鉴出，可借势反制。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0096",
+      "text": "赵平压着怒意道：“这东西一看就是废石，陆沉渊，你还想闹到什么时候？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0097",
+      "text": "“按疑似古物核验。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0098",
+      "text": "“古物？”赵平几乎笑出声，“废矿区挖出来的破石片，你说是古物？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0099",
+      "text": "陆沉渊没有看他，只看向王执役，“宗规第九卷，旧物封存篇第二条，凡带有阵纹、宗印、秘钥痕迹之物，不得由普通核验人私自定废，需送长老阁或由执役公开初验。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0100",
+      "text": "王执役皱眉接过石片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0101",
+      "text": "他看了片刻，摇头，“外纹被封死，看不出。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0102",
+      "text": "赵平立刻道：“既看不出，便不能按古物计。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0103",
+      "text": "陆沉渊伸手按在石片上，“我可激活。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "law_enforcement_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0104",
+      "text": "赵平冷声道：“若你毁了宗门旧物……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0105",
+      "text": "“毁了我赔。若激活，你刚才试图将宗门秘钥定作废石，该怎么算？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0106",
+      "text": "赵平话音卡住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0107",
+      "text": "陆沉渊掌心气血缓缓涌动。开脉后的血气沿着石片边缘一寸寸渗入。黑色石垢起初毫无反应，数息后，一缕青金色光线从裂缝中亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0108",
+      "text": "嗡！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0109",
+      "text": "石片震鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0110",
+      "text": "贡献殿屋梁上的风铃无风自响，殿后封存柜中，数枚旧阵牌同时发出轻颤。石片表面灰壳脱落，显出半枚古老钥印。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0111",
+      "text": "钥印中央刻着一个残缺的“岚”字，周围三道云纹环绕，最底部还有一线雷痕，与雷烬玄金的纹路遥相呼应。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0112",
+      "text": "王执役脸色大变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0113",
+      "text": "“青岚旧脉钥印！”",
+      "kind": "dialogue",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0114",
+      "text": "殿内彻底炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0115",
+      "text": "青岚宗立宗之前，山中曾有旧脉秘境，后来因阵法残破封存多年。宗门每隔数年都会派人寻找钥印，却始终无果。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0116",
+      "text": "如今，一枚钥印残片竟从废矿区被陆沉渊搬了出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0117",
+      "text": "赵平脸色惨白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0118",
+      "text": "这已经不是压价的问题。若真被追查，废矿区为何多年无人细查、贡献殿为何想把钥印定废、赵岳又为何提前吩咐扣下陆沉渊所得，都会被拉到明面上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0119",
+      "text": "陆沉渊收回手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0120",
+      "text": "系统提示同时响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0121",
+      "text": "【公开鉴出尘封秘境钥印，借势成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0122",
+      "text": "【获得震惊值：2600。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0123",
+      "text": "【获得显圣值：900。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0124",
+      "text": "【获得因果点：1。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0125",
+      "text": "【当前因果线：青岚旧脉秘境。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0126",
+      "text": "王执役深吸一口气，将钥印放入封阵盒，“此物暂封贡献殿，由长老阁定夺。陆沉渊发现并上缴钥印，按宗门旧例，记特殊贡献。初记三千贡献，后续秘境若开启，再行补偿进入名额。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0127",
+      "text": "“进入名额”四字一出，所有人的眼神都变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0128",
+      "text": "贡献再多，也只是资源。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0129",
+      "text": "秘境名额，却可能改命。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0130",
+      "text": "赵平张了张嘴，“王执役，此事是否该先请示赵师兄……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0131",
+      "text": "王执役冷眼扫去，“贡献殿之事，何时要先请示外门弟子？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0132",
+      "text": "赵平瞬间噤声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0133",
+      "text": "陆沉渊拿回贡献玉牌，上面的数字已变成八千八百二十。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0134",
+      "text": "从二十三点，到八千八百二十。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0135",
+      "text": "整个贡献殿的脸，被这串数字抽得脆响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0136",
+      "text": "陆沉渊转身离开，经过赵平面前时，只淡淡道：“账不是你想压就能压。下一次伸手前，先看清楚那是不是账本。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0137",
+      "text": "赵平拳头攥紧，却一句话也说不出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0138",
+      "text": "殿外阳光刺眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0139",
+      "text": "陆沉渊刚走下石阶，远处廊柱后，一名弟子匆匆转身离去。那人腰间挂着赵岳一系的青纹佩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0140",
+      "text": "更远处，外门别院。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0141",
+      "text": "赵岳接到消息时，手中茶盏被捏出裂纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0142",
+      "text": "“雷烬玄金，青岚旧脉钥印……他一个杂役出身，凭什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0143",
+      "text": "旁边弟子低声道：“叶师兄那边也已知道。叶师兄说，不能再拖。剑台切磋，许青锋会出手。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0144",
+      "text": "赵岳眼中寒意翻涌。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0145",
+      "text": "许青锋，外门成名剑修，挑战榜第三十七。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0146",
+      "text": "剑出不留情。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_zong_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0147",
+      "text": "赵岳望向贡献殿方向，声音森冷：“秘境线索，他拿不稳。明日剑台，让他连拿剑的手都留下。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0148",
+      "text": "与此同时，陆沉渊走过石桥，玄烬残剑在背后轻轻震了一下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0023_b0149",
+      "text": "像是在回应即将到来的杀局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0023_b0150",
+      "text": "他没有回头，只低声道：“来得正好。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    }
+  ]
+}

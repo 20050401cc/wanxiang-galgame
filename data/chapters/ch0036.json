@@ -1,0 +1,2131 @@
+{
+  "id": "ch0036",
+  "index": 36,
+  "title": "第三十六章 前世残影",
+  "beatCount": 246,
+  "beats": [
+    {
+      "id": "ch0036_b0001",
+      "text": "雾气吞没陆沉渊的瞬间，外界所有声音都消失了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0002",
+      "text": "赤云门弟子的哀嚎、散修的惊呼、禁区线外的风声，仿佛被一层厚重水幕隔绝。陆沉渊只听见自己的心跳，一下，又一下，沉得像战鼓。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0003",
+      "text": "禁区深处没有路。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0004",
+      "text": "只有一片黑色石林。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0005",
+      "text": "每一根石柱都像被雷火劈过，表面布满扭曲纹路。赤月光辉在这里变得极淡，像被某种更古老的黑暗吞食，只剩薄薄一层血雾贴在地面流动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0006",
+      "text": "陆沉渊走了十步，脚下忽然传来碎裂声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0007",
+      "text": "他低头，看见一块残破玉佩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0008",
+      "text": "玉佩只有半枚，边缘焦黑，上面刻着一个模糊的“镇”字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0009",
+      "text": "陆沉渊的瞳孔微微一缩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0010",
+      "text": "陆镇南的玉佩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0011",
+      "text": "不，这不是现在的玉佩。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0012",
+      "text": "现在陆镇南贴身佩戴的那枚仍在陆家，完整无缺。这一块，带着陈旧血痕，像是从某个已经发生过的夜晚里掉出来的。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "qin_wuque"
+      ]
+    },
+    {
+      "id": "ch0036_b0013",
+      "text": "系统提示响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0014",
+      "text": "【检测到前世因果残片：陆镇南遗佩。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0015",
+      "text": "【是否消耗因果点八十，开启残影回溯？】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0016",
+      "text": "陆沉渊指尖拂过玉佩裂口，声音低沉：“开启。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0017",
+      "text": "黑色石林猛地一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0018",
+      "text": "周围雾气倒卷，赤月光芒凝成一道道残破画面，在陆沉渊四周铺开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0019",
+      "text": "他看见了陆家。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0020",
+      "text": "不是这一世仍有生机的陆家，而是上一世被血火浸透的陆家。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0021",
+      "text": "夜色沉沉，院墙倒塌，灯笼被风吹得乱晃。地面上横七竖八倒着护卫和仆从，火焰从库房蔓延到祠堂，浓烟里有人哭喊，有人求饶，也有人在笑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0022",
+      "text": "年轻的陆沉渊站在庭院中央，脸色惨白，身上经脉紊乱，像刚从重伤中醒来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0023",
+      "text": "他想冲向主厅，却被两个黑衣人按住肩膀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "qinglan_city_night",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0024",
+      "text": "“别挣扎了。”其中一人冷笑，“陆家主已经签了认罪书，陆家勾结秘境邪祟，罪证确凿。你这个少主，活着也是污点。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0025",
+      "text": "前世的陆沉渊嘶声道：“胡说！我父亲绝不会签那种东西！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0026",
+      "text": "黑衣人掐住他的脖子，将他按在地上，逼他看向主厅方向。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0027",
+      "text": "门内，陆镇南跪坐在血泊里，背脊仍然挺直。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0028",
+      "text": "他面前站着一名灰袍执事，手里拿着一卷染血文书。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0029",
+      "text": "“陆家主，你若早些认命，何至于此？”灰袍执事叹息一声，语气却没有半分怜悯，“把赤月秘境所得交出来，再把陆沉渊的命格转契画押，至少能给陆家留几条旁支血脉。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0030",
+      "text": "陆镇南抬头，满脸血污，眼神却冷得可怕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0031",
+      "text": "“我陆镇南一生行事，无愧天地。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0032",
+      "text": "“你们要陆家的东西，可以抢。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0033",
+      "text": "“要我儿的命，不行。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0034",
+      "text": "灰袍执事笑了笑，“可惜，你说了不算。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0035",
+      "text": "他说完，侧身让出一道影子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0036",
+      "text": "画面在这里忽然模糊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0037",
+      "text": "陆沉渊想看清来人，却发现那人脸上像蒙着一层水雾，只能看见修长身形和袖口银纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0038",
+      "text": "那人没有开口，只抬手点向陆镇南眉心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0039",
+      "text": "陆镇南周身灵力骤然暴起，竟在重伤之下强行震退两名黑衣人。他回头看向庭院中的前世陆沉渊，嘴唇动了动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0040",
+      "text": "声音被残影吞掉了一半。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0041",
+      "text": "陆沉渊只听清四个字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0042",
+      "text": "“不要信……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0043",
+      "text": "下一刻，银纹袖口落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0044",
+      "text": "画面炸成血色碎片。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0045",
+      "text": "陆沉渊站在石林中，指节捏得发白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0046",
+      "text": "他一直知道上一世陆家败得蹊跷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0047",
+      "text": "可他不知道，陆镇南到死都没有认罪，更没有出卖他。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0048",
+      "text": "上一世那些人告诉他，是陆镇南为了保陆家旁支，亲手签下转契文书，将他的命数交出去。那句话像钉子一样扎在他心里，让他在很长一段时间里怨过自己的父亲。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0049",
+      "text": "如今残影揭开一角。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0050",
+      "text": "所谓认罪，是伪造。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0051",
+      "text": "所谓转契，是强逼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0052",
+      "text": "所谓父亲舍子，是有人故意埋进他心里的毒刺。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0053",
+      "text": "【检测到宿主心神波动剧烈。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0054",
+      "text": "【建议稳定心神。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0055",
+      "text": "陆沉渊睁眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0056",
+      "text": "“继续。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0057",
+      "text": "【残片强度不足，需补足因果触媒。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0058",
+      "text": "“用震惊值。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0059",
+      "text": "系统沉默一瞬，随后残破画面再次亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0060",
+      "text": "这一次，他看见赤月秘境。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0061",
+      "text": "上一世的自己同样来到过核心区，只是那时的他没有万象借势系统，也没有重生后的警觉。他被人牵引着，一路避开真正的机缘，却撞进一处早已布好的死局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0062",
+      "text": "画面中，前世陆沉渊站在一座血池前，身边有几名同行者。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0063",
+      "text": "其中有赤云门的人，也有秦无极麾下暗线，还有一个白衣女子的背影。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0064",
+      "text": "林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0065",
+      "text": "陆沉渊的目光冷了几分，却没有立刻下结论。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0066",
+      "text": "因为残影里的林清雪站得很远，像是被隔在局外，又像是故意保持距离。她手中握着一封信，信纸已经被揉皱。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0067",
+      "text": "赤云门一名年轻弟子笑着说：“陆公子，你机缘到了。只要进入血池，便能洗去旧伤，重塑脉轮。林姑娘已经替你问过，这池中没有杀阵。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0068",
+      "text": "前世陆沉渊看向林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0069",
+      "text": "林清雪背对着他，没有说话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0070",
+      "text": "赤云门弟子催促：“怎么，连林姑娘都不信？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0071",
+      "text": "前世陆沉渊沉默片刻，终究踏入血池。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0072",
+      "text": "陆沉渊在残影外看着这一幕，眼中没有怜悯，只有冷意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0073",
+      "text": "他知道接下来会发生什么。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0074",
+      "text": "血池不是机缘，是命数剥离阵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0075",
+      "text": "前世的他刚入池中，池底阵纹便亮起，血水化作无数细针刺入体内。他痛得跪倒，却发现自己的灵力、气血、运势都在被某种力量抽走。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0076",
+      "text": "赤云门弟子脸上的笑意终于撕开伪装。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0077",
+      "text": "“陆公子，别怪我们。有人出价太高。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0078",
+      "text": "前世陆沉渊挣扎着看向林清雪：“你也知道？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0079",
+      "text": "林清雪肩膀一颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0080",
+      "text": "她回过头，脸色苍白，眼底满是惊愕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0081",
+      "text": "“这不是我说的池子……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0082",
+      "text": "赤云门弟子嗤笑：“林姑娘，现在说这些有什么用？你那封信，不就是让他来这里吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0083",
+      "text": "林清雪低头看向手中信纸，像是终于意识到什么，猛地撕开信封内层。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0084",
+      "text": "里面掉出第二张薄纸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0085",
+      "text": "薄纸上只有一句话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0086",
+      "text": "引陆沉渊入池，旧债两清。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0087",
+      "text": "落款被残影抹去，只有一枚模糊雷纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0088",
+      "text": "前世陆沉渊没有看见那张纸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0089",
+      "text": "因为血池阵法已经彻底发动，他的视线被血水淹没。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0090",
+      "text": "画面外，陆沉渊面无表情。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0091",
+      "text": "这一角真相，比单纯的背叛更恶心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0092",
+      "text": "有人借林清雪的手送信，又借赤云门的口逼他相信。林清雪未必是主谋，却也绝不是干净的旁观者。她踏入局中，便给了别人利用她的机会。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0093",
+      "text": "清算不是只杀握刀的人。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0094",
+      "text": "递刀、藏刀、装作看不见刀的人，都要记账。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0095",
+      "text": "血池画面继续晃动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0096",
+      "text": "前世陆沉渊在阵中痛苦挣扎，体内被剥离出的命数化作一缕缕金光，汇入池底一枚黑色珠子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0097",
+      "text": "赤云门弟子恭敬跪下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0098",
+      "text": "黑金斗篷人从阴影里走出，正是先前死在雷霆反噬下的那名秦氏暗卫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0099",
+      "text": "上一世的他没有死。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0100",
+      "text": "他取出黑珠，低声道：“少主命格已剥，但还缺最后一道亲族血契。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0101",
+      "text": "赤云门弟子问：“陆镇南那边呢？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0102",
+      "text": "暗卫淡淡道：“已经在办。只要他不肯签，就让他背上勾结秘境邪祟的罪名。死人不会辩解，活人只会相信胜者给出的文书。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0103",
+      "text": "前世陆沉渊的眼神在血水中几乎涣散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0104",
+      "text": "他听见了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0105",
+      "text": "却无力阻止。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0106",
+      "text": "就在这时，血池外的林清雪忽然出手，一剑斩向阵纹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0107",
+      "text": "赤云门弟子大怒：“林清雪，你疯了？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0108",
+      "text": "林清雪脸色苍白，却咬牙道：“我只是让他来问机缘，不是让你们害他！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0109",
+      "text": "暗卫冷冷看她一眼：“林姑娘，别忘了你的处境。你以为没有秦公子点头，你能在秘境里活到现在？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0110",
+      "text": "林清雪手中长剑微颤。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0111",
+      "text": "那一瞬间的迟疑，让赤云门弟子抓住机会，一掌将她震退。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0112",
+      "text": "阵纹重新闭合。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0113",
+      "text": "前世陆沉渊看见她被打落在地，也看见她没有再冲上来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0114",
+      "text": "画面到这里开始崩碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0115",
+      "text": "陆沉渊站在黑色石林中，久久没有说话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0116",
+      "text": "林清雪上一世不是纯粹的刽子手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0117",
+      "text": "但这并不能洗掉她的因果。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0118",
+      "text": "她的迟疑，曾让阵纹闭合。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0119",
+      "text": "她的信，曾让他踏入血池。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0120",
+      "text": "她的所谓无心，成了别人精准落子的桥。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0121",
+      "text": "陆沉渊抬手，掌心浮现一缕残破金光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0122",
+      "text": "那是从前世血池里剥离出的命数残影，被万象借势系统捕捉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0123",
+      "text": "【检测到前世被剥离命数残痕。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0124",
+      "text": "【可转化为因果点二百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0125",
+      "text": "【可保留为清算凭证，用于后续锁定相关人物因果。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0126",
+      "text": "陆沉渊没有犹豫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0127",
+      "text": "“保留。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0128",
+      "text": "因果点可以再赚。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0129",
+      "text": "这道凭证，能让他在未来某一天，把账算到真正该算的人头上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0130",
+      "text": "黑色石林深处，古镜忽然完全亮起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0131",
+      "text": "镜面里浮现出第三段画面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0132",
+      "text": "这段画面极短。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0133",
+      "text": "却让陆沉渊周身气息骤然凝固。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0134",
+      "text": "他看见前世的自己跪在一座高台之下，浑身伤痕，命数枯竭，像一盏即将熄灭的灯。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0135",
+      "text": "高台上，秦无极负手而立，身后雷纹如云。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0136",
+      "text": "但秦无极身旁，还有一道更模糊的影子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0137",
+      "text": "那影子比秦无极站得更高，只露出半截衣角，像从命运暗处伸出的一只手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0138",
+      "text": "前世陆沉渊抬头，声音嘶哑：“为什么是我？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0139",
+      "text": "秦无极淡淡道：“因为你合适。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0140",
+      "text": "“陆家的旧脉，赤月的钥匙，陆镇南的骨气，还有你那点可笑的不甘，都正好能填进局里。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0141",
+      "text": "前世陆沉渊惨笑：“所以我这一生，从开局就是你们算好的？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0142",
+      "text": "秦无极没有回答。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0143",
+      "text": "他身旁那道模糊影子却轻轻抬手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0144",
+      "text": "画面骤然出现大片裂纹，声音断断续续。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0145",
+      "text": "“不是一生……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0146",
+      "text": "“是许多次……”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0147",
+      "text": "陆沉渊猛地向前一步。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0148",
+      "text": "“许多次是什么意思？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0149",
+      "text": "古镜剧烈震动，镜面裂开。那道模糊影子似乎察觉到有人在回溯，隔着前世残影，缓缓转过头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0150",
+      "text": "没有五官。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0151",
+      "text": "只有一片空白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0152",
+      "text": "可陆沉渊却感到一股寒意从脊背升起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0153",
+      "text": "不是怕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0154",
+      "text": "而是身体本能记住了某种曾经压碎他的力量。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0155",
+      "text": "下一刻，古镜炸裂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0156",
+      "text": "黑色石林中掀起狂风，残影全部崩散。陆沉渊被震退半步，嘴角溢出一丝血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0157",
+      "text": "【警告：前世残影遭未知高阶因果遮断。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0158",
+      "text": "【警告：继续强行回溯将导致心神损伤。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0159",
+      "text": "【已自动终止。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0160",
+      "text": "陆沉渊擦去嘴角血迹，眼神阴沉如深渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0161",
+      "text": "许多次。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0162",
+      "text": "这三个字，比任何阴谋都更重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0163",
+      "text": "如果那道影子说的是真的，上一世的坑害或许不是单独一次算计，而是一张更早、更深的网。秦无极看似高高在上，也可能只是网中较大的执棋者之一。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0164",
+      "text": "但这不重要。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0165",
+      "text": "陆沉渊不会因为敌人藏得更深，就停下清算。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0166",
+      "text": "账本可以一页页翻。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0167",
+      "text": "刀可以一层层剥。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0168",
+      "text": "先从看得见的人开始。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0169",
+      "text": "赤云门，秦氏暗卫，林清雪的那封信，陆镇南被伪造的认罪书，血池里的命数剥离阵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0170",
+      "text": "这些已经够了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0171",
+      "text": "陆沉渊缓缓抬头，看向石林尽头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0172",
+      "text": "那里有一座半塌的祭台，祭台中央插着一枚黑色断钉。断钉上缠着几缕金色命数残痕，正在与他掌心的凭证共鸣。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0173",
+      "text": "【检测到前世清算凭证关联物：镇命钉。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0174",
+      "text": "【作用：曾用于固定宿主命数剥离阵的副钉之一。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0175",
+      "text": "【可收取。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0176",
+      "text": "陆沉渊走上祭台。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0177",
+      "text": "断钉周围浮现出一道防护禁制，赤黑色符纹凝成一张人脸，发出尖锐笑声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0178",
+      "text": "“后来者，命数已定，何必挣扎？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0179",
+      "text": "陆沉渊眼神冷漠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0180",
+      "text": "“命数已定？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0181",
+      "text": "他抬手，掌心灰金色漩涡出现。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0182",
+      "text": "“那是你们写给弱者看的。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0183",
+      "text": "禁制人脸咆哮着扑来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0184",
+      "text": "陆沉渊没有退，直接以掌心按住人脸眉心。万象借势系统轰然运转，前世命数残痕、赤月禁区规则、刚刚显圣积累的震惊值，全部化作一股清算之力。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0185",
+      "text": "【消耗震惊值一千。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0186",
+      "text": "【消耗因果点五十。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0187",
+      "text": "【借势成功。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0188",
+      "text": "陆沉渊五指一收。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0189",
+      "text": "禁制人脸当场崩碎。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0190",
+      "text": "黑色断钉发出刺耳哀鸣，似乎想遁入地底。陆沉渊一脚踏住祭台，另一只手直接握住断钉，将其从石中拔出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0191",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sacrifice_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0192",
+      "text": "禁区深处，一道金黑光柱冲天而起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0193",
+      "text": "禁区线外，原本还在观望的众人再次震动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0194",
+      "text": "“又是陆沉渊？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0195",
+      "text": "“他在禁区里做了什么？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0196",
+      "text": "“刚才赤月显圣还不够，现在连禁区深处都被他撬动了？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0197",
+      "text": "林清雪站在人群边缘，脸色越发苍白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0198",
+      "text": "她不知道陆沉渊在里面看见了什么。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0199",
+      "text": "可那道金黑光柱出现时，她怀中的一封旧信忽然发烫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0200",
+      "text": "那封信，是她进入秘境前从暗线处截下的，上面只有半枚雷纹。她原以为那只是秦无极布置赤月秘境的证据。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0201",
+      "text": "现在她忽然觉得，信纸背后还有更深的血腥味。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0202",
+      "text": "禁区内，陆沉渊将镇命钉收入掌中。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0203",
+      "text": "【已获得前世清算凭证：镇命钉。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0204",
+      "text": "【因果点+三百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0205",
+      "text": "【显圣值+二百。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0206",
+      "text": "【局部追索能力解锁：可追索与镇命钉同源阵器。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0207",
+      "text": "【当前可追索目标：赤月秘境核心血池残阵。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0208",
+      "text": "陆沉渊眼神一寒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0209",
+      "text": "血池残阵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0210",
+      "text": "上一世剥离他命数的地方，竟然在这一世仍有残留。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0211",
+      "text": "那便正好。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0212",
+      "text": "前世的血，不该只留在记忆里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0213",
+      "text": "他要把那座阵翻出来，摆到所有人面前，让该心虚的人先心虚，让该害怕的人先害怕。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0214",
+      "text": "陆沉渊转身走出黑色石林。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0215",
+      "text": "雾气在他身后分开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0216",
+      "text": "当他重新出现在禁区线前时，众人下意识后退。不是因为他气势压人，而是因为他手中那枚黑色断钉散发出的寒意，让每个人都感到心口发紧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0217",
+      "text": "林清雪终于开口：“陆沉渊。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0218",
+      "text": "陆沉渊停步，却没有回头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0219",
+      "text": "她握紧袖中旧信，声音有些发颤：“你在里面……看见了什么？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0220",
+      "text": "陆沉渊侧过脸，目光落在她身上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0221",
+      "text": "那一眼很平静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0222",
+      "text": "平静到林清雪心底发冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0223",
+      "text": "“看见了一封信。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0224",
+      "text": "林清雪脸色瞬间失去血色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0225",
+      "text": "陆沉渊淡淡道：“也看见了一个迟疑的人。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0226",
+      "text": "林清雪嘴唇微动，却说不出话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0227",
+      "text": "她不知道该问哪一封信，也不知道该解释哪一次迟疑。那些她以为可以藏在心底的旧影，此刻像被赤月照穿。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0228",
+      "text": "陆沉渊没有继续追问。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0229",
+      "text": "清算不是争吵。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0230",
+      "text": "他不需要现在逼她认错，也不需要听一段迟来的苦衷。等证据完整，等因果闭合，该落下的账自然会落下。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0231",
+      "text": "“想活着离开秘境，就别再替任何人传话。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0232",
+      "text": "他说完，径直向核心区更深处走去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0233",
+      "text": "林清雪站在原地，指尖发冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0036_b0234",
+      "text": "远处，赤云门残存弟子已经开始逃散。秦无极的人死伤大半，暗线却必然还有。赤月秘境核心血池的位置，很快会成为所有人的焦点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0235",
+      "text": "而陆沉渊要的就是这个焦点。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0236",
+      "text": "万象借势系统在他脑海中列出新的清算账目。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0237",
+      "text": "【当前清算目标一：赤云门参与血池残阵者。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0238",
+      "text": "【当前清算目标二：秦氏暗线雷纹持有者。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0239",
+      "text": "【当前清算目标三：未知高阶因果遮断者。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0240",
+      "text": "【提示：目标三权限不足，暂不可直指。】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0241",
+      "text": "陆沉渊看着前方血雾中的山谷轮廓，低声道：“那就先从前两个开始。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0242",
+      "text": "赤月再次高悬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "sect_trial_realm",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0243",
+      "text": "禁区线后，前世残影散尽。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0244",
+      "text": "但陆沉渊知道，那些影子不是过去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0036_b0245",
+      "text": "它们是账本上尚未划掉的名字。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_battlefield",
+      "characters": []
+    },
+    {
+      "id": "ch0036_b0246",
+      "text": "而这一世，他回来的意义，就是让每一个欠账的人，亲眼看见清算降临。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": []
+    }
+  ]
+}

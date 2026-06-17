@@ -1,0 +1,1638 @@
+{
+  "id": "ch0003",
+  "index": 3,
+  "title": "第三章 族规如刀",
+  "beatCount": 182,
+  "beats": [
+    {
+      "id": "ch0003_b0001",
+      "text": "演武场死寂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0002",
+      "text": "陆川像一滩烂泥般砸在青石边缘，胸口起伏微弱，嘴角血沫一股股往外冒。那枚爆血丹的药力还未散尽，他皮肤下血筋乱跳，整个人却再也爬不起来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0003",
+      "text": "陆沉渊站在场中，衣袖猎猎，掌心未染一滴血。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0004",
+      "text": "刚才那一掌，干净得像随手拂尘。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "rebirth_room",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0005",
+      "text": "观礼席上，林清雪眸光微凝，指尖轻轻扣住茶盏边沿。她来陆家，不过是看一场小城家族大比，顺便确认那纸婚约是否还有存在的必要。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0003_b0006",
+      "text": "可现在，她第一次认真看向陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0007",
+      "text": "“此战，陆沉渊胜。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0008",
+      "text": "执事长老的声音刚落，陆承远猛地起身。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0009",
+      "text": "“慢着！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0010",
+      "text": "这一声像铁钉砸进场中，众人心口一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0011",
+      "text": "陆承远脸色阴沉，目光死死盯着陆沉渊，像要把他身上剜出一个答案来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0012",
+      "text": "陆川是他这一脉推出来的棋子。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0013",
+      "text": "裂山拳、爆血丹、场外暗令，他都安排好了。原本今日之后，陆沉渊这个废物少主便会彻底钉死在耻辱柱上，少主令也会顺势交出。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0014",
+      "text": "可现在，陆川败了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0015",
+      "text": "还是当着全族、外客、青岚城各家眼线的面，被陆沉渊一掌抽飞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0016",
+      "text": "“陆沉渊。”陆承远一字一顿，“你修为多年不进，昨夜还是开脉三重，今日却能一指破裂山拳，一掌压下爆血丹。你敢说，这里面没有鬼？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0017",
+      "text": "哗！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0018",
+      "text": "人群炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0019",
+      "text": "“昨夜还是开脉三重？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0020",
+      "text": "“陆沉渊这些年确实没动静。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0021",
+      "text": "“这提升也太离谱了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0022",
+      "text": "族老席上，三族老陆明岳拄杖起身，声音阴冷：“家族大比，最忌外道邪术。若有人以邪法乱我陆家根基，此战不但不能算，还要废其修为，押入地牢审问！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0023",
+      "text": "“邪术”二字一出，演武场风向骤变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0024",
+      "text": "不少族人看向陆沉渊的眼神变了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0025",
+      "text": "强，可以让人敬畏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0026",
+      "text": "来路不明的强，却会让人恐惧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0027",
+      "text": "陆承远要的就是这份恐惧。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0028",
+      "text": "他一步踏下高台，灵压铺开，青石地面咔咔作响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0029",
+      "text": "“陆沉渊，你若清白，便跪下受查！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0030",
+      "text": "陆沉渊抬眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0031",
+      "text": "“跪下？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0032",
+      "text": "他笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0033",
+      "text": "那笑声不高，却像刀锋贴着骨头划过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0034",
+      "text": "“陆承远，你是什么身份，也配让我跪？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0035",
+      "text": "陆承远脸色一沉：“放肆！我是陆家大长老！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0036",
+      "text": "“那我是谁？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0037",
+      "text": "陆沉渊从腰间取出少主令，黑金令牌在日光下冷光森森。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0038",
+      "text": "“陆家少主，族长陆镇南亲封，祖祠留名，族谱记印。大长老见少主，按族规，应该先行半礼。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0039",
+      "text": "他一步上前，令牌扬起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0040",
+      "text": "“你礼呢？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0041",
+      "text": "全场一静。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0042",
+      "text": "陆承远眼角狠狠抽动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0043",
+      "text": "族规摆在那里，谁都知道。只是这些年陆沉渊势弱，少主之名早被人当成笑话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0044",
+      "text": "笑话被人踩，没人管。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0045",
+      "text": "可笑话一旦站起来，族规便成了刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0046",
+      "text": "陆沉渊目光扫过族老席：“三族老说邪法乱族，要废修为入地牢。很好，我问你，陆家族规第七卷第三条，审少主，需几位族老联印？需不需要族中百人见证？需不需要先验灵根、验血脉、验功法痕迹？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0047",
+      "text": "三族老脸色微变。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0048",
+      "text": "陆沉渊声音更冷：“答不上来？我替你答。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0049",
+      "text": "“审少主，需五族老联印，执法堂、祖祠、主脉三方同在。未验明前，任何人不得以私刑压人。违者，视同谋逆宗脉。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0050",
+      "text": "谋逆宗脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0051",
+      "text": "四个字砸下去，连陆承远都沉默了一瞬。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0052",
+      "text": "陆沉渊转头看向执事长老：“陆川大比服爆血丹，众目睽睽，按族规如何处置？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0053",
+      "text": "执事长老嘴唇发干。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0054",
+      "text": "他看了一眼陆承远，又看了一眼陆沉渊手里的少主令，艰难开口：“大比服禁丹者，废当场名次，禁足三年，追查丹源。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0055",
+      "text": "“追查丹源。”陆沉渊重复了一遍，目光落在陆承远身上，“那为何没人查？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0056",
+      "text": "陆承远冷声道：“现在说的是你！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0057",
+      "text": "“我说的也是我。”陆沉渊踏前一步，“他服禁丹都打不过我，所以你们说我有邪术。若我被他打死，是不是就叫陆川天赋异禀？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0058",
+      "text": "人群里有人低笑，又立刻憋住。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0059",
+      "text": "陆承远脸色铁青。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0060",
+      "text": "系统提示在陆沉渊脑海响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0061",
+      "text": "【震惊值+180】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0062",
+      "text": "【震惊值+230】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0063",
+      "text": "【因果点+1】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0064",
+      "text": "陆沉渊眼底掠过一抹寒光。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "causality_debt_ledger",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0065",
+      "text": "万象借势系统果然不是只看拳头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0066",
+      "text": "借势，借的是人心，借的是规矩，借的是众目睽睽下谁也不敢撕破的皮。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0067",
+      "text": "陆承远压着怒意：“牙尖嘴利不能证明清白。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0068",
+      "text": "“那就验。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0069",
+      "text": "陆沉渊转身，指向演武场中央那座古老石碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0070",
+      "text": "测灵碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0071",
+      "text": "陆家子弟入武、晋阶、大比前后，都可用它测灵力气息。是否邪术，是否外来阴煞，是否血脉不稳，一测便知。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0072",
+      "text": "“请测灵碑。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0073",
+      "text": "四字落下，全场又是一震。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0074",
+      "text": "陆承远眼神一凝。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0075",
+      "text": "他没想到陆沉渊敢主动验。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0076",
+      "text": "三族老立刻道：“测灵碑只能测灵力，邪术未必显形。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0077",
+      "text": "陆沉渊看都不看他：“那你刚才凭什么定我邪术？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0078",
+      "text": "三族老被噎得脸色发紫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0079",
+      "text": "“若测灵碑无异，诸位是不是要当众还我清白？”陆沉渊道，“若测出邪煞，我自入地牢。若测不出，却还有人强扣邪术之名，那我便请祖祠开族审。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0080",
+      "text": "祖祠开族审！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0081",
+      "text": "这是陆家最高审断。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0082",
+      "text": "一旦开审，所有族老、分支、执法堂都要入祠堂立誓。谁撒谎，谁承责。轻则除名，重则断脉。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0083",
+      "text": "陆承远眸子骤冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0084",
+      "text": "他不能让事情闹到祖祠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0085",
+      "text": "至少现在不能。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0086",
+      "text": "“好。”陆承远咬牙，“测。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0087",
+      "text": "执事长老连忙命人开启测灵碑。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0088",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0089",
+      "text": "石碑底部灵纹亮起，灰白碑身浮现一圈圈青芒。十余名执事同时结印，碑前气流旋转，像一只张开的巨眼。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0090",
+      "text": "陆沉渊走上前。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0091",
+      "text": "陆家子弟屏住呼吸。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0092",
+      "text": "林清雪也坐直了些。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0003_b0093",
+      "text": "陆沉渊抬手，掌心按上碑面。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0094",
+      "text": "冰冷触感刺入皮肉，下一瞬，测灵碑震动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0095",
+      "text": "一道青光从底部冲起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0096",
+      "text": "开脉四重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0097",
+      "text": "众人尚未反应，青光又涨。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0098",
+      "text": "开脉五重。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0099",
+      "text": "轰！",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0100",
+      "text": "碑身光芒大盛，灵纹一层层展开，最后停在开脉六重边缘，凝成一片纯净金芒。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0101",
+      "text": "没有黑气。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0102",
+      "text": "没有阴煞。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0103",
+      "text": "没有外道痕迹。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0104",
+      "text": "只有纯净得近乎刺眼的陆家血脉气息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0105",
+      "text": "执事长老愣了好几息，才颤声道：“测灵碑显示，陆沉渊，开脉五重巅峰，灵力纯净，无邪煞，无外道附骨，无血脉污染。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0106",
+      "text": "“无邪煞！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0107",
+      "text": "“开脉五重巅峰？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0108",
+      "text": "“昨夜到今日，连破两重？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0109",
+      "text": "“这不是邪术，这是天赋回来了吧！”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0110",
+      "text": "议论声像潮水炸开。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "ancient_world_gate",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0111",
+      "text": "陆承远眼皮狂跳。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0112",
+      "text": "三族老猛地一拍扶手：“不可能！再测一次！”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0113",
+      "text": "陆沉渊回头看他：“族规里写了，不服测灵碑，可请祖祠骨镜复验。三族老，你要请吗？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0114",
+      "text": "三族老张口，却没敢接。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0115",
+      "text": "请祖祠骨镜，就不是查陆沉渊一个人那么简单了。陆镇南留下的主脉印记、少主令、族库账册，都会被牵出来。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0116",
+      "text": "陆承远冷冷道：“测灵碑无邪，不代表没有其他手段。你提升诡异，仍需禁足三日，待族老会详查。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0117",
+      "text": "“禁足？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0118",
+      "text": "陆沉渊缓缓收回手。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0119",
+      "text": "“陆承远，我刚才给你脸，你不要，那我就不按你的话说了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0120",
+      "text": "他转身面向全场，声音骤然拔高。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0121",
+      "text": "“陆家大比，陆川服爆血丹，违禁在先；败后大长老一脉不查丹源，反扣少主邪术；测灵碑已证清白，仍要禁足胜者。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0122",
+      "text": "“诸位族人，外客，林家小姐，今日此事，你们都看见了。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0123",
+      "text": "林清雪眸光微动。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0003_b0124",
+      "text": "陆沉渊这是把她也拉进了见证人里。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0125",
+      "text": "陆承远怒喝：“你敢裹挟外客？”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0126",
+      "text": "“我只是说事实。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0127",
+      "text": "陆沉渊抬起少主令：“陆家族规第九卷，大比结果由执事堂当场宣布，三息内无人拿出实证，结果入册。现在，陆川败，我胜。谁反对，拿证据。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0128",
+      "text": "一息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0129",
+      "text": "没人出声。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0130",
+      "text": "二息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0131",
+      "text": "陆承远指节捏得发白。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0132",
+      "text": "三息。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0133",
+      "text": "陆沉渊看向执事长老：“入册。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0134",
+      "text": "执事长老额头冷汗直冒，笔尖迟迟不落。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0135",
+      "text": "陆沉渊淡淡道：“你不写，我请祖祠查你。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0136",
+      "text": "啪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0137",
+      "text": "笔落纸上。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0138",
+      "text": "“陆家大比，陆沉渊胜陆川，名次晋首。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0139",
+      "text": "这一笔落下，人群彻底沸腾。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0140",
+      "text": "【震惊值+560】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0141",
+      "text": "【震惊值+780】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0142",
+      "text": "【显圣值+1】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0143",
+      "text": "【因果点+2】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "causality_debt_ledger",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0144",
+      "text": "陆沉渊脑海中系统提示连响。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0145",
+      "text": "他没有半分喜色。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0146",
+      "text": "因为他看见陆承远眼中的杀意，比刚才更重了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0147",
+      "text": "陆承远忽然笑了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0148",
+      "text": "“好，好一个少主。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0149",
+      "text": "他退回高台，声音压得极低，却足够让周围几人听清。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0150",
+      "text": "“陆镇南失踪多年，你以为一块令牌还能护你多久？”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0151",
+      "text": "陆沉渊抬眸：“至少今日，它能压住你。”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0152",
+      "text": "陆承远脸上的笑意瞬间凝固。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0153",
+      "text": "这一刻，陆沉渊身上的气势不像一个刚胜大比的少年。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0154",
+      "text": "更像一把重新出鞘的旧刀。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0155",
+      "text": "陆家年轻一辈看他的眼神，第一次从轻蔑变成敬畏。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "shock_value_surge",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0156",
+      "text": "陆川被抬下去时，忽然睁开血红的眼，喉咙里发出含糊的嘶吼：“陆沉渊……你活不过今晚……祠堂……他们在祠堂……”",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan",
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0157",
+      "text": "声音未落，陆承远袖中一道微不可察的灵光闪过。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0158",
+      "text": "陆川脖颈一僵，眼神瞬间涣散。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0159",
+      "text": "陆沉渊目光骤冷。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0160",
+      "text": "他看见了。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0161",
+      "text": "那不是止血术。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0162",
+      "text": "是灭口。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0163",
+      "text": "陆承远也看着他，嘴角带着一丝冰冷警告。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0164",
+      "text": "演武场的欢呼声仍在继续，没人注意到陆川最后那句话。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0165",
+      "text": "除了陆沉渊。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0166",
+      "text": "还有林清雪。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lin_qingxue"
+      ]
+    },
+    {
+      "id": "ch0003_b0167",
+      "text": "她放下茶盏，眼神第一次变得复杂。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0168",
+      "text": "陆沉渊没有追过去。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lin_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0169",
+      "text": "现在追，只会被陆承远拖进另一场局。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chengyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0170",
+      "text": "他低头看向掌心少主令。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0171",
+      "text": "原本冰冷的黑金令牌，此刻竟微微发烫。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0172",
+      "text": "一道细如血丝的纹路从令牌背面亮起，缓缓游走，最后凝成一个方向。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0173",
+      "text": "陆沉渊抬头。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0174",
+      "text": "那方向，正对陆家最深处。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0175",
+      "text": "祖祠。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0176",
+      "text": "令牌越来越烫，几乎要灼穿掌心。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "clan_stage",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0177",
+      "text": "同时，系统冰冷提示响起。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0178",
+      "text": "【检测到主脉封印残痕】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0179",
+      "text": "【因果链触发：陆镇南遗留之局】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_mission_panel",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0180",
+      "text": "【建议宿主立刻前往祖祠】",
+      "kind": "system",
+      "speaker": "万象借势系统",
+      "background": "system_interface",
+      "characters": []
+    },
+    {
+      "id": "ch0003_b0181",
+      "text": "陆沉渊握紧少主令，嘴角勾起一抹寒意。",
+      "kind": "narration",
+      "speaker": "",
+      "background": "lu_family_hall",
+      "characters": [
+        "lu_chenyuan"
+      ]
+    },
+    {
+      "id": "ch0003_b0182",
+      "text": "“祠堂么。”",
+      "kind": "dialogue",
+      "speaker": "陆沉渊",
+      "background": "lu_family_hall",
+      "characters": []
+    }
+  ]
+}
